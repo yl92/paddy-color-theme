@@ -1,7 +1,7 @@
 {
-    "name": "leipzig-color-theme",
-    "displayName": "Leipzig Color Theme",
-    "description": "Leipzig Color Theme",
+    "name": "paddy-color-theme",
+    "displayName": "Paddy Color Theme",
+    "description": "Paddy Color Theme",
     "version": "0.5.0",
     "engines": {
         "vscode": "^1.38.0"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Leipzig",
+                "label": "Paddy",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Leipzig-color-theme.json"
+                "path": "./themes/Paddy-color-theme.json"
             }
         ]
     }
