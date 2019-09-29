@@ -93,17 +93,18 @@
 		
 		"activityBar.background": "#080c0c",
 		"activityBar.foreground": "#cfb5a9",
+		"activityBar.border": "#1d252555",
 		"activityBar.inactiveForeground": "#cfb5a977",
-		"activityBarBadge.background": "#284252",
+		"activityBarBadge.background": "#5f3f16",
 
-		"sideBar.background": "#0e1313",
-		"sideBar.border": "#1d2525",
+		"sideBar.background": "#080c0c",
+		"sideBar.border": "#0000",
 		"sideBar.foreground": "#86776f",
 		"sideBarTitle.foreground": "#cfb5a9",
 		"sideBarSectionHeader.background": "#111616",
 		"sideBarSectionHeader.border": "#0000",
 
-		"statusBar.background": "#0e1313",
+		"statusBar.background": "#080c0c",
 		"statusBar.foreground": "#cfb5a9",
 		"statusBar.debuggingBackground": "#071114",
 		"statusBar.noFolderBackground": "#071114",
@@ -362,7 +363,7 @@
 		{
 			"name": "Keyword Control & Meta Tag",
 			"scope": [
-				"keyword.control punctuation.definition.keyword.scss",
+				"keyword.control punctuation.definition.keyword.css",
 				"keyword.control",
 				"meta.tag",
 			],
