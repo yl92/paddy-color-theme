@@ -1,21 +1,28 @@
 {
-    "name": "paddy-color-theme",
-    "displayName": "Paddy Color Theme",
-    "description": "Paddy Color Theme",
-    "version": "0.5.0",
-    "engines": {
-        "vscode": "^1.38.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Paddy",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Paddy-color-theme.json"
-            }
-        ]
-    }
+	"name": "paddy-color-theme",
+	"displayName": "Paddy Color Theme",
+	"description": "Paddy Color Theme",
+	"version": "0.5.0",
+	"publisher": "yile-ou",
+	"repository": "https://github.com/troydraws/paddy-color-theme",
+	"engines": {
+		"vscode": "^1.38.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Paddy",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Paddy-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "803fc541-0a71-4674-86ff-3ac171a963d0",
+		"publisherDisplayName": "Yile",
+		"publisherId": "8df3871a-5dbc-45cb-943b-a8195a1ce195"
+	}
 }
