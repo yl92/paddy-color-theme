@@ -1,0 +1,21 @@
+{
+    "name": "leipzig-color-theme",
+    "displayName": "Leipzig Color Theme",
+    "description": "Leipzig Color Theme",
+    "version": "0.5.0",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Leipzig",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Leipzig-color-theme.json"
+            }
+        ]
+    }
+}
