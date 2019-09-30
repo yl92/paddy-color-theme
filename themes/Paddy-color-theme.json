@@ -116,7 +116,26 @@
 		"panelTitle.activeForeground": "#cfb5a9",
 		"panelTitle.inactiveForeground": "#cfb5a966",
 		"terminal.background": "#0e1313",
-		"terminal.foreground": "#cfb5a9",
+    "terminal.foreground": "#cfb5a9",
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiBrightBlack": "#151616",
+    "terminal.ansiBlue": "#3465a5",
+    "terminal.ansiBrightBlue": "#3a89d3",
+    "terminal.ansiCyan": "#08a087",
+    "terminal.ansiBrightCyan": "#1bdfbe",
+    "terminal.ansiGreen": "#068020",
+    "terminal.ansiBrightGreen": "#1b9e47",
+    "terminal.ansiMagenta": "#c40b48",
+    "terminal.ansiBrightMagenta": "#ff246d",
+    "terminal.ansiRed": "#b61702",
+    "terminal.ansiBrightRed": "#d43e2a",
+    "terminal.ansiWhite": "#cfb5a9",
+    "terminal.ansiBrightWhite": "#fae8e0",
+    "terminal.ansiYellow": "#d37d0d",
+    "terminal.ansiBrightYellow": "#ff9b18",
+    "terminal.selectionBackground": "#31925d2d",
+    "terminalCursor.background": "#31925d55",
+    "terminalCursor.foreground": "#31925d",
 
 		"menu.background": "#0b1314",
 		"menu.foreground": "#cfb5a9",
@@ -125,7 +144,7 @@
 		"menu.separatorBackground": "#cfb5a907",
 
 		"list.focusBackground": "#3BAB8725",
-		"list.focusForeground": "#cfb5a9",
+		"list.focusForeground": "#e9ded9",
 		"list.activeSelectionBackground": "#cfb5a944",
 		"list.activeSelectionForeground": "#cfb5a9",
 		"list.inactiveSelectionBackground": "#cfb5a911",
@@ -378,7 +397,7 @@
 				"keyword.control.conditional",
 			],
 			"settings": {
-				"foreground": "#41c085"
+				"foreground": "#69a092"
 			}
 		},
 		{
@@ -473,7 +492,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#c74731"
+				"foreground": "#be4c29"
 			}
 		},
 		{
@@ -604,7 +623,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#f58534"
+				"foreground": "#d87c3a"
 			}
 		},
 		{
@@ -792,7 +811,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#53ac69"
 			}
 		},
 		// {
@@ -857,7 +876,47 @@
 			"settings": {
 				"foreground": "#c07947"
 			}
-		},
+    },
+    {
+      "name": "JS Object keys inside of constructors",
+      "scope": [
+        "source.js constant.other.object.key.js string",
+      ],
+      "settings": {
+        // "fontStyle": "italic",
+        "foreground": "#bba38f"
+      }
+    },
+		{
+			"name": "Vue HTML Attributes",
+			"scope": [
+				"source.vue text.html.vue-html string",
+			],
+			"settings": {
+				// "fontStyle": "italic",
+				"foreground": "#d4b49a"
+			}
+    },
+    {
+      "name": "VUE Bindings",
+      "scope": [
+        "source.directive.vue variable",
+      ],
+      "settings": {
+        // "fontStyle": "italic",
+        "foreground": "#e9dfcc"
+      }
+    },
+    {
+      "name": "VUE embedded expressions",
+      "scope": [
+        "expression.embedded.vue variable",
+      ],
+      "settings": {
+        // "fontStyle": "italic",
+        "foreground": "#e9dfcc"
+      }
+    },
 		// {
 		// 	"name": "HTML Attributes",
 		// 	"scope": [
