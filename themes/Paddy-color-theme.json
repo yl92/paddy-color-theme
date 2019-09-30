@@ -357,7 +357,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#766b9c"
+				"foreground": "#8e7b92"
 			}
 		},
 		{
@@ -372,14 +372,22 @@
 			}
 		},
 		{
-			"name": "Keyword Control Conditional, Loop",
+			"name": "Keyword Control Conditional & Python loops",
 			"scope": [
 				"keyword.control.flow.python",
 				"keyword.control.conditional",
-				"keyword.control.loop",
 			],
 			"settings": {
 				"foreground": "#41c085"
+			}
+		},
+		{
+			"name": "Keyword Control Loops",
+			"scope": [
+				"keyword.control.loop",
+			],
+			"settings": {
+				"foreground": "#bbb958"
 			}
 		},
 		{
@@ -657,7 +665,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic underline",
-				"foreground": "#d89e20"
+				"foreground": "#c99d3f"
 			}
 		},
 		{
@@ -698,7 +706,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#aa6b19"
+				"foreground": "#9c5d0b"
 			}
 		},
 		{
@@ -711,7 +719,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#16b867"
+				"foreground": "#ca8a12"
 			}
 		},
 		{
