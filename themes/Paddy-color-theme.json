@@ -482,20 +482,6 @@
 			}
 		},
 		{
-			"name": "Function, Special Method",
-			"scope": [
-				"entity.name.function",
-				"meta.function-call",
-				"variable.function",
-				"support.function",
-				"keyword.other.special-method"
-			],
-			"settings": {
-				"fontStyle": "",
-				"foreground": "#be4c29"
-			}
-		},
-		{
 			"name": "Keyword Other",
 			"scope": [
 				"keyword.other",
@@ -639,7 +625,6 @@
 		{
 			"name": "Class, Support",
 			"scope": [
-				"entity.name",
 				"support.type",
 				"support.class",
 				"support.orther.namespace.use.php",
@@ -655,13 +640,29 @@
 		{
 			"name": "Class Names",
 			"scope": [
-				"entity.name",
+				"entity.name.property",
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#be9233"
+        "foreground": "#be9233"
 			}
-		},
+    },
+    {
+      "name": "Function, Special Method",
+      "scope": [
+        "entity.name.function",
+        "meta.definition.method",
+        "meta.method.declaration",
+        "meta.function-call",
+        "variable.function",
+        "support.function",
+        "keyword.other.special-method"
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#be4c29"
+      }
+    },
 		{
 			"name": "Typescript: Type",
 			"scope": [
@@ -1427,5 +1428,5 @@
 				"foreground": "#cfb5a9"
 			}
 		}
-	]
+  ],
 }
