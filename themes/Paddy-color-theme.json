@@ -269,7 +269,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#a85751"
+				"foreground": "#b44c45"
 			}
 		},
 		// {
@@ -291,7 +291,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#a85751"
+				"foreground": "#af453d"
 			}
 		},
 		// {
@@ -450,16 +450,6 @@
 			}
 		},
 		{
-			"name": "support.class.error",
-			"scope": [
-				"support.class.error",
-			],
-			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#d32e11"
-			}
-		},
-		{
 			"name": "Tag",
 			"scope": [
 				"entity.name.tag",
@@ -531,15 +521,6 @@
 			],
 			"settings": {
 				"foreground": "#2db889"
-			}
-		},
-		{
-			"name": "Variable Parameter",
-			"scope": [
-				"variable.parameter",				
-			],
-			"settings": {
-				"foreground": "#b4a097"
 			}
 		},
 		{
@@ -619,7 +600,7 @@
 				"meta.tag.attributes string.quoted"
 			],
 			"settings": {
-				"foreground": "#d6b386"
+				"foreground": "#d3a569"
 			}
 		},
 		{
@@ -634,7 +615,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#c46c43"
+				"foreground": "#a8a769"
 			}
 		},
 		{
@@ -661,6 +642,56 @@
       "settings": {
         "fontStyle": "",
         "foreground": "#be4c29"
+      }
+    },
+    {
+      "name": "variable.other.property",
+      "scope": [
+        "variable.other.property",
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#bba18c"
+      }
+    },
+    {
+      "name": "variable.parameter",
+      "scope": [
+        "variable.parameter",
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#c99b51"
+      }
+    },
+    {
+      "name": "variable.other.readwrite",
+      "scope": [
+        "variable.other.readwrite",
+      ],
+      "settings": {
+        "foreground": "#94976b"
+      }
+    },
+    {
+      "name": "support.class.error",
+      "scope": [
+        "variable.other.readwrite support.class.error",
+        "support.class.error",
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#d32e11"
+      }
+    },
+    {
+      "name": "variable.other.constant",
+      "scope": [
+        "variable.other.constant",
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#b86844"
       }
     },
 		{
