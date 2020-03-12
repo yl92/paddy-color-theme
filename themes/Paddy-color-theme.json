@@ -225,16 +225,6 @@
 			}
 		},
 		{
-			"name": "variable.other.constant",
-			"scope": [
-				"variable.other.constant",
-			],
-			"settings": {
-				// "fontStyle": "bold",
-				// "foreground": "#cfb5a9"
-			}
-		},
-		{
 			"name": "Colors",
 			"scope": [
 				"constant.other.color"
@@ -269,9 +259,18 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#b44c45"
+				"foreground": "#aa5d57"
 			}
-		},
+    },
+    {
+      "name": "keyword.operator.expression.of",
+      "scope": [
+        "keyword.operator.expression.of",
+      ],
+      "settings": {
+        "foreground": "#BBB958"
+      }
+    },
 		// {
 		// 	"name": "Storage Type: interface, type, class etc.",
 		// 	"scope": [
@@ -327,7 +326,7 @@
 		{
 			"name": "Array",
 			"scope": [
-				"meta.brace.square.tsx",
+				"meta.brace.square",
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -670,7 +669,17 @@
         "variable.other.readwrite",
       ],
       "settings": {
-        "foreground": "#94976b"
+        "foreground": "#b48f6b"
+      }
+    },
+    {
+      "name": "special constants (console, JSON, Math etc.)",
+      "scope": [
+        "support.class",
+        "support.constant",
+      ],
+      "settings": {
+        "fontStyle": "bold",
       }
     },
     {
@@ -685,13 +694,23 @@
       }
     },
     {
+      "name": "meta.decorator",
+      "scope": [
+        "meta.decorator",
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#7ea08b"
+      }
+    },
+    {
       "name": "variable.other.constant",
       "scope": [
         "variable.other.constant",
       ],
       "settings": {
-        "fontStyle": "bold",
-        "foreground": "#b86844"
+        // "fontStyle": "bold",
+        "foreground": "#7ea08b"
       }
     },
 		{
@@ -857,6 +876,16 @@
 		// 	}
 		// },
 		{
+			"name": "variable.language.this",
+			"scope": [
+				"variable.language.this"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#9b7c62"
+			}
+		},
+		{
 			"name": "entity.name.method.js",
 			"scope": [
 				"entity.name.method.js"
@@ -874,7 +903,7 @@
 			],
 			"settings": {
 				// "fontStyle": "italic",
-				"foreground": "#6b947c"
+				"foreground": "#7ea08b"
 			}
 		},
 		{
