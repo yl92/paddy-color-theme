@@ -1,11 +1,16 @@
 # Change Log
 
-All notable changes to the "leipzig-color-theme" extension will be documented in this file.
+## [0.7.4] - 2020-03-12
+- Adjusted conditional token color to help discern from new light blue constants
+- JSON color updates
 
-## [0.7.1] - 2019-09-30
+## [0.7.3] - 2020-03-12
+- Adjusted styles to support the new semantic highlighting
+
+## [0.7.2] - 2019-10-04
 - Added Medium Gray variation
 
-## [0.7.0] - 2019-09-30
+## [0.7.0] - 2019-10-03
 - Added terminal colors
 - Vue coloring optimisations
 

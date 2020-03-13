@@ -2,12 +2,12 @@
 	"name": "paddy-color-theme",
 	"displayName": "Paddy Color Theme",
 	"description": "Paddy Color Theme",
-	"version": "0.7.1",
+	"version": "0.7.4",
 	"publisher": "yile-ou",
 	"author": {
 		"name": "Yile Ou",
 		"email": "troy.yile@gmail.com",
-		"url": "http://yile.art/"
+		"url": "https://yile.art/"
 	},
 	"repository": "https://github.com/troydraws/paddy-color-theme",
 	"engines": {

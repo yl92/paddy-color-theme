@@ -396,7 +396,7 @@
 				"keyword.control.conditional",
 			],
 			"settings": {
-				"foreground": "#69a092"
+				"foreground": "#5bb177"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#0d8b5d"
+				"foreground": "#0e9154"
 			}
 		},
 		{
@@ -600,6 +600,16 @@
 			],
 			"settings": {
 				"foreground": "#d3a569"
+			}
+		},
+		{
+			"name": "support.function.construct.output",
+			"scope": [
+				"support.function.construct.output",
+			],
+			"settings": {
+        "fontStyle": "italic",
+				"foreground": "#69a097"
 			}
 		},
 		{
@@ -817,6 +827,7 @@
 				"source.postcss support.constant.property-value.css"
 			],
 			"settings": {
+        "fontStyle": "",
 				"foreground": "#cca596"
 			}
 		},
@@ -1199,7 +1210,7 @@
 				"source.json string",
 			],
 			"settings": {
-				"foreground": "#c97f2c",
+				"foreground": "#d87034",
 			}
 		},
 		{
@@ -1209,7 +1220,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#ceac6d"
+				"foreground": "#76b379"
 			}
 		},
 		{
@@ -1219,7 +1230,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#a39780"
+				"foreground": "#c28c7b"
 			}
 		},
 		{
@@ -1239,7 +1250,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#df465f"
+				"foreground": "#ca8e33"
 			}
 		},
 		{
@@ -1249,7 +1260,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#9aa154"
+				"foreground": "#adb462"
 			}
 		},
 		{
@@ -1259,7 +1270,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#5bc085"
+				"foreground": "#3fad6d"
 			}
 		},
 		{
@@ -1269,7 +1280,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#6faf44"
+				"foreground": "#3aa33a"
 			}
 		},
 		{
@@ -1279,7 +1290,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#c4601e"
+				"foreground": "#ad4120"
 			}
 		},
 		{
@@ -1289,7 +1300,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#77a8a0"
+				"foreground": "#849996"
 			}
 		},
 		{
