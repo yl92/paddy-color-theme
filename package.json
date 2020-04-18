@@ -2,7 +2,7 @@
 	"name": "paddy-color-theme",
 	"displayName": "Paddy Color Theme",
 	"description": "Paddy Color Theme",
-	"version": "0.7.4",
+  "version": "0.8.0",
 	"publisher": "yile-ou",
 	"author": {
 		"name": "Yile Ou",
@@ -10,7 +10,8 @@
 		"url": "https://yile.art/"
 	},
 	"repository": "https://github.com/troydraws/paddy-color-theme",
-	"engines": {
+  "icon": "https://raw.githubusercontent.com/troydraws/paddy-color-theme/master/icon.png",
+  "engines": {
 		"vscode": "^1.38.0"
 	},
 	"categories": [
