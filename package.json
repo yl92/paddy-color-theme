@@ -10,7 +10,7 @@
 		"url": "https://yile.art/"
 	},
 	"repository": "https://github.com/troydraws/paddy-color-theme",
-  "icon": "https://raw.githubusercontent.com/troydraws/paddy-color-theme/master/icon.png",
+  "icon": "https://raw.githubusercontent.com/troydraws/paddy-color-theme/master/paddy-icon.png",
   "engines": {
 		"vscode": "^1.38.0"
 	},

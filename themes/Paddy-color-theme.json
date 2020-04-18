@@ -460,7 +460,7 @@
         "keyword.control.as",
       ],
       "settings": {
-        "foreground": "#704114"
+        "foreground": "#7c4b1d"
       }
     },
     {
@@ -614,7 +614,7 @@
         "keyword.other.unit.rem",
       ],
       "settings": {
-        "foreground": "#ca931b"
+        "foreground": "#b8b655"
       }
     },
     {
@@ -644,7 +644,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#414e4a"
+        "foreground": "#67726e"
       } 
     },
     {
