@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.9.0] - 2020-08-23
+## [0.9.1] - 2020-08-23
 Added a brighter, more saturated version named Emerald 🌲
 Updated preview image to reflect all three
 
