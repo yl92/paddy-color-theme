@@ -1,11 +1,14 @@
 # Paddy the Lumberjack
 
-A warm and earthy VS Code color theme for all the badass coders 🌲🍁🪓
+**A warm and earthy VS Code color theme for all the badass coders. 🌲🍁🪓**
 
-This theme uses italics frequently - make sure to check out [IBM Plex](https://www.ibm.com/plex/) [Mono] if you haven't. It has some _satisfabulastic_ designs for the italics. Have not stumbled upon any better fonts for coding so far.
+Consists of a default dark theme, a new saturated option Emerald, and a third version with a desaturated gray background for a slightly washed-out retro look.
 
-The author codes in TypeScript React & SCSS mostly - so expect a little more love for these two buddies compared to other languages/setups! If you'd like certain bits of this theme updated feel free to give me a shout on [Twitter](https://twitter.com/yile_art).
+This theme uses abundant amount of italics, mostly to represent actions (such as function calls or variable assignments) and TypeScript definitions/annotations (with underscores). 
+Fonts recommended:
+- **IBM Plex Mono**: Satisfying italics! [[Official Site](https://www.ibm.com/plex/)] • [[Google Fonts](https://fonts.google.com/specimen/IBM+Plex+Mono)]
+- **DM Mono**: [Google Fonts](https://fonts.google.com/specimen/DM+Mono)
 
-![preview-image](https://raw.githubusercontent.com/troydraws/paddy-color-theme/master/paddy-color-theme-preview.png)
+![preview-image](https://raw.githubusercontent.com/troydraws/paddy-color-theme/master/paddy-color-theme-preview-compressed.gif)
 
-Author: [Yile Ou](https://yile.art/)
+Author: Yile Ou ([Website](https://yile.art/), [Twitter](https://twitter.com/yile_art))

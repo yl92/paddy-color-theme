@@ -298,16 +298,25 @@
         "foreground": "#c76059"
       }
     },
-    // {
-    //   "name": "Storage Type: function",
-    //   "scope": [
-    //     "storage.type.function",
-    //   ],
-    //   "settings": {
-    //     "fontStyle": "italic",
-    //     "foreground": "#8d432d"
-    //   }
-    // },
+    {
+      "name": "Storage Type: enum",
+      "scope": [
+        "storage.type.enum.ts",
+      ],
+      "settings": {
+        "foreground": "#a887af"
+      }
+    },
+    {
+      "name": "Entity Type: enum",
+      "scope": [
+        "entity.name.type.enum.ts",
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#a076b9"
+      }
+    },
     {
       "name": "keyword.operator.expression.of",
       "scope": [
@@ -396,10 +405,11 @@
     {
       "name": "punctuation.section.embedded e.g. <?php ?>",
       "scope": [
-        "punctuation.section.embedded"
+        "punctuation.section.embedded.begin.php",
+        "punctuation.section.embedded.end.php"
       ],
       "settings": {
-        "foreground": "#8e7b92"
+        "foreground": "#95729c"
       }
     },
     {
@@ -584,7 +594,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#8ed1b7"
+        "foreground": "#9871d6"
       }
     },
     {
@@ -624,7 +634,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#7ad457"
+        "foreground": "#38cf4c"
       }
     },
     {
@@ -1180,6 +1190,16 @@
       }
     },
     {
+      "name": "keyword.operator.of",
+      "scope": [
+        "keyword.operator.of",
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#6dddbb"
+      }
+    },
+    {
       "name": "keyword.operator.expression.delete",
       "scope": [
         "keyword.operator.expression.delete",
@@ -1304,6 +1324,25 @@
       ],
       "settings": {
         "foreground": "#53ac69"
+      }
+    },
+    {
+      "name": "variable.other.class.js",
+      "scope": [
+        "variable.other.class.js"
+      ],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "entity.name.type.instance.js",
+      "scope": [
+        "entity.name.type.instance.js",
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#e6b515"
       }
     },
     {

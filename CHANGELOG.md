@@ -1,5 +1,15 @@
 # Change Log
 
+## [0.9.0] - 2020-08-23
+Added a brighter, more saturated version named Emerald 🌲
+Updated preview image to reflect all three
+
+## [0.8.2] - 2020-06-23
+TypeScript enum, php tags, small JS tweaks
+
+## [0.8.1] - 2020-04-25
+Some syntax colors updates
+
 ## [0.8.0] - 2020-04-18
 General syntax/theming updates: a lot more details for TypeScript / TSX / CSS; some details in UI coloring fixed
 
