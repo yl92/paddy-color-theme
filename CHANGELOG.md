@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.9.2] - 2020-08-23
+- Color updates for oddities in semantic highlighting
+- Added Recursive Mono Duotone to the font recommendations
+
 ## [0.9.1] - 2020-08-23
 Added a brighter, more saturated version named Emerald 🌲
 Updated preview image to reflect all three

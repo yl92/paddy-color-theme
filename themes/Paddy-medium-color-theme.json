@@ -228,6 +228,7 @@
         "punctuation.definition.variable",
       ],
       "settings": {
+        "fontStyle": "",
         "foreground": "#dbba9f"
       }
     },
@@ -538,7 +539,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#cf6768"
+        "foreground": "#e29d9e"
       }
     },
     {

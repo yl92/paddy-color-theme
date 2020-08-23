@@ -229,6 +229,7 @@
         "punctuation.definition.variable",
       ],
       "settings": {
+        "fontStyle": "",
         "foreground": "#f5c095"
       }
     },
@@ -399,7 +400,7 @@
         "keyword.operator.ternary",
       ],
       "settings": {
-        "foreground": "#8e59d4"
+        "foreground": "#987ebb"
       }
     },
     {
@@ -539,7 +540,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#cf6768"
+        "foreground": "#d89962"
       }
     },
     {
@@ -810,7 +811,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#b6b567"
+        "foreground": "#d1b361"
       }
     },
     {
