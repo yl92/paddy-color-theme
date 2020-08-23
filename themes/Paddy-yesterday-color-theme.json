@@ -1,11 +1,11 @@
 {
-  "name": "Paddy Medium",
+  "name": "Paddy Yesterday",
   "type": "dark",
   "colors": {
 
     "foreground": "#cfb5a9",
 
-    "editor.background": "#1E2122",
+    "editor.background": "#222729",
     "editor.foreground": "#cfb5a9",
     "editorCursor.background": "#31925d55",
     "editorCursor.foreground": "#32bb70",
@@ -39,11 +39,11 @@
     "activityBar.inactiveForeground": "#cfb5a977",
     "activityBarBadge.background": "#5f3f16",
 
-    "sideBar.background": "#181b1b",
+    "sideBar.background": "#1d2020",
     "sideBar.border": "#0000",
     "sideBar.foreground": "#86776f",
     "sideBarTitle.foreground": "#cfb5a9",
-    "sideBarSectionHeader.background": "#1E2122",
+    "sideBarSectionHeader.background": "#131516",
     "sideBarSectionHeader.border": "#0000",
 
     "statusBar.background": "#111616",
@@ -99,7 +99,7 @@
     "scrollbarSlider.hoverBackground": "#cfb5a917",
     "badge.background": "#123525",
     "badge.foreground": "#e0cbc1",
-    "notifications.background": "#162424",
+    "notifications.background": "#2d3535",
     "notifications.foreground": "#cfb5a9",
     "notifications.border": "#203333",
     "diffEditor.insertedTextBackground": "#3bab881c",
@@ -122,6 +122,7 @@
     "editorSuggestWidget.selectedBackground": "#31925d33",
     "editorSuggestWidget.highlightForeground": "#2e9c60",
     "minimap.findMatchHighlight": "#31925d2a",
+    "minimap.selectionHighlight": "#31925d2a",
     "merge.incomingHeaderBackground": "#da65214b",
     "merge.incomingContentBackground": "#da652123",
     "tree.indentGuidesStroke": "#cfb5a918",
@@ -795,7 +796,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#cf215b"
+        "foreground": "#7367dd"
       }
     },
     {

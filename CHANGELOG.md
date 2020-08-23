@@ -1,4 +1,10 @@
-# Change Log
+# Paddy Color Theme • Changelog
+
+## [0.9.3] - 2020-08-24
+- Added Eggplant Variant 🍆
+- Added Mist Variant 
+- Renamed Medium to Yesterday
+- General small tweaks
 
 ## [0.9.2] - 2020-08-23
 - Color updates for oddities in semantic highlighting

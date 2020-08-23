@@ -1,5 +1,5 @@
 {
-	"name": "Paddy",
+	"name": "Paddy Emerald",
 	"type": "dark",
 	"colors": {
 
@@ -33,7 +33,7 @@
     "tab.activeBackground": "#041a1a",
     "editorGroupHeader.tabsBackground": "#0a1818",
 		
-		"activityBar.background": "#020a09",
+		"activityBar.background": "#011111",
 		"activityBar.foreground": "#e6cec4",
 		"activityBar.border": "#1d252555",
 		"activityBar.inactiveForeground": "#cfb5a977",
@@ -41,12 +41,12 @@
 
 		"sideBar.background": "#071815",
 		"sideBar.border": "#0000",
-		"sideBar.foreground": "#a38c80",
+		"sideBar.foreground": "#d3beb3",
 		"sideBarTitle.foreground": "#f8dacc",
-		"sideBarSectionHeader.background": "#111616",
+		"sideBarSectionHeader.background": "#051311",
 		"sideBarSectionHeader.border": "#0000",
 
-		"statusBar.background": "#010c0c",
+		"statusBar.background": "#010e0e",
 		"statusBar.foreground": "#dbc3b8",
 		"statusBar.debuggingBackground": "#071114",
 		"statusBar.noFolderBackground": "#071114",
@@ -106,7 +106,8 @@
     "diffEditor.insertedTextBorder": "#3bab8848",
     "diffEditor.removedTextBackground": "#b424242a",
     "diffEditor.removedTextBorder": "#b4242448",
-    "editorWidget.background": "#050e0e",
+    
+    "editorWidget.background": "#0f241e",
     "editorWidget.foreground": "#cfb5a9",
     "editorWidget.border": "#203f3f",
     "editorLink.activeForeground": "#20dda1",
@@ -122,6 +123,7 @@
     "editorSuggestWidget.selectedBackground": "#31925d33",
     "editorSuggestWidget.highlightForeground": "#31925d",
     "minimap.findMatchHighlight": "#31925d2a",
+    "minimap.selectionHighlight": "#78d49e52",
     "merge.incomingHeaderBackground": "#da65214b",
     "merge.incomingContentBackground": "#da652123",
     "tree.indentGuidesStroke": "#cfb5a918",
@@ -558,7 +560,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        "foreground": "#a35440"
+        "foreground": "#c5705a"
       }
     },
     {
@@ -920,7 +922,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#7ea08b"
+        "foreground": "#9ac2a9"
       }
     },
     {
@@ -1373,7 +1375,7 @@
         "punctuation.decorator",
       ],
       "settings": {
-        "foreground": "#7ea08b"
+        "foreground": "#93b4a0"
       }
     },
     {
