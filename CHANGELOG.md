@@ -1,5 +1,8 @@
 # Paddy Color Theme • Changelog
 
+## [0.9.5] - 2020-08-24
+- Improvements to the light theme
+
 ## [0.9.4] - 2020-08-24
 - Let there be light
 - Tweaked icon
