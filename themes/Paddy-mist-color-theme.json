@@ -116,7 +116,7 @@
     "textLink.foreground": "#ee7d32",
     "textPreformat.foreground": "#ee6f58",
     "editorWhitespace.foreground": "#cfb5a913",
-    "editor.lineHighlightBackground": "#cfb5a908",
+    "editor.lineHighlightBackground": "#a9cfbc0e",
     "editor.lineHighlightBorder": "#0000",
     "editorLineNumber.activeForeground": "#31925d",
     "editorLineNumber.foreground": "#cfb5a93b",

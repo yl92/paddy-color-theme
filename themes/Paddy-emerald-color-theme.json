@@ -115,7 +115,7 @@
     "textLink.foreground": "#b95715",
     "textPreformat.foreground": "#ee6f58",
     "editorWhitespace.foreground": "#cfb5a913",
-    "editor.lineHighlightBackground": "#cfb5a908",
+    "editor.lineHighlightBackground": "#07e92511",
     "editor.lineHighlightBorder": "#0000",
     "editorLineNumber.activeForeground": "#31925d",
     "editorLineNumber.foreground": "#cfb5a93b",
@@ -188,7 +188,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#5b6158"
+        "foreground": "#cfb5a957"
       }
     },
     {
