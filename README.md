@@ -5,10 +5,11 @@
 Color Variants:
 
 - 🪓 Paddy Dark 
+- 🌞 Paddy Light
 - 🍆 Paddy Eggplant
 - 🌲 Paddy Emerald 
 - 🌥 Paddy Mist
-- 🎮 Paddy Yesterday
+- 🌚 Paddy Yesterday
 
 Tip: You can override Workspace color theme for different project windows in settings > Workspace > Workbench > Appearance > Color Theme
 

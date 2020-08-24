@@ -27,7 +27,7 @@
     "editorInfo.border": "#038033",
     "editorHint.border": "#048b75",
 
-    "titleBar.activeBackground": "#f3e7e2",
+    "titleBar.activeBackground": "#f8efea",
     "titleBar.activeForeground": "#0e1313",
     "titleBar.inactiveBackground": "#ebdbd4",
     "titleBar.inactiveForeground": "#0e131399",
@@ -100,7 +100,7 @@
     "input.background": "#a1c7a149",
     "input.border": "#40856362",
     "input.foreground": "#163a2d",
-    "scrollbarSlider.background": "#e0c9bdee",
+    "scrollbarSlider.background": "#e9d4c9ee",
     "scrollbarSlider.activeBackground": "#e0cabf",
     "scrollbarSlider.hoverBackground": "#e9ddd6ee",
     "scrollbar.shadow": "#917c7356",

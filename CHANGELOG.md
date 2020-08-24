@@ -1,5 +1,9 @@
 # Paddy Color Theme • Changelog
 
+## [0.9.4] - 2020-08-24
+- Let there be light
+- Tweaked icon
+
 ## [0.9.3] - 2020-08-24
 - Added Eggplant Variant 🍆
 - Added Mist Variant 

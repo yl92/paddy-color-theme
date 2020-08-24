@@ -22,7 +22,7 @@
 		"editorInfo.border": "#16af50",
 		"editorHint.border": "#19bda1",
 
-		"titleBar.activeBackground": "#3c4747",
+		"titleBar.activeBackground": "#495353",
 		"titleBar.activeForeground": "#ffffff",
 		"titleBar.inactiveBackground": "#4b5353",
 		"titleBar.inactiveForeground": "#cfb5a9",
@@ -39,14 +39,14 @@
 		"activityBar.inactiveForeground": "#cfb5a977",
 		"activityBarBadge.background": "#1c774a",
 
-		"sideBar.background": "#354141",
+		"sideBar.background": "#374242",
 		"sideBar.border": "#0000",
 		"sideBar.foreground": "#d3beb3",
 		"sideBarTitle.foreground": "#f8dacc",
 		"sideBarSectionHeader.background": "#323d3c",
 		"sideBarSectionHeader.border": "#0000",
 
-		"statusBar.background": "#1e2928",
+		"statusBar.background": "#263332",
 		"statusBar.foreground": "#dbc3b8",
 		"statusBar.debuggingBackground": "#071114",
 		"statusBar.noFolderBackground": "#071114",
@@ -98,7 +98,7 @@
     "scrollbarSlider.background": "#cfb5a913",
     "scrollbarSlider.activeBackground": "#cfb5a910",
     "scrollbarSlider.hoverBackground": "#cfb5a917",
-    "badge.background": "#123525",
+    "badge.background": "#1c774a",
     "badge.foreground": "#e0cbc1",
     "notifications.background": "#384d4d",
     "notifications.foreground": "#cfb5a9",
@@ -166,10 +166,10 @@
 		"listFilterWidget.outline": "#00000000",
 		"list.filterMatchBackground": "#0eff7a2c",
 
-		"gitDecoration.addedResourceForeground": "#1db129",
-		"gitDecoration.modifiedResourceForeground": "#488582",
-		"gitDecoration.deletedResourceForeground": "#72403f",
-		"gitDecoration.conflictingResourceForeground": "#c26d54",
+		"gitDecoration.addedResourceForeground": "#30ce3d",
+		"gitDecoration.modifiedResourceForeground": "#5cb9b5",
+		"gitDecoration.deletedResourceForeground": "#a04847",
+		"gitDecoration.conflictingResourceForeground": "#ee6c44",
 
 		"editorOverviewRuler.addedForeground": "#0b5c26",
 		"editorOverviewRuler.modifiedForeground": "#1d796c",
@@ -1694,7 +1694,7 @@
         "source.json string",
       ],
       "settings": {
-        "foreground": "#f0894d",
+        "foreground": "#fc8d4d",
       }
     },
     {
@@ -1704,7 +1704,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#8fd69b"
+        "foreground": "#3dbb52"
       }
     },
     {
@@ -1714,7 +1714,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#e7a692"
+        "foreground": "#e0b3a5"
       }
     },
     {
