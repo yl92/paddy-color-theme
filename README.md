@@ -4,10 +4,10 @@
 
 Color Variants:
 
-- 🪓 Paddy Dark 
+- 🪓 Paddy Dark
 - 🌞 Paddy Light
 - 🍆 Paddy Eggplant
-- 🌲 Paddy Emerald 
+- 🌲 Paddy Emerald
 - 🌥 Paddy Mist
 - 🌚 Paddy Yesterday
 

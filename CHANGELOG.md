@@ -1,6 +1,9 @@
 # Paddy Color Theme • Changelog
 
-## [0.9.5] - 2020-08-24
+## [0.9.7] - 2020-08-24
+- Improvements to the light theme
+
+## [0.9.6] - 2020-08-24
 - Improvements to the light theme
 
 ## [0.9.4] - 2020-08-24
