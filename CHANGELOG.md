@@ -1,6 +1,10 @@
 # Paddy Color Theme • Changelog
 
-## [0.9.7] - 2020-08-24
+## [0.9.8] - 2020-10-6
+- Improvements to the light theme
+- Status bar debugging state background color added
+
+## [0.9.7] - 2020-10-5
 - Improvements to the light theme
 
 ## [0.9.6] - 2020-08-24
