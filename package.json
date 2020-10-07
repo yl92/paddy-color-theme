@@ -40,11 +40,6 @@
         "path": "./themes/Paddy-light-color-theme.json"
       },
       {
-        "label": "Paddy Milk",
-        "uiTheme": "vs",
-        "path": "./themes/Paddy-milk-color-theme.json"
-      },
-      {
         "label": "Paddy Mist",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-mist-color-theme.json"
