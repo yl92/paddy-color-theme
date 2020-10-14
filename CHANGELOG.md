@@ -1,5 +1,11 @@
 # Paddy Color Theme • Changelog
 
+## [0.9.10] - 2020-10-14
+- Fixed transparent dropdowns
+
+## [0.9.9] - 2020-10-12
+- the colors of get / set storage keywords now look more different from the function names following them
+
 ## [0.9.8] - 2020-10-6
 - Improvements to the light theme
 - Status bar debugging state background color added

@@ -87,12 +87,12 @@
     "selection.background": "#44bd9199",
     "button.background": "#24b49049",
     "button.foreground": "#ffe7d1",
-    "checkbox.background": "#4fac8a31",
+    "checkbox.background": "#263037",
     "checkbox.border": "#4fac8a33",
-    "dropdown.background": "#4fac8a2a",
+    "dropdown.background": "#263037",
     "dropdown.foreground": "#cfb5a9",
     "dropdown.border": "#58c29b49",
-    "input.background": "#4fac8a2a",
+    "input.background": "#263037",
     "input.border": "#58c29b49",
     "input.foreground": "#cfb5a9",
     "scrollbarSlider.background": "#cfb5a913",
@@ -346,7 +346,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ff5f02"
+        "foreground": "#ff7738"
       }
     },
     {
