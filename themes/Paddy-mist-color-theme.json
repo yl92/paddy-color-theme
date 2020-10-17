@@ -1,11 +1,11 @@
 {
-	"name": "Paddy Emerald",
+	"name": "Paddy Mist",
 	"type": "dark",
 	"colors": {
 
     "foreground": "#f8f2ec",
     
-    "editor.background": "#3c4747",
+    "editor.background": "#3b4646",
 		"editor.foreground": "#ffffff",
 		"editorCursor.background": "#2fb66b55",
 		"editorCursor.foreground": "#1fc56a",
@@ -24,7 +24,7 @@
 
 		"titleBar.activeBackground": "#495353",
 		"titleBar.activeForeground": "#ffffff",
-		"titleBar.inactiveBackground": "#4b5353",
+		"titleBar.inactiveBackground": "#575c5c",
 		"titleBar.inactiveForeground": "#cfb5a9",
 
 		"tab.border": "#3c4747",
@@ -48,7 +48,7 @@
 
 		"statusBar.background": "#263332",
 		"statusBar.foreground": "#dbc3b8",
-		"statusBar.debuggingBackground": "#7c4a3e",
+		"statusBar.debuggingBackground": "#7c453e",
 		"statusBar.noFolderBackground": "#263332",
 		"statusBarItem.prominentBackground": "#3BAB87",
 		"statusBarItem.prominentHoverBackground": "#3BAB87dd",
@@ -597,7 +597,6 @@
         "constant.language.infinity",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#9871d6"
       }
     },
@@ -607,7 +606,6 @@
         "constant.language.null",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#93ada7"
       }
     },
@@ -617,7 +615,6 @@
         "constant.language.undefined",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#9daca6"
       } 
     },
@@ -637,7 +634,6 @@
         "constant.language.boolean.true",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#38cf4c"
       }
     },
@@ -647,7 +643,6 @@
         "constant.language.boolean.false",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#dd91b6"
       }
     },

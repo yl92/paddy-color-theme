@@ -1,5 +1,11 @@
 # Paddy Color Theme • Changelog
 
+## [0.10.0] - 2020-10-17
+- Added Neptune 🔵
+- Removed italics on true/false, infinity nullish values
+- General update to all variants
+- New Icon!
+
 ## [0.9.10] - 2020-10-14
 - Fixed transparent dropdowns
 

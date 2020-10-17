@@ -612,7 +612,6 @@
         "constant.language.infinity",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#644596"
       }
     },
@@ -622,7 +621,6 @@
         "constant.language.null",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#728681"
       }
     },
@@ -632,7 +630,6 @@
         "constant.language.undefined",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#678379"
       }
     },
@@ -652,7 +649,6 @@
         "constant.language.boolean.true",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#35ac45"
       }
     },
@@ -662,7 +658,6 @@
         "constant.language.boolean.false",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#8f6278"
       }
     },
