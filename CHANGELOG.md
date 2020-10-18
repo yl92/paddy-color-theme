@@ -1,5 +1,8 @@
 # Paddy Color Theme • Changelog
 
+## [0.10.2] - 2020-10-18
+- Fixed peek view line foreground bug
+
 ## [0.10.1] - 2020-10-18
 - Small updates all around
 - Updated meta info
