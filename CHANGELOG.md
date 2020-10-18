@@ -1,5 +1,9 @@
 # Paddy Color Theme • Changelog
 
+## [0.10.1] - 2020-10-18
+- Small updates all around
+- Updated meta info
+
 ## [0.10.0] - 2020-10-17
 - Added Neptune 🔵
 - Removed italics on true/false, infinity nullish values
@@ -10,7 +14,7 @@
 - Fixed transparent dropdowns
 
 ## [0.9.9] - 2020-10-12
-- the colors of get / set storage keywords now look more different from the function names following them
+- the colors of get/set storage keywords now look more different from the function names following them
 
 ## [0.9.8] - 2020-10-6
 - Improvements to the light theme
@@ -37,17 +41,18 @@
 - Added Recursive Mono Duotone to the font recommendations
 
 ## [0.9.1] - 2020-08-23
-Added a brighter, more saturated version named Emerald 🌲
-Updated preview image to reflect all three
+- Added a brighter, more saturated version named Emerald 🌲
+- Updated preview image to reflect all three
 
 ## [0.8.2] - 2020-06-23
-TypeScript enum, php tags, small JS tweaks
+- TypeScript enum, php tags, small JS tweaks
 
 ## [0.8.1] - 2020-04-25
-Some syntax colors updates
+- Some syntax colors updates
 
 ## [0.8.0] - 2020-04-18
-General syntax/theming updates: a lot more details for TypeScript / TSX / CSS; some details in UI coloring fixed
+- General updates: a lot more details for TS/TSX/CSS
+- some details in UI coloring fixed
 
 ## [0.7.4] - 2020-03-12
 - Adjusted conditional token color to help discern from new light blue constants
@@ -57,7 +62,7 @@ General syntax/theming updates: a lot more details for TypeScript / TSX / CSS; s
 Adjusted styles to support the new semantic highlighting
 
 ## [0.7.2] - 2019-10-04
-Added Medium Gray variation
+Added Medium Gray variation, closer to the original aesthetics of [Atrium](https://atom.io/themes/atrium-syntax). (It has been renamed to Paddy Yesterday in a later release)
 
 ## [0.7.0] - 2019-10-03
 - Added terminal colors
@@ -67,5 +72,6 @@ Added Medium Gray variation
 Updated some colors for JavaScript and the extension description
 
 ## [Initial Release 0.5.0] - 2019-09-29
+- The original Paddy. Color saturation and brightness based on an iMac screen with high brightness. The origin of Paddy, would be an earlier color theme I made for Atom, called [Atrium](https://atom.io/themes/atrium-syntax). 
 
 ## [Unreleased]

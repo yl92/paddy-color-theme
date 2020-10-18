@@ -24,8 +24,8 @@
 
 		"titleBar.activeBackground": "#111725",
 		"titleBar.activeForeground": "#e0c3c8",
-		"titleBar.inactiveBackground": "#231d2b",
-		"titleBar.inactiveForeground": "#ad909e",
+		"titleBar.inactiveBackground": "#181f30",
+		"titleBar.inactiveForeground": "#ad909eb4",
 
 		"tab.border": "#1b273d",
 		"tab.inactiveBackground": "#0f1520",
@@ -90,18 +90,18 @@
     "checkbox.background": "#19234d",
     "checkbox.border": "#1e3283",
     "dropdown.background": "#19234d",
-    "dropdown.foreground": "#cfa9a9",
+    "dropdown.foreground": "#fff0f6",
     "dropdown.border": "#1e3283",
     "input.background": "#19234d",
     "input.border": "#1e3283",
-    "input.foreground": "#cfa9a9",
+    "input.foreground": "#fff0f6",
     "scrollbarSlider.background": "#6b68d125",
     "scrollbarSlider.activeBackground": "#13389e52",
     "scrollbarSlider.hoverBackground": "#4b7de934",
     "scrollbar.shadow": "#080b1a",
     "badge.background": "#2a3ca0",
     "badge.foreground": "#e0cbc1",
-    "notifications.background": "#111725",
+    "notifications.background": "#151c2c",
     "notifications.foreground": "#cfa9a9",
     "notifications.border": "#1b2335",
     "diffEditor.insertedTextBackground": "#3bab881c",
@@ -166,13 +166,13 @@
 		"listFilterWidget.outline": "#00000000",
 		"list.filterMatchBackground": "#6812f37c",
 
-		"gitDecoration.addedResourceForeground": "#1db142",
-		"gitDecoration.modifiedResourceForeground": "#3e62e6",
+		"gitDecoration.addedResourceForeground": "#4cc46a",
+		"gitDecoration.modifiedResourceForeground": "#7a8bc7",
 		"gitDecoration.deletedResourceForeground": "#662c3d",
-		"gitDecoration.conflictingResourceForeground": "#df5d3d",
+		"gitDecoration.conflictingResourceForeground": "#fa562d",
 
-		"editorOverviewRuler.addedForeground": "#1db142",
-		"editorOverviewRuler.modifiedForeground": "#1654b1",
+		"editorOverviewRuler.addedForeground": "#19866b",
+		"editorOverviewRuler.modifiedForeground": "#202975",
 
 		"editorGutter.addedBackground": "#19866b",
 		"editorGutter.modifiedBackground": "#202975",
@@ -347,7 +347,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ff5638"
+        "foreground": "#ff7146"
       }
     },
     {

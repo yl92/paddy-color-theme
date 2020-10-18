@@ -24,8 +24,8 @@
 
     "titleBar.activeBackground": "#1E2122",
     "titleBar.activeForeground": "#cfb5a9",
-    "titleBar.inactiveBackground": "#333b3d",
-    "titleBar.inactiveForeground": "#cfb5a9",
+    "titleBar.inactiveBackground": "#272a2b",
+    "titleBar.inactiveForeground": "#cfb5a9b6",
 
     "tab.border": "#1E2122",
     "tab.inactiveBackground": "#16191a",
