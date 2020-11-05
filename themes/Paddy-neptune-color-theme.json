@@ -27,8 +27,9 @@
 		"titleBar.inactiveBackground": "#181f30",
 		"titleBar.inactiveForeground": "#ad909eb4",
 
-		"tab.border": "#1b273d",
+		"tab.border": "#0000",
 		"tab.inactiveBackground": "#0f1520",
+		"tab.inactiveForeground": "#e0c3c85b",
 		"tab.activeForeground": "#e0c3c8",
     "tab.activeBackground": "#111725",
     "editorGroupHeader.tabsBackground": "#0d131f",
@@ -54,7 +55,7 @@
 		"statusBarItem.prominentHoverBackground": "#3843d8dd",
 		"statusBarItem.remoteBackground": "#1143cc",
 
-		"panel.border": "#171d2e",
+		"panel.border": "#0000",
 		"panel.background": "#0e1320",
 		"panelTitle.activeForeground": "#e0c3c8",
     "panelTitle.inactiveForeground": "#cfa9a979",
@@ -137,7 +138,7 @@
     "peekViewResult.background": "#1022494f",
     "peekViewResult.fileForeground": "#e2ccc2",
     "peekViewResult.lineForeground": "#cfb5a9a6",
-    "editorGroup.border": "#7179a033",
+    "editorGroup.border": "#7179a01e",
     "editorGroup.dropBackground": "#326dbb15",
     "settings.headerForeground": "#e7d4cb",
     "settings.modifiedItemIndicator": "#182b79",
