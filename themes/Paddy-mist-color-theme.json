@@ -323,6 +323,16 @@
       }
     },
     {
+      "name": "entity.name.label",
+      "scope": [
+        "entity.name.label.ts",
+        "entity.name.label.tsx",
+      ],
+      "settings": {
+        "foreground": "#b5beaa"
+      }
+    },
+    {
       "name": "keyword.operator.expression.of",
       "scope": [
         "keyword.operator.expression.of",

@@ -1,5 +1,9 @@
 # Paddy Color Theme • Changelog
 
+## [0.10.3] - 2020-11-05
+- added color for TypeScript 4.0's tuple labels
+- Neptune is now warmer
+
 ## [0.10.2] - 2020-10-18
 - Fixed peek view line foreground bug
 
