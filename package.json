@@ -61,9 +61,9 @@
         "path": "./themes/Paddy-color-theme.json"
       },
       {
-        "label": "Paddy Black",
+        "label": "Paddy Blacklight",
         "uiTheme": "vs-dark",
-        "path": "./themes/Paddy-black-color-theme.json"
+        "path": "./themes/Paddy-blacklight-color-theme.json"
       }
 		]
 	},
