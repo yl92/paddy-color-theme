@@ -36,6 +36,11 @@
         "path": "./themes/Paddy-neptune-color-theme.json"
       },
       {
+        "label": "Paddy White",
+        "uiTheme": "vs",
+        "path": "./themes/Paddy-white-color-theme.json"
+      },
+      {
         "label": "Paddy Light",
         "uiTheme": "vs",
         "path": "./themes/Paddy-light-color-theme.json"
@@ -54,6 +59,11 @@
         "label": "Paddy Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-color-theme.json"
+      },
+      {
+        "label": "Paddy Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paddy-black-color-theme.json"
       }
 		]
 	},
