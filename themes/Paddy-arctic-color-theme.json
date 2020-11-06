@@ -40,10 +40,10 @@
     "editorGroupHeader.tabsBackground": "#f8f8f8",
 
     "activityBar.background": "#edf0f0",
-    "activityBar.foreground": "#132421",
+    "activityBar.foreground": "#0d7a63",
     "activityBar.border": "#0000",
-    "activityBar.inactiveForeground": "#9fa8a7",
-    "activityBarBadge.background": "#e0461f",
+    "activityBar.inactiveForeground": "#6a83709f",
+    "activityBarBadge.background": "#0d7a63",
 
     "sideBar.background": "#f8f8f8",
     "sideBar.border": "#93a19f17",
@@ -106,7 +106,7 @@
     "scrollbarSlider.activeBackground": "#d7dada",
     "scrollbarSlider.hoverBackground": "#eaebeb",
     "scrollbar.shadow": "#e3ecec",
-    "badge.background": "#e0461f",
+    "badge.background": "#0d7a63",
     "badge.foreground": "#f7e6de",
     "notifications.background": "#eeded7",
     "notifications.foreground": "#162424",
@@ -451,7 +451,7 @@
         "meta.tag",
       ],
       "settings": {
-        "foreground": "#68a383"
+        "foreground": "#6aa082"
       }
     },
     {
@@ -517,7 +517,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#33990b"
+        "foreground": "#1d8b19"
       }
     },
     {
@@ -764,7 +764,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#e4852c"
+        "foreground": "#cc894b"
       }
     },
     {
@@ -860,7 +860,7 @@
         "keyword.other.special-method",
       ],
       "settings": {
-        "foreground": "#ee6338"
+        "foreground": "#f16a41"
       }
     },
     {
@@ -1077,7 +1077,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#694437"
+        "foreground": "#8d6151"
       }
     },
     {
@@ -1087,7 +1087,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#b8793f"
+        "foreground": "#cf8d4e"
       }
     },
     {
@@ -1531,7 +1531,7 @@
         "entity.name.tag.reference.scss",
       ],
       "settings": {
-        "foreground": "#d86f55"
+        "foreground": "#e0856e"
       }
     },
     {
