@@ -2,7 +2,7 @@
 	"name": "paddy-color-theme",
 	"displayName": "Paddy Color Theme",
 	"description": "A warm and vibrant VS Code color theme for all ye badass hackers 🌲🍁🪓",
-  "version": "0.10.3",
+  "version": "0.11.0",
 	"publisher": "yile-ou",
 	"author": {
 		"name": "Yile Ou",
@@ -36,6 +36,11 @@
         "path": "./themes/Paddy-neptune-color-theme.json"
       },
       {
+        "label": "Paddy Frost",
+        "uiTheme": "vs",
+        "path": "./themes/Paddy-frost-color-theme.json"
+      },
+      {
         "label": "Paddy Light",
         "uiTheme": "vs",
         "path": "./themes/Paddy-light-color-theme.json"
@@ -54,6 +59,11 @@
         "label": "Paddy Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-dark-color-theme.json"
+      },
+      {
+        "label": "Paddy Blacklight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paddy-blacklight-color-theme.json"
       }
 		]
 	},

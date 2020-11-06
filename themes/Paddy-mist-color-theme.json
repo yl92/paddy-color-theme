@@ -22,9 +22,9 @@
 		"editorInfo.border": "#16af50",
 		"editorHint.border": "#19bda1",
 
-		"titleBar.activeBackground": "#495353",
+		"titleBar.activeBackground": "#3b4646",
 		"titleBar.activeForeground": "#ffffff",
-		"titleBar.inactiveBackground": "#575e5e",
+		"titleBar.inactiveBackground": "#3b4646",
 		"titleBar.inactiveForeground": "#cfb5a9b2",
 
 		"tab.border": "#0000",

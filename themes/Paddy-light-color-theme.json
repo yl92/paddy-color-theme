@@ -22,14 +22,14 @@
     "icon.foreground": "#038033",
     // "symbolIcon.keyForeground": "#038033",
 
-    "editorError.foreground": "#ce380a",
+    "editorError.foreground": "#ec5325",
     "editorWarning.foreground": "#be800d",
     "editorInfo.border": "#038033",
     "editorHint.border": "#048b75",
 
-    "titleBar.activeBackground": "#f8efea",
+    "titleBar.activeBackground": "#f3e7e2",
     "titleBar.activeForeground": "#423926",
-    "titleBar.inactiveBackground": "#ddc8bf",
+    "titleBar.inactiveBackground": "#f3e7e2",
     "titleBar.inactiveForeground": "#42392699",
 
     "tab.border": "#f3e7e2",
@@ -88,7 +88,7 @@
 
     "focusBorder": "#00b427",
     "descriptionForeground": "#493931",
-    "widget.shadow": "#020b0c33",
+    "widget.shadow": "#917c7356",
     "selection.background": "#4da06975",
     "button.background": "#127a35",
     "button.foreground": "#f0dbd1",
@@ -169,7 +169,7 @@
     "list.activeSelectionForeground": "#145032",
     "list.inactiveSelectionBackground": "#faefe9",
     "list.inactiveSelectionForeground": "#145032",
-    "list.inactiveFocusBackground": "#dfe2c6",
+    "list.inactiveFocusBackground": "#dae4d2",
     "list.hoverBackground": "#6fb4843a",
     "list.hoverForeground": "#04752f",
     "list.errorForeground": "#f15c48",
