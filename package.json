@@ -21,6 +21,11 @@
 	"contributes": {
 		"themes": [
       {
+        "label": "Paddy Signet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paddy-signet-color-theme.json"
+      },
+      {
         "label": "Paddy Eggplant",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-eggplant-color-theme.json"
@@ -36,9 +41,9 @@
         "path": "./themes/Paddy-neptune-color-theme.json"
       },
       {
-        "label": "Paddy Arctic",
+        "label": "Paddy Mint",
         "uiTheme": "vs",
-        "path": "./themes/Paddy-arctic-color-theme.json"
+        "path": "./themes/Paddy-mint-color-theme.json"
       },
       {
         "label": "Paddy Light",
@@ -61,9 +66,9 @@
         "path": "./themes/Paddy-dark-color-theme.json"
       },
       {
-        "label": "Paddy Blacklight",
+        "label": "Paddy Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/Paddy-blacklight-color-theme.json"
+        "path": "./themes/Paddy-black-color-theme.json"
       }
 		]
 	},

@@ -1,5 +1,5 @@
 {
-  "name": "Paddy",
+  "name": "Paddy Dark",
   "type": "dark",
   "colors": {
 
@@ -306,6 +306,7 @@
       "name": "Storage Type: enum",
       "scope": [
         "storage.type.enum.ts",
+        "storage.type.enum.tsx",
       ],
       "settings": {
         "foreground": "#8b788f"
@@ -315,6 +316,7 @@
       "name": "Entity Type: enum",
       "scope": [
         "entity.name.type.enum.ts",
+        "entity.name.type.enum.tsx",
       ],
       "settings": {
         "fontStyle": "bold",

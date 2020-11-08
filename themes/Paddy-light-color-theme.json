@@ -36,9 +36,9 @@
     "tab.inactiveBackground": "#e7dad2",
     "tab.activeForeground": "#050707",
     "tab.activeBackground": "#f3e7e2",
-    "editorGroupHeader.tabsBackground": "#e0cfc7",
+    "editorGroupHeader.tabsBackground": "#e7dad2",
 
-    "activityBar.background": "#e7d6cc",
+    "activityBar.background": "#e7d4cc",
     "activityBar.foreground": "#0e963b",
     "activityBar.border": "#e7d6cc",
     "activityBar.inactiveForeground": "#4b45425d",
@@ -322,6 +322,7 @@
       "name": "Storage Type: enum",
       "scope": [
         "storage.type.enum.ts",
+        "storage.type.enum.tsx",
       ],
       "settings": {
         "foreground": "#6a3d74"
@@ -331,6 +332,7 @@
       "name": "Entity Type: enum",
       "scope": [
         "entity.name.type.enum.ts",
+        "entity.name.type.enum.tsx",
       ],
       "settings": {
         "fontStyle": "bold",

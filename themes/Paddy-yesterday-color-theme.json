@@ -30,13 +30,13 @@
     "tab.border": "#0000",
     "tab.inactiveBackground": "#182227",
     "tab.activeForeground": "#f0e1db",
-    "tab.activeBackground": "#1a262b",
+    "tab.activeBackground": "#202c31",
     "editorGroupHeader.tabsBackground": "#182227",
 
     "activityBar.background": "#161f24",
     "activityBar.foreground": "#cfb5a9",
     "activityBar.border": "#0000",
-    "activityBar.inactiveForeground": "#cfb5a977",
+    "activityBar.inactiveForeground": "#cfb5a954",
     "activityBarBadge.background": "#155a3b",
 
     "sideBar.background": "#1b262b",
@@ -46,9 +46,9 @@
     "sideBarSectionHeader.background": "#182227",
     "sideBarSectionHeader.border": "#0000",
 
-    "statusBar.background": "#121a1f",
+    "statusBar.background": "#161f24",
     "statusBar.foreground": "#ad978d",
-    "statusBar.debuggingBackground": "#694320",
+    "statusBar.debuggingBackground": "#682d22",
     "statusBar.noFolderBackground": "#111616",
     "statusBarItem.prominentBackground": "#3BAB87",
     "statusBarItem.prominentHoverBackground": "#3BAB87dd",
@@ -305,6 +305,7 @@
       "name": "Storage Type: enum",
       "scope": [
         "storage.type.enum.ts",
+        "storage.type.enum.tsx",
       ],
       "settings": {
         "foreground": "#8b788f"
@@ -314,6 +315,7 @@
       "name": "Entity Type: enum",
       "scope": [
         "entity.name.type.enum.ts",
+        "entity.name.type.enum.tsx",
       ],
       "settings": {
         "fontStyle": "bold",
