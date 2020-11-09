@@ -3,10 +3,10 @@
 	"type": "dark",
 	"colors": {
 
-    "foreground": "#e9cfc4",
+    "foreground": "#fad6b9",
     
     "editor.background": "#081b18",
-		"editor.foreground": "#e9cfc4",
+		"editor.foreground": "#fad6b9",
 		"editorCursor.background": "#2fb66b55",
 		"editorCursor.foreground": "#13c030",
 		"editor.selectionBackground": "#09c46c21",
@@ -23,13 +23,13 @@
 		"editorHint.border": "#19bda1",
 
 		"titleBar.activeBackground": "#081b18",
-		"titleBar.activeForeground": "#f3d9cd",
+		"titleBar.activeForeground": "#fad6b9",
 		"titleBar.inactiveBackground": "#081b18",
 		"titleBar.inactiveForeground": "#cfb5a9b6",
 
 		"tab.border": "#0000",
 		"tab.inactiveBackground": "#081313",
-		"tab.activeForeground": "#ffe4d8",
+		"tab.activeForeground": "#fad6b9",
     "tab.activeBackground": "#041a1a",
     "editorGroupHeader.tabsBackground": "#081313",
 		
@@ -41,13 +41,13 @@
 
 		"sideBar.background": "#071815",
 		"sideBar.border": "#0000",
-		"sideBar.foreground": "#d3beb3",
-		"sideBarTitle.foreground": "#f8dacc",
+		"sideBar.foreground": "#a88a72",
+		"sideBarTitle.foreground": "#e2b8a5",
 		"sideBarSectionHeader.background": "#051311",
 		"sideBarSectionHeader.border": "#0000",
 
 		"statusBar.background": "#010e0e",
-		"statusBar.foreground": "#dbc3b8",
+		"statusBar.foreground": "#c0a79c",
 		"statusBar.debuggingBackground": "#694524",
 		"statusBar.noFolderBackground": "#010e0e",
 		"statusBarItem.prominentBackground": "#3BAB87",
@@ -56,11 +56,11 @@
 
 		"panel.background": "#061614",
 		"panel.border": "#0000",
-		"panelTitle.activeForeground": "#eccec0",
-    "panelTitle.inactiveForeground": "#cfb5a979",
+		"panelTitle.activeForeground": "#fad6b9",
+    "panelTitle.inactiveForeground": "#bb9a8b79",
 
     "terminal.background": "#061614",
-    "terminal.foreground": "#e7cdc0",
+    "terminal.foreground": "#dab89d",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBrightBlack": "#151616",
     "terminal.ansiBlue": "#3465a5",
@@ -152,9 +152,9 @@
 		"menu.separatorBackground": "#cfb5a907",
 
 		"list.focusBackground": "#3BAB8725",
-		"list.focusForeground": "#e9ded9",
+		"list.focusForeground": "#fcece5",
 		"list.activeSelectionBackground": "#50bb8644",
-		"list.activeSelectionForeground": "#fff8f5",
+		"list.activeSelectionForeground": "#fcece5",
 		"list.inactiveSelectionBackground": "#cfb5a911",
 		"list.inactiveSelectionForeground": "#cfb5a9",
 		"list.hoverBackground": "#1e4e4352",

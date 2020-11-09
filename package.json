@@ -21,9 +21,9 @@
 	"contributes": {
 		"themes": [
       {
-        "label": "Paddy Signet",
+        "label": "Paddy Alpha",
         "uiTheme": "vs-dark",
-        "path": "./themes/Paddy-signet-color-theme.json"
+        "path": "./themes/Paddy-alpha-color-theme.json"
       },
       {
         "label": "Paddy Eggplant",
