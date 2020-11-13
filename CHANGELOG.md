@@ -1,9 +1,14 @@
 # Paddy Color Theme • Changelog
 
+## [0.11.0] - 2020-11-13
+- New dark theme: 🖋 Inkstone 
+- New light theme: ❄️ Frost - Obligatory #ffffff background
+- General updates for all other themes
+
 ## [0.10.3] - 2020-11-05
 - Added coloring for TypeScript 4.0's tuple labels
 - Neptune's color temperature is now consistent with the rest
-- Yesterday has been updated, much more saturated and balanced
+- Paddy Yesterday has been updated, much more saturated and balanced
 - General updates across the board
 
 ## [0.10.2] - 2020-10-18

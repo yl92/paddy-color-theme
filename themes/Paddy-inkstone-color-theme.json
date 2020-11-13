@@ -1,5 +1,5 @@
 {
-	"name": "Paddy Alpha",
+	"name": "Paddy Inkstone",
 	"type": "dark",
 	"colors": {
 
@@ -44,7 +44,7 @@
 
 		"sideBar.background": "#0e181f",
 		"sideBar.border": "#0000",
-		"sideBar.foreground": "#b69984",
+		"sideBar.foreground": "#a08e82",
 		"sideBarTitle.foreground": "#E7C4AB",
 		"sideBarSectionHeader.background": "#0c131a",
 		"sideBarSectionHeader.border": "#0000",
