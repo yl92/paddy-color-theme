@@ -1,5 +1,8 @@
 # Paddy Color Theme • Changelog
 
+## [0.11.1] - 2020-11-13
+- Frost Bug fix
+
 ## [0.11.0] - 2020-11-13
 - New dark theme: 🖋 Inkstone 
 - New light theme: ❄️ Frost - Obligatory #ffffff background

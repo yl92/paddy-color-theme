@@ -1,5 +1,3 @@
-# Paddy Color Theme
-
 **A set of 9 warm and vibrant color themes for all ye badass hackers 🍁**
 
 **Dark Variants**
