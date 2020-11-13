@@ -55,7 +55,7 @@
 		"statusBarItem.prominentHoverBackground": "#3BAB87dd",
 		"statusBarItem.remoteBackground": "#3BAB87",
 
-		"panel.border": "#0000",
+		"panel.border": "#1e1727",
 		"panel.background": "#160d1f",
 		"panelTitle.activeForeground": "#eccec0",
     "panelTitle.inactiveForeground": "#cfb5a979",
