@@ -69,6 +69,11 @@
         "label": "Paddy Black",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-black-color-theme.json"
+      },
+      {
+        "label": "Paddy Wolf",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paddy-wolf-color-theme.json"
       }
 		]
 	},
