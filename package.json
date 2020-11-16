@@ -2,7 +2,7 @@
 	"name": "paddy-color-theme",
 	"displayName": "Paddy Color Theme",
 	"description": "A warm and vibrant VS Code color theme for all ye badass hackers 🌲🍁🪓",
-  "version": "0.11.0",
+  "version": "0.12.0",
 	"publisher": "yile-ou",
 	"author": {
 		"name": "Yile Ou",
@@ -21,9 +21,9 @@
 	"contributes": {
 		"themes": [
       {
-        "label": "Paddy Alpha",
+        "label": "Paddy Inkstone",
         "uiTheme": "vs-dark",
-        "path": "./themes/Paddy-alpha-color-theme.json"
+        "path": "./themes/Paddy-inkstone-color-theme.json"
       },
       {
         "label": "Paddy Eggplant",
@@ -41,9 +41,9 @@
         "path": "./themes/Paddy-neptune-color-theme.json"
       },
       {
-        "label": "Paddy Mint",
+        "label": "Paddy Frost",
         "uiTheme": "vs",
-        "path": "./themes/Paddy-mint-color-theme.json"
+        "path": "./themes/Paddy-frost-color-theme.json"
       },
       {
         "label": "Paddy Light",
@@ -61,19 +61,14 @@
         "path": "./themes/Paddy-yesterday-color-theme.json"
       },
       {
-        "label": "Paddy Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Paddy-dark-color-theme.json"
-      },
-      {
-        "label": "Paddy Black",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Paddy-black-color-theme.json"
-      },
-      {
         "label": "Paddy Wolf",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-wolf-color-theme.json"
+      },
+      {
+        "label": "Paddy Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paddy-dark-color-theme.json"
       }
 		]
 	},
