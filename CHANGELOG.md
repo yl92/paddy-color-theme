@@ -1,7 +1,5 @@
-# Paddy Color Theme • Changelog
-
-## [0.11.1] - 2020-11-13
-- Frost Bug fix
+## [0.11.3] - 2020-11-13
+- Paddy Frost Bug fixes & tweaks
 
 ## [0.11.0] - 2020-11-13
 - New dark theme: 🖋 Inkstone 
