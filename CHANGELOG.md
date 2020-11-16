@@ -1,3 +1,6 @@
+## [0.12.0] - 2020-11-16
+- Paddy Wolf - a desaturated medium gray option
+  
 ## [0.11.3] - 2020-11-13
 - Paddy Frost Bug fixes & tweaks
 

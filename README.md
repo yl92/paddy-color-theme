@@ -1,13 +1,16 @@
-**A set of 9 warm and vibrant color themes for all ye badass hackers 🍁**
+**An (earthy and detailed) color theme with 10 background color options for all ye badass hackers 🍁**
 
-**Dark Variants**
-- 🪓 Paddy Dark
+**Dark Variants, Grayscale**
+- 🪓 Paddy Dark *(Dark Gray)*
+- 🐺 Paddy Wolf *(Desaturated Medium Gray)* `[New]`
+- 🌥 Paddy Mist *(Light Gray)*
+  
+**Dark Variants, Color**
 - 🌲 Paddy Emerald
 - 🖋 Paddy Inkstone `[New]`
 - 🔵 Paddy Neptune
 - 🍆 Paddy Eggplant
-- 🌥 Paddy Mist *(Light Gray)*
-- 🎮 Paddy Yesterday *(Medium Gray)*
+- 🎮 Paddy Yesterday
 
 **Light Variants**
 - ❄️ Paddy Frost `[New]`

@@ -28,10 +28,10 @@
     "titleBar.inactiveForeground": "#cfb5a9b6",
 
     "tab.border": "#0000",
-    "tab.inactiveBackground": "#222222",
+    "tab.inactiveBackground": "#1c1c1c",
     "tab.activeForeground": "#f0e1db",
     "tab.activeBackground": "#222222",
-    "editorGroupHeader.tabsBackground": "#222222",
+    "editorGroupHeader.tabsBackground": "#1c1c1c",
 
     "activityBar.background": "#161616",
     "activityBar.foreground": "#cfb5a9",
@@ -77,9 +77,9 @@
     "terminal.ansiBrightWhite": "#fae8e0",
     "terminal.ansiYellow": "#d37d0d",
     "terminal.ansiBrightYellow": "#ff9b18",
-    "terminal.selectionBackground": "#31925d2d",
-    "terminalCursor.background": "#31925d55",
-    "terminalCursor.foreground": "#31925d",
+    "terminal.selectionBackground": "#eb5e004b",
+    "terminalCursor.background": "#c263237a",
+    "terminalCursor.foreground": "#c26323",
 
     "focusBorder": "#9c542a",
     "descriptionForeground": "#cfb5a998",
@@ -115,7 +115,7 @@
     "textLink.activeForeground": "#ff6d0b",
     "textLink.foreground": "#b95715",
     "textPreformat.foreground": "#ee6f58",
-    "editorWhitespace.foreground": "#538f8f18",
+    "editorWhitespace.foreground": "#8d898518",
     "editor.lineHighlightBackground": "#cfb5a913",
     "editor.lineHighlightBorder": "#0000",
     "editorLineNumber.activeForeground": "#31925d",
@@ -198,7 +198,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#aa9d83"
+        "foreground": "#ad9563"
       }
     },
     {
