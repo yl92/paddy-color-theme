@@ -1,4 +1,6 @@
-**`0.12.2` - 2020-12-05**
+**[🎉] `1.0.0` - 2020-12-06**
+- New Theme "Paddy Black"
+- Updating Preview
 - Updating Readme
 
 ---

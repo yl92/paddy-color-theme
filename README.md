@@ -1,15 +1,15 @@
 ![preview-image](https://raw.githubusercontent.com/troydraws/paddy-color-theme/master/paddy-color-theme-preview.gif)
 
-**A very detailed color theme with earthy tones and 11 background options for all ye badass hackers. 🍁**
+**A very detailed color theme with earthy tones and 12 background options for all ye badass hackers. 🍁**
 
-| Dark, Grayscale              | Dark, Colorful | Light Themes |
-| ---------------------------- | -------------- | ------------ |
-| 🪓 `Dark`                     | 🌲 `Emerald`    | 🌞 `Light`    |
-| 🐺 `Wolf` *Medium Dark, Warm* | 🖋 `Inkstone`   | ❄️ `Frost`    |
-| 🤖 `Machine` *Medium, Warm*   | 🔵 `Neptune`    |              |
-| 🌥 `Mist` *Light, Cold*       | 🍆 `Eggplant`   |              |
-| 🎮 `Yesterday` *Medium, Cold* |                |              |
-|                              |                |              |
+| Grayscale                   | With accent colors           | Light Themes |
+| --------------------------------- | ------------------------ | ------------ |
+| 🪓 `Dark`                          | 🌲 `Emerald`              | 🌞 `Light`    |
+| 🐺 `Wolf` *Darker Gray, Warm*      | 🖋 `Inkstone`             | ❄️ `Frost`    |
+| 🤖 `Machine` *Medium Gray, Warm*   | 🔵 `Neptune`              |              |
+| 🌥 `Mist` *Light Gray, Cold*       | 🍆 `Eggplant`             |              |
+| 🎮 `Yesterday` *Medium Gray, Cold* | 🚧 `𝔅𝔩𝔞𝔠𝔨` *Pitch Black!* |              |
+|                                   |                          |              |
 
 > This theme uses lots of italics, mostly to represent actions (such as function calls or variable assignments) and TypeScript definitions/annotations (with underscores). 
 
