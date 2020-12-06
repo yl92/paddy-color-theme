@@ -1,9 +1,8 @@
+> ℹ️&nbsp;&nbsp;Italics are hedious with your favorite font? Upright versions are now available too!
+
 ![preview-image](https://raw.githubusercontent.com/troydraws/paddy-color-theme/master/paddy-color-theme-preview.gif)
 
 **A very detailed color theme with earthy tones and 12 background options for all ye badass hackers. 🍁**
-
-> Italics are ugly with your favorite font? <br />
-> Upright versions of each color are now available!
 
 | Grays                              | With accent colors       | Light Themes |
 | ---------------------------------- | ------------------------ | ------------ |
@@ -12,7 +11,6 @@
 | 🤖 `Machine` *Medium Gray, Warm*    | 🔵 `Neptune`              |              |
 | 🌥 `Mist` *"Winter Dublin Edition"* | 🍆 `Eggplant`             |              |
 | 🎮 `Yesterday` *Medium Gray, Cold*  | 🚧 `𝔅𝔩𝔞𝔠𝔨` *Pitch Black!* |              |
-|                                    |                          |              |
 
 &NewLine;
 
@@ -26,11 +24,11 @@
 
 → **DM Mono**: [[Google Fonts](https://fonts.google.com/specimen/DM+Mono)]  
 
-→ **Recursive (Mono Duotone)**: There is a very interesting Recursive Mono Duotone option in the download package (Recursive_Code/Duotone), try it out! Recursive also came with fancy ligatures for programming such as combined glyths for '->' or '>='. [[recursive.design](https://www.recursive.design/)]  
+→ **Recursive (Mono Duotone)**: There is a very interesting Recursive Mono Duotone option in the download package (Recursive_Code/Duotone), try it out! Recursive also came with fancy programming ligatures such as `->` or `>=`. [[recursive.design](https://www.recursive.design/)]  
 
-→ **SF Mono** Apple's monospace. You can get it on [developer.apple.com](https://developer.apple.com/fonts/).  
+→ **SF Mono** Apple's monospace font. You can get it on [developer.apple.com](https://developer.apple.com/fonts/).  
 
-→ **JetBrains Mono** JetBrain's free & open-source monospace font. [Get it on jetbrains.com](https://www.jetbrains.com/lp/mono/).  
+→ **JetBrains Mono** JetBrains' open-source monospace font. [Get it on jetbrains.com](https://www.jetbrains.com/lp/mono/).  
 
 ---
 
@@ -67,5 +65,5 @@ You can edit `settings.json` by searching for the "Font Ligatures" or "settings.
 
 Yile Ou  
 
-→ [Website](https://yile.art/)  
+→ [Website](https://yile.art/)<br />
 → [Twitter](https://twitter.com/yile_art)

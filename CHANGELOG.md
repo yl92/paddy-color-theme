@@ -1,3 +1,8 @@
+**`1.1.1` - 2020-12-06**
+- Updating Readme 🎄
+  
+--- 
+
 **`1.1.0` - 2020-12-06**
 - All colors now have their upright counterpart with all italics stripped
 - Removing bold from async
