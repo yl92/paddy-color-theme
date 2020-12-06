@@ -3,7 +3,7 @@
 **A very detailed color theme with earthy tones and 12 background options for all ye badass hackers. 🍁**
 
 > Italics are ugly with your favorite font? <br />
-> Upright versions of each color now have also been made available!
+> Upright versions of each color are now available!
 
 | Grays                              | With accent colors       | Light Themes |
 | ---------------------------------- | ------------------------ | ------------ |
@@ -59,7 +59,7 @@ You can edit `settings.json` by searching for the "Font Ligatures" or "settings.
 
 → The [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension can let you pick your beloved fonts to be used across UI as well as some other cool little features!  
 
-→ The [Chalice Icon Theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme) icon theme is great. No more messy colors all over the place for the file icons.
+→ [Chalice Icon Theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme) is great. No more messy colors all over the place for the file icons.
 
 ---
 
