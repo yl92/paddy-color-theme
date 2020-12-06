@@ -108,9 +108,9 @@
     "diffEditor.removedTextBackground": "#b424242a",
     "diffEditor.removedTextBorder": "#b4242448",
 
-    "editorWidget.background": "#050e0e",
+    "editorWidget.background": "#0f1818",
     "editorWidget.foreground": "#cfb5a9",
-    "editorWidget.border": "#203f3f",
+    "editorWidget.border": "#343a3a",
     "editorLink.activeForeground": "#20dda1",
     "textLink.activeForeground": "#ff6d0b",
     "textLink.foreground": "#b95715",
@@ -233,7 +233,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#b99679"
+        "foreground": "#d1af93"
       }
     },
     {
@@ -845,7 +845,7 @@
         "keyword.other.special-method",
       ],
       "settings": {
-        "foreground": "#b44c2c"
+        "foreground": "#c2502e"
       }
     },
     {
@@ -871,7 +871,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ac4121"
+        "foreground": "#c2502e"
       }
     },
     {
@@ -1100,7 +1100,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#145037"
+        "foreground": "#337459"
       }
     },
     {
