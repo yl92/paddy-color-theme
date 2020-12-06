@@ -1,5 +1,5 @@
 {
-	"name": "Paddy Mist",
+	"name": "Upright Paddy Mist",
 	"type": "dark",
 	"colors": {
 
@@ -193,7 +193,6 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#77817e"
       }
     },
@@ -203,7 +202,6 @@
         "comment.block.documentation storage.type.class.jsdoc"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#aa9d83"
       }
     },
@@ -293,7 +291,6 @@
         "keyword.operator.new",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#b89e59"
       }
     },
@@ -303,7 +300,6 @@
         "storage.type",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#e78d87"
       }
     },
@@ -363,7 +359,6 @@
         "storage.type.property",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#ff8138"
       }
     },
@@ -373,7 +368,6 @@
         "storage.modifier"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#c78979"
       }
     },
@@ -495,7 +489,6 @@
         "keyword.control",
       ],
       "settings": {
-        "fontStyle": "italic",
       }
     },
     {
@@ -505,7 +498,6 @@
         "keyword.control.flow",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#08d15c"
       }
     },
@@ -515,7 +507,6 @@
         "keyword.control.trycatch",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#ff7e42"
       }
     },
@@ -549,7 +540,6 @@
         "keyword.other",
       ],
       "settings": {
-        "fontStyle": "italic",
       }
     },
     {
@@ -640,7 +630,6 @@
         "keyword.operator.expression.void",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#575757"
       }
     },
@@ -668,7 +657,6 @@
         "keyword.other.unit",
       ],
       "settings": {
-        "fontStyle": "italic"
       }
     },
     {
@@ -738,7 +726,6 @@
         "keyword.operator.expression",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#ca6969"
       }
     },
@@ -799,7 +786,6 @@
         "support.function.construct.output",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#69a097"
       }
     },
@@ -874,7 +860,6 @@
         "support.function.misc.scss",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#ff6b3d"
       }
     },
@@ -933,7 +918,6 @@
         "meta.decorator",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#9bc0a9"
       }
     },
@@ -970,7 +954,7 @@
         "support.type.builtin.tsx",
       ],
       "settings": {
-        "fontStyle": "italic underline",
+        "fontStyle": "underline",
         "foreground": "#fcd37c"
       }
     },
@@ -993,7 +977,7 @@
         "meta.return.type.tsx meta.type.parameters.tsx entity.name.type.tsx",
       ],
       "settings": {
-        "fontStyle": "underline italic",
+        "fontStyle": "underline",
         "foreground": "#abaf7c"
       }
     },
@@ -1003,7 +987,7 @@
         "meta.interface.ts entity.other.inherited-class",
       ],
       "settings": {
-        "fontStyle": "underline italic",
+        "fontStyle": "underline",
         "foreground": "#bb5a19"
       }
     },
@@ -1124,7 +1108,7 @@
         "entity.name.type.module.tsx",
       ],
       "settings": {
-        "fontStyle": "italic bold underline",
+        "fontStyle": "bold underline",
         "foreground": "#d1a427"
       }
     },
@@ -1190,7 +1174,7 @@
         "support.type.primitive.tsx"
       ],
       "settings": {
-        "fontStyle": "italic underline",
+        "fontStyle": "underline",
         "foreground": "#d1923f"
       }
     },
@@ -1200,7 +1184,6 @@
         "keyword.operator.spread",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#c2716c"
       }
     },
@@ -1210,7 +1193,6 @@
         "keyword.operator.of",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#6dddbb"
       }
     },
@@ -1220,7 +1202,6 @@
         "keyword.operator.expression.delete",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#f85c51"
       }
     },
@@ -1245,7 +1226,7 @@
         "new.expr.ts meta.type.parameters.ts entity.name.type.ts",
       ],
       "settings": {
-        "fontStyle": "underline italic",
+        "fontStyle": "underline",
         "foreground": "#9b6b23"
       }
     },
@@ -1326,7 +1307,6 @@
         "source.postcss variable"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#ffe8cd"
       }
     },
@@ -1366,7 +1346,6 @@
         "variable.language.this"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#b69a83"
       }
     },
@@ -1376,7 +1355,6 @@
         "entity.name.method.js"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#82AAFF"
       }
     },
@@ -1479,7 +1457,6 @@
         "meta.tag.structure.template entity.name.tag.html",
       ],
       "settings": {
-        "fontStyle": "italic",
       }
     },
     {
@@ -1673,7 +1650,6 @@
         "tag.decorator.js punctuation.definition.tag.js"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#82AAFF"
       }
     },
@@ -1685,7 +1661,6 @@
         "keyword.blade",
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#eb7d7d"
       }
     },
@@ -1695,7 +1670,6 @@
         "source.js constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#FF5370"
       }
     },
@@ -1869,7 +1843,7 @@
         "markup.quote markup.bold string"
       ],
       "settings": {
-        "fontStyle": "bold",
+        "fontStyle": "italic bold",
         "foreground": "#dfd4bf"
       }
     },
@@ -1898,7 +1872,6 @@
         "markup.quote"
       ],
       "settings": {
-        "fontStyle": "italic",
       }
     },
     {

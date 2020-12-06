@@ -109,13 +109,16 @@
     "diffEditor.insertedTextBorder": "#3bab8848",
     "diffEditor.removedTextBackground": "#b424242a",
     "diffEditor.removedTextBorder": "#b4242448",
-    "editorWidget.background": "#111725",
+    "editorWidget.background": "#151c2c",
     "editorWidget.foreground": "#cfa9a9",
     "editorWidget.border": "#31394b",
     "editorLink.activeForeground": "#20dda1",
     "textLink.activeForeground": "#4668ff",
     "textLink.foreground": "#376cff",
-    "textPreformat.foreground": "#7c5ffd",
+    "textPreformat.foreground": "#9078ff",
+    "textBlockQuote.background": "#2054e233",
+    "textSeparator.foreground": "#2054e255",
+    "textBlockQuote.border": "#2054e2",
     "editorWhitespace.foreground": "#a9b3cf13",
     "editor.lineHighlightBackground": "#5f32db10",
     "editor.lineHighlightBorder": "#0000",
@@ -389,7 +392,6 @@
         "storage.modifier.async",
       ],
       "settings": {
-        "fontStyle": "italic bold",
         "foreground": "#289b65"
       }
     },

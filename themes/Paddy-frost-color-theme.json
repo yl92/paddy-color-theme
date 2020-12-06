@@ -123,6 +123,9 @@
     "textLink.activeForeground": "#04c4b4",
     "textLink.foreground": "#1b9c7c",
     "textPreformat.foreground": "#ee6f58",
+    "textBlockQuote.background": "#1b9c7c18",
+    "textSeparator.foreground": "#1b9c7c55",
+    "textBlockQuote.border": "#1b9c7c",
     "editorWhitespace.foreground": "#4ec27463",
     "editor.lineHighlightBackground": "#eaf8f873",
     "editor.lineHighlightBorder": "#a8373700",
@@ -406,7 +409,6 @@
         "storage.modifier.async",
       ],
       "settings": {
-        "fontStyle": "italic bold",
         "foreground": "#14a86f"
       }
     },

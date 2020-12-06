@@ -1,3 +1,16 @@
+**`1.1.0` - 2020-12-06**
+- All colors now have their upright counterpart with all italics stripped
+- Removing bold from async
+
+---
+
+**`1.0.1` - 2020-12-06**
+- Adding colors for blockquotes in UI
+- Updating Readme
+- Small patches
+
+---
+
 **[🎉] `1.0.0` - 2020-12-06**
 - New Theme "Paddy Black"
 - Updating Preview
