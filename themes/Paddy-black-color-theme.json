@@ -975,7 +975,7 @@
       ],
       "settings": {
         "fontStyle": "italic underline",
-        "foreground": "#daa73b"
+        "foreground": "#c29431"
       }
     },
     {
@@ -1240,7 +1240,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#ffbb00"
+        "foreground": "#d3a014"
       }
     },
     {

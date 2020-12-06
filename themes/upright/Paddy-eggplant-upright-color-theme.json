@@ -50,7 +50,7 @@
 		"statusBar.background": "#0f0914",
 		"statusBar.foreground": "#dbc3b8",
 		"statusBar.debuggingBackground": "#694524",
-		"statusBar.noFolderBackground": "#181020",
+		"statusBar.noFolderBackground": "#0f0914",
 		"statusBarItem.prominentBackground": "#3BAB87",
 		"statusBarItem.prominentHoverBackground": "#3BAB87dd",
 		"statusBarItem.remoteBackground": "#3BAB87",

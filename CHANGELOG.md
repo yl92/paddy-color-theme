@@ -1,3 +1,7 @@
+**`1.1.2` - 2020-12-06**
+- Removing special color for "noFolder" status bar
+  
+--- 
 **`1.1.1` - 2020-12-06**
 - Updating Readme 🎄
   
