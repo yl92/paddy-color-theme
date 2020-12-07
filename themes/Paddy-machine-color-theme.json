@@ -104,7 +104,7 @@
     "scrollbar.shadow": "#393837",
     "badge.background": "#b45029",
     "badge.foreground": "#e0cbc1",
-    "notifications.background": "#393837",
+    "notifications.background": "#413f3e",
     "notifications.foreground": "#f7dbc5",
     "notifications.border": "#f7dbc538",
     "diffEditor.insertedTextBackground": "#3bab881c",
