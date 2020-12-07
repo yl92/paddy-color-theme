@@ -1,4 +1,4 @@
-> ℹ️&nbsp;&nbsp;Italics are hedious with your favorite font? Upright versions are now available too!
+> ℹ️&nbsp;&nbsp;Not a fan of italics? No problem, upright versions are now available too!
 
 ![preview-image](https://raw.githubusercontent.com/troydraws/paddy-color-theme/master/paddy-color-theme-preview.gif)
 
@@ -24,7 +24,7 @@
 
 → **DM Mono**: [[Google Fonts](https://fonts.google.com/specimen/DM+Mono)]  
 
-→ **Recursive (Mono Duotone)**: There is a very interesting Recursive Mono Duotone option in the download package (Recursive_Code/Duotone), try it out! Recursive also came with fancy programming ligatures such as `->` or `>=`. [[recursive.design](https://www.recursive.design/)]  
+→ **Recursive (Mono Duotone)**: Recursive Mono Duotone (Recursive_Code/Duotone) is quite unique, and it comes with fancy programming ligatures. [[recursive.design](https://www.recursive.design/)]  
 
 → **SF Mono** Apple's monospace font. You can get it on [developer.apple.com](https://developer.apple.com/fonts/).  
 
@@ -38,26 +38,11 @@
 
 ---
 
-**Slashed zeros, and other "hidden" font features**
-
-Some fonts, such as IBM Plex Mono & JetBrains Mono comes with a dotted zero design by default, but also a slashed zero option hidden as a font ligature setting - you can turn it on by adding the following line to your `settings.json`:
-```json
-"editor.fontLigatures": "'zero' 1",
-```
-Or, if you are using fonts with more ligature options, such as the full version of [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/), add even fancier stuff:
-```json
-// 𝔅𝔩𝔞𝔠𝔨𝔩𝔢𝔱𝔱𝔢𝔯 𝔴𝔦𝔱𝔥 𝔏𝔦𝔤𝔞𝔱𝔲𝔯𝔢𝔰
-"editor.fontLigatures": "'calt' 1, 'ss03' 1",
-```
-You can edit `settings.json` by searching for the "Font Ligatures" or "settings.json" in the settings panel.
-
----
-
 **Customise your UI a bit more (still not affiliated)**
 
-→ The [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension can let you pick your beloved fonts to be used across UI as well as some other cool little features!  
+→ The [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension can let you pick your beloved fonts to be used across UI as well as some other cool little features.  
 
-→ [Chalice Icon Theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme) is great. No more messy colors all over the place for the file icons.
+→ [Chalice Icon Theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme) is good if you don't like the messy icon colors.
 
 ---
 
