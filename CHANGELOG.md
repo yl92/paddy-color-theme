@@ -1,13 +1,16 @@
+**`1.1.3` - 2021-01-01**
+- Fixed a bug in Paddy light
+
 **`1.1.2` - 2020-12-07**
 - Removing special color for "noFolder" status bar
 - Smaller fixes
 - Updating Readme
-  
---- 
+
+---
 **`1.1.1` - 2020-12-06**
 - Updating Readme 🎄
-  
---- 
+
+---
 
 **`1.1.0` - 2020-12-06**
 - All colors now have their upright counterpart with all italics stripped
@@ -46,7 +49,7 @@
 ---
 
 **`0.11.0` - 2020-11-13**
-- New dark theme: 🖋 Inkstone 
+- New dark theme: 🖋 Inkstone
 - New light theme: ❄️ Frost - Obligatory #ffffff background
 - General updates for all other themes
 
@@ -113,7 +116,7 @@
 
 **`0.9.3` - 2020-08-24**
 - Added Eggplant Variant 🍆
-- Added Mist Variant 
+- Added Mist Variant
 - Renamed Medium to Yesterday
 - General small tweaks
 
@@ -175,7 +178,7 @@ Updated some colors for JavaScript and the extension description
 ---
 
 **[Initial Release] `0.5.0` - 2019-09-29**
-- The original Paddy. Color saturation and brightness based on an iMac screen with high brightness. The origin of Paddy, would be an earlier color theme I made for Atom, called [Atrium](https://atom.io/themes/atrium-syntax). 
+- The original Paddy. Color saturation and brightness based on an iMac screen with high brightness. The origin of Paddy, would be an earlier color theme I made for Atom, called [Atrium](https://atom.io/themes/atrium-syntax).
 
 ---
 
