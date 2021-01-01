@@ -22,13 +22,15 @@
 
 → **IBM Plex Mono**: Satisfying italics! [[Official Site](https://www.ibm.com/plex/)] • [[Google Fonts](https://fonts.google.com/specimen/IBM+Plex+Mono)]  
 
+→ **Iosevka**: [[Official Site](https://typeof.net/Iosevka/)]
+
 → **DM Mono**: [[Google Fonts](https://fonts.google.com/specimen/DM+Mono)]  
 
 → **Recursive (Mono Duotone)**: Recursive Mono Duotone (Recursive_Code/Duotone) is quite unique, and it comes with fancy programming ligatures. [[recursive.design](https://www.recursive.design/)]  
 
 → **SF Mono** Apple's monospace font. You can get it on [developer.apple.com](https://developer.apple.com/fonts/).  
 
-→ **JetBrains Mono** JetBrains' open-source monospace font. [Get it on jetbrains.com](https://www.jetbrains.com/lp/mono/).  
+→ **JetBrains Mono** JetBrains' open-source monospace font. [Get it on jetbrains.com](https://www.jetbrains.com/lp/mono/). 
 
 ---
 
@@ -38,7 +40,7 @@
 
 ---
 
-**Customise your UI a bit more (still not affiliated)**
+**Customise your UI a bit more**
 
 → The [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension can let you pick your beloved fonts to be used across UI as well as some other cool little features.  
 

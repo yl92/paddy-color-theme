@@ -1,6 +1,12 @@
-**`1.1.3` - 2021-01-01**
-- Fixed a bug in Paddy light
+**`1.1.4` - 2021-01-01**
+- Fixed the wrong path for Paddy Light (thanks to [@a5hk](https://github.com/a5hk))
+- Added Iosevka to font recommendation list
 
+---
+**`1.1.3` - 2020-12-11**
+- Updating Readme
+
+---
 **`1.1.2` - 2020-12-07**
 - Removing special color for "noFolder" status bar
 - Smaller fixes
