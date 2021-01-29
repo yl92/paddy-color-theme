@@ -2,7 +2,7 @@
 	"name": "paddy-color-theme",
 	"displayName": "Paddy Color Theme",
 	"description": "A very detailed color theme with earthy tones and many background options for all ye badass hackers. 🎄🍁🪓",
-  "version": "1.1.4",
+  "version": "1.2.0",
 	"publisher": "yile-ou",
 	"author": {
 		"name": "Yile Ou",
@@ -37,6 +37,12 @@
         "label": "Paddy Emerald",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-emerald-color-theme.json"
+      },
+      {
+        "id": "paddy-grizzly",
+        "label": "Paddy Grizzly",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paddy-grizzly-color-theme.json"
       },
       {
         "id": "paddy-neptune",
@@ -111,6 +117,12 @@
         "label": "Upright Paddy Emerald",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-emerald-upright-color-theme.json"
+      },
+      { 
+        "id": "paddy-grizzly-upright",
+        "label": "Upright Paddy Grizzly",
+        "uiTheme": "vs-dark",
+        "path": "./themes/upright/Paddy-grizzly-upright-color-theme.json"
       },
       {
         "id": "paddy-neptune-upright",

@@ -2,15 +2,16 @@
 
 ![preview-image](https://raw.githubusercontent.com/troydraws/paddy-color-theme/master/paddy-color-theme-preview.gif)
 
-**A very detailed color theme with earthy tones and 12 background options for all ye badass hackers. 🍁**
+**A very detailed color theme with earthy tones and 13 background options for all ye badass hackers. 🍁**
 
-| Grays                              | With accent colors       | Light Themes |
-| ---------------------------------- | ------------------------ | ------------ |
-| 🪓 `Dark`                           | 🌲 `Emerald`              | 🌞 `Light`    |
-| 🐺 `Wolf` *Darker Gray, Warm*       | 🖋 `Inkstone`             | ❄️ `Frost`    |
-| 🤖 `Machine` *Medium Gray, Warm*    | 🔵 `Neptune`              |              |
-| 🌥 `Mist` *"Winter Dublin Edition"* | 🍆 `Eggplant`             |              |
-| 🎮 `Yesterday` *Medium Gray, Cold*  | 🚧 `𝔅𝔩𝔞𝔠𝔨` *Pitch Black!* |              |
+| Grays                              | With accent colors        | Light Themes |
+| ---------------------------------- | ------------------------- | ------------ |
+| 🪓 `Dark`                           | 🌲 `Emerald`               | 🌞 `Light`    |
+| 🌥 `Mist` *"Winter Dublin Edition"* | 🍆 `Eggplant`              | ❄️ `Frost`    |
+| 🤖 `Machine` *Medium Gray, Neutral* | 🔵 `Neptune`               |              |
+| 🐺 `Wolf` *Darker Gray, Neutral*    | 🐻 `Grizzly` *Coffee Time* |              |
+| 🎮 `Yesterday` *Medium Gray, Cold*  | 🖋 `Inkstone`              |              |
+|                                    | 🚧 `𝔅𝔩𝔞𝔠𝔨` *Pitch Black!*  |              |
 
 &NewLine;
 
@@ -22,7 +23,7 @@
 
 → **IBM Plex Mono**: Satisfying italics! [[Official Site](https://www.ibm.com/plex/)] • [[Google Fonts](https://fonts.google.com/specimen/IBM+Plex+Mono)]  
 
-→ **Iosevka**: [[Official Site](https://typeof.net/Iosevka/)]
+→ **Iosevka**: [[Official Site](https://typeof.net/Iosevka/)] Ridiculous amount of ligature & glyph customisations!
 
 → **DM Mono**: [[Google Fonts](https://fonts.google.com/specimen/DM+Mono)]  
 
@@ -36,7 +37,7 @@
 
 **Best paid font I've found so far (not affiliated)**
 
-→ [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
+→ [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/) I can no longer use any other font after trying out PragmataPro... 
 
 ---
 

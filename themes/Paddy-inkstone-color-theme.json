@@ -448,6 +448,15 @@
       }
     },
     {
+      "name": "entity.other.keyframe-offset.css",
+      "scope": [
+        "entity.other.keyframe-offset.css",
+      ],
+      "settings": {
+        "foreground": "#bdc94d"
+      }
+    },
+    {
       "name": "keyword.control.require",
       "scope": [
         "keyword.control.require",
@@ -997,7 +1006,7 @@
         "meta.return.type.tsx meta.type.parameters.tsx entity.name.type.tsx",
       ],
       "settings": {
-        "fontStyle": "underline italic",
+        "fontStyle": "italic underline",
         "foreground": "#91946c"
       }
     },
@@ -1007,7 +1016,7 @@
         "meta.interface.ts entity.other.inherited-class",
       ],
       "settings": {
-        "fontStyle": "underline italic",
+        "fontStyle": "italic underline",
         "foreground": "#bb5a19"
       }
     },
@@ -1128,7 +1137,7 @@
         "entity.name.type.module.tsx",
       ],
       "settings": {
-        "fontStyle": "italic bold underline",
+        "fontStyle": "bold italic underline",
         "foreground": "#d1a427"
       }
     },
@@ -1249,7 +1258,7 @@
         "new.expr.ts meta.type.parameters.ts entity.name.type.ts",
       ],
       "settings": {
-        "fontStyle": "underline italic",
+        "fontStyle": "italic underline",
         "foreground": "#9b6b23"
       }
     },
@@ -1268,7 +1277,7 @@
       }
     },
     {
-      "name": "CSS Property Name",
+      "name": "CSS Entity Name",
       "scope": [
         "meta.property-list entity.name.tag",
       ],
@@ -1483,7 +1492,6 @@
         "meta.tag.structure.template entity.name.tag.html",
       ],
       "settings": {
-        "fontStyle": "italic",
       }
     },
     {

@@ -435,6 +435,15 @@
       }
     },
     {
+      "name": "entity.other.keyframe-offset.css",
+      "scope": [
+        "entity.other.keyframe-offset.css",
+      ],
+      "settings": {
+        "foreground": "#bdc94d"
+      }
+    },
+    {
       "name": "keyword.control.require",
       "scope": [
         "keyword.control.require",
@@ -1242,7 +1251,7 @@
       }
     },
     {
-      "name": "CSS Property Name",
+      "name": "CSS Entity Name",
       "scope": [
         "meta.property-list entity.name.tag",
       ],
@@ -1840,7 +1849,7 @@
         "markup.quote markup.bold string"
       ],
       "settings": {
-        "fontStyle": "italic bold",
+        "fontStyle": "bold italic",
         "foreground": "#dfd4bf"
       }
     },
