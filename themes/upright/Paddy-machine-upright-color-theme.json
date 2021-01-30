@@ -1,9 +1,10 @@
 {
-  "name": "Paddy Machine",
+  "name": "Upright Paddy Machine",
   "type": "dark",
   "colors": {
 
     "foreground": "#f7dbc5",
+    "contrastBorder": "#f7dbc538",
 
     "editor.background": "#393837",
     "editor.foreground": "#f7dbc5",
@@ -31,7 +32,7 @@
     "tab.inactiveBackground": "#393837",
     "tab.inactiveForeground": "#f7dbc57a",
     "tab.activeForeground": "#ffffff",
-    "tab.activeBackground": "#393837",
+    "tab.activeBackground": "#e7e7e710",
     "editorGroupHeader.tabsBackground": "#393837",
 
     "activityBar.background": "#393837",
@@ -90,7 +91,7 @@
     "selection.background": "#86434399",
     "button.background": "#ff9029",
     "button.foreground": "#46403d",
-    "checkbox.background": "#a09c99",
+    "checkbox.background": "#555555",
     "checkbox.border": "#f7dbc538",
     "dropdown.background": "#393837",
     "dropdown.foreground": "#f7dbc5",
@@ -157,13 +158,13 @@
     "menu.selectionForeground": "#393837",
     "menu.separatorBackground": "#f7dbc538",
 
-    "list.focusBackground": "#ff902925",
-    "list.focusForeground": "#e9ded9",
-    "list.activeSelectionBackground": "#ff902944",
+    "list.focusBackground": "#ff902956",
+    "list.focusForeground": "#ffffff",
+    "list.activeSelectionBackground": "#fdcea144",
     "list.activeSelectionForeground": "#ff9029",
     "list.inactiveSelectionBackground": "#f7dbc511",
     "list.inactiveSelectionForeground": "#ff9029",
-    "list.hoverBackground": "#ff902952",
+    "list.hoverBackground": "#e7cbb02f",
     "list.errorForeground": "#f15c48",
     "list.invalidItemForeground": "#b8980a",
     "list.warningForeground": "#b8820c",

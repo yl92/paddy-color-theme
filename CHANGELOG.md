@@ -1,6 +1,10 @@
 **`1.3.0` - 2021-01-30**
 
-- Paddy Cedar 🌳
+- P. Eucalyptus 🌿
+- P. Ox 🧧 *Year of the Ox*
+- P. Neptune reworked
+- P. Wolf is now a bit warmer
+- List styling across all styles to address confusion between hover and focus state styling
   
 ---
 

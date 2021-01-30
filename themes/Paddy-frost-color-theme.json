@@ -168,7 +168,7 @@
     "menu.selectionForeground": "#31925d",
     "menu.separatorBackground": "#49c49f65",
 
-    "list.focusBackground": "#d2ece8",
+    "list.focusBackground": "#a6ddd5",
     "list.focusForeground": "#0b8630",
     "list.activeSelectionBackground": "#cde6e0",
     "list.activeSelectionForeground": "#145039",
@@ -176,7 +176,7 @@
     "list.inactiveSelectionForeground": "#146136",
     "list.inactiveFocusBackground": "#edf4f5",
     "list.hoverBackground": "#e2f3ef",
-    "list.hoverForeground": "#31993f",
+    "list.hoverForeground": "#0b1413",
     "list.errorForeground": "#f15c48",
     "list.invalidItemForeground": "#836b01",
     "list.warningForeground": "#815a07",

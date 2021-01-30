@@ -164,13 +164,13 @@
     "menu.selectionForeground": "#f1bc94",
     "menu.separatorBackground": "#fc913f38",
 
-    "list.focusBackground": "#ff902925",
+    "list.focusBackground": "#ff902960",
     "list.focusForeground": "#e9ded9",
     "list.activeSelectionBackground": "#ff902944",
     "list.activeSelectionForeground": "#ff9029",
     "list.inactiveSelectionBackground": "#f1bc9411",
     "list.inactiveSelectionForeground": "#ff9029",
-    "list.hoverBackground": "#ff902952",
+    "list.hoverBackground": "#ffd9cf11",
     "list.errorForeground": "#f15c48",
     "list.invalidItemForeground": "#b8980a",
     "list.warningForeground": "#b8820c",
@@ -972,7 +972,8 @@
         "support.type.builtin.tsx",
       ],
       "settings": {
-        "foreground": "#e4b63a"
+        "fontStyle": "underline",
+        "foreground": "#e49a3a"
       }
     },
     {
@@ -994,6 +995,7 @@
         "meta.return.type.tsx meta.type.parameters.tsx entity.name.type.tsx",
       ],
       "settings": {
+        "fontStyle": "underline",
         "foreground": "#9ca157"
       }
     },

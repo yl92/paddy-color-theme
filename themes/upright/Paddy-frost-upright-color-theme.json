@@ -1,5 +1,5 @@
 {
-  "name": "Paddy Frost",
+  "name": "Upright Paddy Frost",
   "type": "light",
   "colors": {
 
@@ -168,7 +168,7 @@
     "menu.selectionForeground": "#31925d",
     "menu.separatorBackground": "#49c49f65",
 
-    "list.focusBackground": "#d2ece8",
+    "list.focusBackground": "#a6ddd5",
     "list.focusForeground": "#0b8630",
     "list.activeSelectionBackground": "#cde6e0",
     "list.activeSelectionForeground": "#145039",

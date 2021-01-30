@@ -17,7 +17,7 @@
 	"categories": [
 		"Themes"
   ],
-  "keywords": ["color-theme", "warm", "rainbow", "colorful", "green", "red", "olive", "purple", "brown", "medium gray", "black", "high contrast", "low contrast", "white", "off white", "blue", "navy"],
+  "keywords": ["color-theme", "warm", "rainbow", "colorful", "green", "red", "organic", "olive", "purple", "brown", "medium gray", "black", "high contrast", "low contrast", "white", "off white", "blue", "navy"],
 	"contributes": {
 		"themes": [
       {
@@ -33,22 +33,16 @@
         "path": "./themes/Paddy-eggplant-color-theme.json"
       },
       {
-        "id": "paddy-emerald",
-        "label": "P. \\ Emerald",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Paddy-emerald-color-theme.json"
-      },
-      {
         "id": "paddy-grizzly",
         "label": "P. \\ Grizzly",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-grizzly-color-theme.json"
       },
       {
-        "id": "paddy-cedar",
-        "label": "P. \\ Cedar",
+        "id": "paddy-eucalyptus",
+        "label": "P. \\ Eucalyptus",
         "uiTheme": "vs-dark",
-        "path": "./themes/Paddy-cedar-color-theme.json"
+        "path": "./themes/Paddy-eucalyptus-color-theme.json"
       },
       {
         "id": "paddy-neptune",
@@ -61,6 +55,12 @@
         "label": "P. \\ Ox",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-ox-color-theme.json"
+      },
+      {
+        "id": "paddy-emerald",
+        "label": "P. \\ Emerald",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paddy-emerald-color-theme.json"
       },
       {
         "id": "paddy-frost",
@@ -124,17 +124,17 @@
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-eggplant-upright-color-theme.json"
       },
-      {
-        "id": "paddy-emerald-upright",
-        "label": "P. Upright \\ Emerald",
-        "uiTheme": "vs-dark",
-        "path": "./themes/upright/Paddy-emerald-upright-color-theme.json"
-      },
       { 
         "id": "paddy-grizzly-upright",
         "label": "P. Upright \\ Grizzly",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-grizzly-upright-color-theme.json"
+      },
+      { 
+        "id": "paddy-eucalyptus-upright",
+        "label": "P. Upright \\ Eucalyptus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/upright/Paddy-eucalyptus-upright-color-theme.json"
       },
       {
         "id": "paddy-neptune-upright",
@@ -147,6 +147,12 @@
         "label": "P. Upright \\ Ox",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-ox-upright-color-theme.json"
+      },
+      {
+        "id": "paddy-emerald-upright",
+        "label": "P. Upright \\ Emerald",
+        "uiTheme": "vs-dark",
+        "path": "./themes/upright/Paddy-emerald-upright-color-theme.json"
       },
       {
         "id": "paddy-frost-upright",

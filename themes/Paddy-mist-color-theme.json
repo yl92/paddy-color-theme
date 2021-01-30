@@ -154,13 +154,13 @@
 		"menu.selectionForeground": "#f3dfd5",
 		"menu.separatorBackground": "#cfb5a967",
 
-		"list.focusBackground": "#3BAB8725",
+		"list.focusBackground": "#3bab8854",
 		"list.focusForeground": "#e9ded9",
 		"list.activeSelectionBackground": "#50bb8644",
 		"list.activeSelectionForeground": "#fff8f5",
 		"list.inactiveSelectionBackground": "#cfb5a911",
 		"list.inactiveSelectionForeground": "#cfb5a9",
-		"list.hoverBackground": "#22866f4b",
+		"list.hoverBackground": "#e9ded911",
 		"list.errorForeground": "#f15c48",
 		"list.invalidItemForeground": "#b8980a",
 		"list.warningForeground": "#b8820c",
@@ -169,7 +169,9 @@
 		"listFilterWidget.background": "#033f2c",
 		"listFilterWidget.noMatchesOutline": "#ce4235",
 		"listFilterWidget.outline": "#00000000",
-		"list.filterMatchBackground": "#0eff7a2c",
+    "list.filterMatchBackground": "#0eff7a2c",
+    
+    "debugIcon.breakpointForeground": "#f77047",
 
 		"gitDecoration.addedResourceForeground": "#30ce3d",
 		"gitDecoration.modifiedResourceForeground": "#5cb9b5",
