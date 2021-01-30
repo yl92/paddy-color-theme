@@ -2,7 +2,7 @@
 	"name": "paddy-color-theme",
 	"displayName": "Paddy Color Theme",
 	"description": "A very detailed color theme with earthy tones and many background options for all ye badass hackers. 🎄🍁🪓",
-  "version": "1.2.0",
+  "version": "1.2.1",
 	"publisher": "yile-ou",
 	"author": {
 		"name": "Yile Ou",
@@ -22,79 +22,85 @@
 		"themes": [
       {
         "id": "paddy-inkstone",
-        "label": "Paddy Inkstone",
+        "label": "P. \\ Inkstone",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-inkstone-color-theme.json"
       },
       {
         "id": "paddy-eggplant",
-        "label": "Paddy Eggplant",
+        "label": "P. \\ Eggplant",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-eggplant-color-theme.json"
       },
       {
         "id": "paddy-emerald",
-        "label": "Paddy Emerald",
+        "label": "P. \\ Emerald",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-emerald-color-theme.json"
       },
       {
         "id": "paddy-grizzly",
-        "label": "Paddy Grizzly",
+        "label": "P. \\ Grizzly",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-grizzly-color-theme.json"
       },
       {
         "id": "paddy-neptune",
-        "label": "Paddy Neptune",
+        "label": "P. \\ Neptune",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-neptune-color-theme.json"
       },
       {
+        "id": "paddy-ox",
+        "label": "P. \\ Ox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paddy-ox-color-theme.json"
+      },
+      {
         "id": "paddy-frost",
-        "label": "Paddy Frost",
+        "label": "P. \\ Frost",
         "uiTheme": "vs",
         "path": "./themes/Paddy-frost-color-theme.json"
       },
       {
         "id": "paddy-light",
-        "label": "Paddy Light",
+        "label": "P. \\ Light",
         "uiTheme": "vs",
         "path": "./themes/Paddy-light-color-theme.json"
       },
       {
         "id": "paddy-mist",
-        "label": "Paddy Mist",
+        "label": "P. \\ Mist",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-mist-color-theme.json"
       },
       {
         "id": "paddy-yesterday",
-        "label": "Paddy Yesterday",
+        "label": "P. \\ Yesterday",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-yesterday-color-theme.json"
       },
       {
         "id": "paddy-machine",
-        "label": "Paddy Machine",
+        "label": "P. \\ Machine",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-machine-color-theme.json"
       },
       {
         "id": "paddy-wolf",
-        "label": "Paddy Wolf",
+        "label": "P. \\ Wolf",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-wolf-color-theme.json"
       },
       {
         "id": "paddy-dark",
-        "label": "Paddy Dark",
+        "label": "P. \\ Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-dark-color-theme.json"
       },
       {
         "id": "paddy-black",
-        "label": "Paddy Black",
+        "label": "P. \\ Black",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-black-color-theme.json"
       },
@@ -102,79 +108,85 @@
 
       {
         "id": "paddy-inkstone-upright",
-        "label": "Upright Paddy Inkstone",
+        "label": "P. Upright \\ Inkstone",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-inkstone-upright-color-theme.json"
       },
       {
         "id": "paddy-eggplant-upright",
-        "label": "Upright Paddy Eggplant",
+        "label": "P. Upright \\ Eggplant",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-eggplant-upright-color-theme.json"
       },
       {
         "id": "paddy-emerald-upright",
-        "label": "Upright Paddy Emerald",
+        "label": "P. Upright \\ Emerald",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-emerald-upright-color-theme.json"
       },
       { 
         "id": "paddy-grizzly-upright",
-        "label": "Upright Paddy Grizzly",
+        "label": "P. Upright \\ Grizzly",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-grizzly-upright-color-theme.json"
       },
       {
         "id": "paddy-neptune-upright",
-        "label": "Upright Paddy Neptune",
+        "label": "P. Upright \\ Neptune",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-neptune-upright-color-theme.json"
       },
       {
+        "id": "paddy-ox-upright",
+        "label": "P. Upright \\ Ox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/upright/Paddy-ox-upright-color-theme.json"
+      },
+      {
         "id": "paddy-frost-upright",
-        "label": "Upright Paddy Frost",
+        "label": "P. Upright \\ Frost",
         "uiTheme": "vs",
         "path": "./themes/upright/Paddy-frost-upright-color-theme.json"
       },
       {
         "id": "paddy-light-upright",
-        "label": "Upright Paddy Light",
+        "label": "P. Upright \\ Light",
         "uiTheme": "vs",
         "path": "./themes/upright/Paddy-light-upright-color-theme.json"
       },
       {
         "id": "paddy-mist-upright",
-        "label": "Upright Paddy Mist",
+        "label": "P. Upright \\ Mist",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-mist-upright-color-theme.json"
       },
       {
         "id": "paddy-yesterday-upright",
-        "label": "Upright Paddy Yesterday",
+        "label": "P. Upright \\ Yesterday",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-yesterday-upright-color-theme.json"
       },
       {
         "id": "paddy-machine-upright",
-        "label": "Upright Paddy Machine",
+        "label": "P. Upright \\ Machine",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-machine-upright-color-theme.json"
       },
       {
         "id": "paddy-wolf-upright",
-        "label": "Upright Paddy Wolf",
+        "label": "P. Upright \\ Wolf",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-wolf-upright-color-theme.json"
       },
       {
         "id": "paddy-dark-upright",
-        "label": "Upright Paddy Dark",
+        "label": "P. Upright \\ Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-dark-upright-color-theme.json"
       },
       {
         "id": "paddy-black-upright",
-        "label": "Upright Paddy Black",
+        "label": "P. Upright \\ Black",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-black-upright-color-theme.json"
       }

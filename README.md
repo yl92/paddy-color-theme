@@ -4,7 +4,7 @@
 
 **A very detailed color theme with earthy tones and 13 background options for all ye badass hackers. 🍁**
 
-| Grays                              | With accent colors        | Light Themes |
+| Grays                              | With Accent Colors        | Light Themes |
 | ---------------------------------- | ------------------------- | ------------ |
 | 🪓 `Dark`                           | 🌲 `Emerald`               | 🌞 `Light`    |
 | 🌥 `Mist` *"Winter Dublin Edition"* | 🍆 `Eggplant`              | ❄️ `Frost`    |
