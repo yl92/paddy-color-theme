@@ -51,6 +51,12 @@
         "path": "./themes/Paddy-neptune-color-theme.json"
       },
       {
+        "id": "paddy-ox",
+        "label": "P. \\ Ox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paddy-ox-color-theme.json"
+      },
+      {
         "id": "paddy-frost",
         "label": "P. \\ Frost",
         "uiTheme": "vs",
@@ -129,6 +135,12 @@
         "label": "P. Upright \\ Neptune",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-neptune-upright-color-theme.json"
+      },
+      {
+        "id": "paddy-ox-upright",
+        "label": "P. Upright \\ Ox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/upright/Paddy-ox-upright-color-theme.json"
       },
       {
         "id": "paddy-frost-upright",
