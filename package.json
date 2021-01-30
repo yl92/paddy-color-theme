@@ -17,7 +17,7 @@
 	"categories": [
 		"Themes"
   ],
-  "keywords": ["color-theme", "warm", "rainbow", "colorful", "green", "purple", "medium gray", "black", "high contrast", "low contrast", "white", "off white", "blue"],
+  "keywords": ["color-theme", "warm", "rainbow", "colorful", "green", "purple", "brown", "medium gray", "black", "high contrast", "low contrast", "white", "off white", "blue"],
 	"contributes": {
 		"themes": [
       {
