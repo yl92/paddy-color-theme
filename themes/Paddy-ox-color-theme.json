@@ -41,7 +41,7 @@
     "activityBar.background": "#1f0c0f",
     "activityBar.foreground": "#d4872e",
     "activityBar.border": "#fc553f38",
-    "activityBar.inactiveForeground": "#fc553f38",
+    "activityBar.inactiveForeground": "#fc553f62",
     "activityBarBadge.background": "#d4872e",
     "activityBarBadge.foreground": "#312f2e",
 
@@ -690,7 +690,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "italic",
       }
     },
     {
