@@ -62,8 +62,8 @@
 
     "terminal.background": "#0e1320",
     "terminal.foreground": "#e0c7c3",
-    "terminal.ansiBlack": "#000000",
-    "terminal.ansiBrightBlack": "#151616",
+    "terminal.ansiBlack": "#3d3735",
+    "terminal.ansiBrightBlack": "#504d47",
     "terminal.ansiBlue": "#3465a5",
     "terminal.ansiBrightBlue": "#3a89d3",
     "terminal.ansiCyan": "#08a087",
@@ -147,12 +147,12 @@
     "settings.modifiedItemIndicator": "#182b79",
     "pickerGroup.foreground": "#2c52e7",
 
-		"menu.background": "#0c0d18",
-		"menu.foreground": "#cfa9a9",
-		"menu.selectionBackground": "#3b5fab55",
-		"menu.selectionForeground": "#cfa9a9",
-		"menu.separatorBackground": "#a9b6cf07",
-
+		"menu.background": "#080b1a",
+    "menu.foreground": "#e0c7c3",
+    "menu.selectionBackground": "#2c52e7",
+    "menu.selectionForeground": "#ffe7e7",
+    "menu.separatorBackground": "#2c51e7a8",
+    
 		"list.focusBackground": "#212b53",
 		"list.focusForeground": "#ffffff",
 		"list.activeSelectionBackground": "#24398b",

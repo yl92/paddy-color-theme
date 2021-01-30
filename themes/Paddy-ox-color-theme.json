@@ -27,9 +27,9 @@
     "editorHint.border": "#21b39a",
 
     "titleBar.activeBackground": "#1f0c0f",
-    "titleBar.activeForeground": "#d4872e",
+    "titleBar.activeForeground": "#ecaf87",
     "titleBar.inactiveBackground": "#1f0c0f",
-    "titleBar.inactiveForeground": "#ff892e65",
+    "titleBar.inactiveForeground": "#ecaf8765",
 
     "tab.border": "#0000",
     "tab.inactiveBackground": "#1f0c0f",
@@ -68,8 +68,8 @@
 
     "terminal.background": "#1f0c0f",
     "terminal.foreground": "#ecaf87",
-    "terminal.ansiBlack": "#000000",
-    "terminal.ansiBrightBlack": "#151616",
+    "terminal.ansiBlack": "#3d3735",
+    "terminal.ansiBrightBlack": "#504d47",
     "terminal.ansiBlue": "#3465a5",
     "terminal.ansiBrightBlue": "#3a89d3",
     "terminal.ansiCyan": "#08a087",
@@ -161,11 +161,12 @@
     // "notebook.cellToolbarSeparator": "#fd9b4036",
     "pickerGroup.foreground": "#f0371e",
     
-    "menu.background": "#1f0c0f",
+    "menu.background": "#290f13",
+    "menu.border": "#fc553f38",
     "menu.foreground": "#ecaf87",
-    "menu.selectionBackground": "#f0371e55",
-    "menu.selectionForeground": "#ecaf87",
-    "menu.separatorBackground": "#f0371e07",
+    "menu.selectionBackground": "#d4872e",
+    "menu.selectionForeground": "#331116",
+    "menu.separatorBackground": "#f0361e86",
 
     "list.focusBackground": "#f0371e25",
     "list.focusForeground": "#e9ded9",

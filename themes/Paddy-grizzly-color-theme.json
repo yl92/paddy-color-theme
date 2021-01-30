@@ -68,8 +68,8 @@
 
     "terminal.background": "#201612",
     "terminal.foreground": "#f1bc94",
-    "terminal.ansiBlack": "#000000",
-    "terminal.ansiBrightBlack": "#151616",
+    "terminal.ansiBlack": "#3d3735",
+    "terminal.ansiBrightBlack": "#504d47",
     "terminal.ansiBlue": "#3465a5",
     "terminal.ansiBrightBlue": "#3a89d3",
     "terminal.ansiCyan": "#08a087",
@@ -158,11 +158,11 @@
     // "notebook.cellToolbarSeparator": "#fd9b4036",
     "pickerGroup.foreground": "#ff9029",
     
-    "menu.background": "#201612",
+    "menu.background": "#110a07",
     "menu.foreground": "#f1bc94",
     "menu.selectionBackground": "#ff902955",
     "menu.selectionForeground": "#f1bc94",
-    "menu.separatorBackground": "#ff902907",
+    "menu.separatorBackground": "#fc913f38",
 
     "list.focusBackground": "#ff902925",
     "list.focusForeground": "#ffd9cf",

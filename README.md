@@ -8,9 +8,9 @@
 | ---------------------------------- | ------------------------- | ------------ |
 | 🪓 `Dark`                           | 🌲 `Emerald`               | 🌞 `Light`    |
 | 🌥 `Mist` *"Winter Dublin Edition"* | 🍆 `Eggplant`              | ❄️ `Frost`    |
-| 🤖 `Machine` *Medium Gray, Neutral* | 🔵 `Neptune`               |              |
-| 🐺 `Wolf` *Darker Gray, Neutral*    | 🐻 `Grizzly` *Coffee Time* |              |
-| 🎮 `Yesterday` *Medium Gray, Cold*  | 🖋 `Inkstone`              |              |
+| 🤖 `Machine` *Medium, Neutral-Warm* | 🔵 `Neptune`               |              |
+| 🐺 `Wolf` *Darker, Neutral*         | 🐻 `Grizzly` *Coffee Time* |              |
+| 🎮 `Yesterday` *Medium, Cold*       | 🖋 `Inkstone`              |              |
 |                                    | 🚧 `𝔅𝔩𝔞𝔠𝔨` *Pitch Black!*  |              |
 
 &NewLine;

@@ -67,8 +67,8 @@
 
     "terminal.background": "#000000",
     "terminal.foreground": "#f5dcbc",
-    "terminal.ansiBlack": "#292826",
-    "terminal.ansiBrightBlack": "#3f3e3a",
+    "terminal.ansiBlack": "#3d3735",
+    "terminal.ansiBrightBlack": "#504d47",
     "terminal.ansiBlue": "#3465a5",
     "terminal.ansiBrightBlue": "#3a89d3",
     "terminal.ansiCyan": "#08a087",
@@ -156,10 +156,11 @@
     
     "menu.background": "#000000",
     "menu.foreground": "#f5dcbc",
-    "menu.selectionBackground": "#ffbb0055",
-    "menu.selectionForeground": "#f5dcbc",
-    "menu.separatorBackground": "#ffbb0007",
-
+    "menu.border": "#f5dcbc29",
+    "menu.selectionBackground": "#ffbb00",
+    "menu.selectionForeground": "#000000",
+    "menu.separatorBackground": "#f5dcbc65",
+    
     "list.focusBackground": "#ffbb0049",
     "list.focusForeground": "#e9ded9",
     "list.activeSelectionBackground": "#ffbb005e",

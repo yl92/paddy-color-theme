@@ -64,8 +64,8 @@
 
     "terminal.background": "#0e161d",
     "terminal.foreground": "#E7C4AB",
-    "terminal.ansiBlack": "#000000",
-    "terminal.ansiBrightBlack": "#151616",
+    "terminal.ansiBlack": "#353d3d",
+    "terminal.ansiBrightBlack": "#475050",
     "terminal.ansiBlue": "#3465a5",
     "terminal.ansiBrightBlue": "#3a89d3",
     "terminal.ansiCyan": "#08a087",
@@ -104,7 +104,7 @@
     "scrollbar.shadow": "#0d151d",
     "badge.background": "#c23725",
     "badge.foreground": "#000000",
-    "notifications.background": "#151c2c",
+    "notifications.background": "#172029",
     "notifications.foreground": "#E7C4AB",
     "notifications.border": "#1b2335",
     "diffEditor.insertedTextBackground": "#3bab881c",
@@ -152,11 +152,11 @@
     "settings.modifiedItemIndicator": "#c74017",
     "pickerGroup.foreground": "#c74017",
 
-		"menu.background": "#0c0d18",
+		"menu.background": "#172029",
 		"menu.foreground": "#E7C4AB",
 		"menu.selectionBackground": "#c7401755",
 		"menu.selectionForeground": "#E7C4AB",
-		"menu.separatorBackground": "#a9b6cf07",
+		"menu.separatorBackground": "#a9b6cf38",
 
 		"list.focusBackground": "#e1444742",
 		"list.focusForeground": "#f5d5bd",

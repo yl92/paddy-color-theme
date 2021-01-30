@@ -47,8 +47,8 @@
 
     "sideBar.background": "#f6faf9",
     "sideBar.border": "#86bd983a",
-    "sideBar.foreground": "#1b1a1a",
-    "sideBarTitle.foreground": "#1b1a1a",
+    "sideBar.foreground": "#203123",
+    "sideBarTitle.foreground": "#203123",
     "sideBarSectionHeader.background": "#dcece9",
     "sideBarSectionHeader.border": "#0000",
 
@@ -164,9 +164,9 @@
 
     "menu.background": "#ffffff",
     "menu.foreground": "#0b1413",
-    "menu.selectionBackground": "#34ac4455",
-    "menu.selectionForeground": "#091f1a",
-    "menu.separatorBackground": "#0d2b2207",
+    "menu.selectionBackground": "#e3f0ee",
+    "menu.selectionForeground": "#31925d",
+    "menu.separatorBackground": "#49c49f65",
 
     "list.focusBackground": "#d2ece8",
     "list.focusForeground": "#0b8630",

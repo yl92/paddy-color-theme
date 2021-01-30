@@ -1,3 +1,10 @@
+**`1.2.1` - 2021-01-30**
+
+- Fixes for menu colors in Windows
+- Brighter Terminal black colors to fix invisible text
+  
+---
+
 **`1.2.0` - 2021-01-29**
 
 - Paddy Grizzly 🐻: Leathery Coffeeish Cinnammon Brown

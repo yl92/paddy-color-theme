@@ -151,10 +151,11 @@
     "pickerGroup.foreground": "#ff9029",
     
     "menu.background": "#393837",
+    "menu.border": "#f7dbc538",
     "menu.foreground": "#f7dbc5",
-    "menu.selectionBackground": "#ff902955",
-    "menu.selectionForeground": "#f7dbc5",
-    "menu.separatorBackground": "#ff902907",
+    "menu.selectionBackground": "#ff9029",
+    "menu.selectionForeground": "#393837",
+    "menu.separatorBackground": "#f7dbc538",
 
     "list.focusBackground": "#ff902925",
     "list.focusForeground": "#e9ded9",

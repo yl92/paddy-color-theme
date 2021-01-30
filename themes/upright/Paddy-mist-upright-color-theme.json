@@ -109,7 +109,7 @@
     "diffEditor.removedTextBackground": "#b424242a",
     "diffEditor.removedTextBorder": "#b4242448",
 
-    "editorWidget.background": "#485756",
+    "editorWidget.background": "#2a3636",
     "editorWidget.foreground": "#eccbbb",
     "editorWidget.border": "#657a79",
     "editorLink.activeForeground": "#20dda1",
@@ -148,11 +148,11 @@
     "settings.modifiedItemIndicator": "#31925d",
     "pickerGroup.foreground": "#62a893",
 
-		"menu.background": "#0b1314",
-		"menu.foreground": "#cfb5a9",
-		"menu.selectionBackground": "#3BAB8755",
-		"menu.selectionForeground": "#cfb5a9",
-		"menu.separatorBackground": "#cfb5a907",
+		"menu.background": "#2a3636",
+    "menu.foreground": "#cfb5a9",
+    "menu.selectionBackground": "#7d9b9155",
+    "menu.selectionForeground": "#f3dfd5",
+    "menu.separatorBackground": "#cfb5a967",
 
 		"list.focusBackground": "#3BAB8725",
 		"list.focusForeground": "#e9ded9",
