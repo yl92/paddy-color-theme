@@ -1,5 +1,5 @@
 {
-  "name": "Paddy Grizzly",
+  "name": "Upright Paddy Ox",
   "type": "dark",
   "colors": {
 
@@ -13,7 +13,7 @@
     "editor.foreground": "#ecaf87",
     "editorCursor.background": "#f0371e55",
     "editorCursor.foreground": "#f0371e",
-    "editor.selectionBackground": "#df251e3d",
+    "editor.selectionBackground": "#df1e2e46",
     "editor.selectionHighlightBackground": "#fa65654d",
     "editor.wordHighlightBackground": "#db3e3333",
     "editor.wordHighlightStrongBackground": "#db473349",
@@ -169,11 +169,11 @@
     "menu.separatorBackground": "#f0361e86",
 
     "list.focusBackground": "#f0371e25",
-    "list.focusForeground": "#e9ded9",
+    "list.focusForeground": "#ffb875",
     "list.activeSelectionBackground": "#f0371e44",
-    "list.activeSelectionForeground": "#f0371e",
-    "list.inactiveSelectionBackground": "#ecaf8711",
-    "list.inactiveSelectionForeground": "#f0371e",
+    "list.activeSelectionForeground": "#ffa046",
+    "list.inactiveSelectionBackground": "#f0371e22",
+    "list.inactiveSelectionForeground": "#f0831e",
     "list.hoverBackground": "#f0371e52",
     "list.errorForeground": "#f15c48",
     "list.invalidItemForeground": "#b8980a",

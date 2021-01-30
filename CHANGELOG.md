@@ -1,3 +1,9 @@
+**`1.3.0` - 2021-01-30**
+
+- Paddy Cedar 🌳
+  
+---
+
 **`1.2.1` - 2021-01-30**
 
 - Fixes for menu colors in Windows

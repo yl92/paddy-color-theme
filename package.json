@@ -17,7 +17,7 @@
 	"categories": [
 		"Themes"
   ],
-  "keywords": ["color-theme", "warm", "rainbow", "colorful", "green", "purple", "brown", "medium gray", "black", "high contrast", "low contrast", "white", "off white", "blue"],
+  "keywords": ["color-theme", "warm", "rainbow", "colorful", "green", "red", "olive", "purple", "brown", "medium gray", "black", "high contrast", "low contrast", "white", "off white", "blue", "navy"],
 	"contributes": {
 		"themes": [
       {
@@ -43,6 +43,12 @@
         "label": "P. \\ Grizzly",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-grizzly-color-theme.json"
+      },
+      {
+        "id": "paddy-cedar",
+        "label": "P. \\ Cedar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paddy-cedar-color-theme.json"
       },
       {
         "id": "paddy-neptune",
