@@ -1,3 +1,9 @@
+**`1.3.1` - 2021-01-30**
+
+- A bunch of minor adjustments to the three new themes
+
+---
+
 **`1.3.0` - 2021-01-30**
 
 - P. Eucalyptus 🌿

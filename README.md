@@ -39,7 +39,7 @@
 
 **Best paid font I've found so far (not affiliated)**
 
-→ [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/) I can no longer use any other fonts after trying out PragmataPro... 
+→ [[PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)] I can no longer use any other font after trying out this one... it's just *almost* perfect.
 
 ---
 

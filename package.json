@@ -2,7 +2,7 @@
 	"name": "paddy-color-theme",
 	"displayName": "Paddy Color Theme",
 	"description": "A very detailed color theme with earthy tones and many background options for all ye badass hackers. 🎄🍁🪓",
-  "version": "1.3.0",
+  "version": "1.3.1",
 	"publisher": "yile-ou",
 	"author": {
 		"name": "Yile Ou",
@@ -15,7 +15,7 @@
 		"vscode": "^1.38.0"
 	},
 	"categories": [
-		"Themes"
+		"Themes" 
   ],
   "keywords": ["color-theme", "warm", "rainbow", "colorful", "green", "red", "organic", "olive", "purple", "brown", "medium gray", "black", "high contrast", "low contrast", "white", "off white", "blue", "navy"],
 	"contributes": {
