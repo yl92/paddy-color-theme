@@ -33,4 +33,6 @@ Lunar - Desaturated grays
 ? - Some sort of Blue... Tibetan sky?
 ? - Purple, dark, traditional / royal
 (?) High contrast black: use standard colors from the vintage 256-color palette?
+? - Light: Lisbon?
+
 

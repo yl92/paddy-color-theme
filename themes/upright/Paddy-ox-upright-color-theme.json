@@ -190,7 +190,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#663535"
+        "foreground": "#804747"
       }
     },
     {
@@ -1384,7 +1384,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#b98962"
+        "foreground": "#e2ad82"
       }
     },
     {
