@@ -13,7 +13,7 @@
 13 Grizzly
 14 Ox
 15 Eucalyptus
-16 
+16 Citadel
 17
 18
 19
@@ -25,7 +25,6 @@
 
 Tussock - Desaturated yellow brown
 Santorini - Light theme, pure white with blue accent colors
-Citadel - Dark, futuristic teal
 ? - teal + magenta
 Lunar - Desaturated grays
 ? - lavendar?

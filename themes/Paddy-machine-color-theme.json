@@ -4,13 +4,14 @@
   "colors": {
 
     "foreground": "#f7dbc5",
-    "contrastBorder": "#f7dbc538",
+    // "contrastBorder": "#f7dbc538",
+    "icon.foreground": "#ff9029",
 
     "editor.background": "#393837",
     "editor.foreground": "#f7dbc5",
     "editorCursor.background": "#ff902955",
     "editorCursor.foreground": "#ff9029",
-    "editor.selectionBackground": "#b4b1aa3d",
+    "editor.selectionBackground": "#ff90293d",
     "editor.selectionHighlightBackground": "#8643434d",
     "editor.wordHighlightBackground": "#db7f3333",
     "editor.wordHighlightStrongBackground": "#db923349",
@@ -31,8 +32,9 @@
     "tab.border": "#0000",
     "tab.inactiveBackground": "#393837",
     "tab.inactiveForeground": "#f7dbc57a",
-    "tab.activeForeground": "#ffffff",
-    "tab.activeBackground": "#e7e7e710",
+    "tab.activeForeground": "#ff9029",
+    "tab.activeBackground": "#393837",
+    "tab.activeBorderTop": "#ff9029",
     "editorGroupHeader.tabsBackground": "#393837",
 
     "activityBar.background": "#393837",
@@ -769,7 +771,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#ff843d"
+        "foreground": "#ff9029"
       }
     },
     {

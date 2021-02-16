@@ -1,3 +1,12 @@
+**`1.4.0` - 2021-02-16**
+
+- P. Citadel
+- Active tab top border for most themes
+- Peek view file name highlights colored
+- Small tweaks
+
+---
+
 **`1.3.1` - 2021-01-30**
 
 - A bunch of minor adjustments to the three new themes

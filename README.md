@@ -1,16 +1,17 @@
 ![preview-image](https://raw.githubusercontent.com/troydraws/paddy-color-theme/master/paddy-color-theme-preview.gif)
 
-**A very detailed color theme with earthy tones and 15 background options for all ye badass hackers. 🍁**
+**A set of very detailed color themes with earthy tones and 16 background options for all ye badass hackers. 🍁**
 
-| Grayscale                          | With Accent Colors          | Light Themes |
-| ---------------------------------- | --------------------------- | ------------ |
-| 🚧 `𝔅𝔩𝔞𝔠𝔨` Pitch Black!             | 🍆 `Eggplant`                | 🌞 `Light`    |
-| 🪓 `Dark` The Classic Choice        | 🌲 `Emerald`                 | ❄️ `Frost`    |
-| 🌥 `Mist` *"Winter Dublin Edition"* | 🧧 `Ox` [New] Year of the Ox |              |
-| 🤖 `Machine` Medium, Neutral-Warm   | 🐻 `Grizzly` [New]           |              |
-| 🐺 `Wolf` Darker, Neutral-Warm      | 🌿 `Eucalyptus` [New]        |              |
-| 🎮 `Yesterday` Medium, Cold         | 🖋 `Inkstone` [Default]      |              |
-|                                    | 🔵 `Neptune`                 |              |
+| Grayscale                          | With Accent Colors     | Light Themes |
+| ---------------------------------- | ---------------------- | ------------ |
+| 🚧 `𝔅𝔩𝔞𝔠𝔨` Pitch Black              | 🍆 `Eggplant`           | 🌞 `Light`    |
+| 🪓 `Dark` The Classic Choice        | 🌲 `Emerald`            | ❄️ `Frost`    |
+| 🌥 `Mist` *"Winter Dublin Edition"* | 🧧 `Ox` Year of the Ox  |              |
+| 🤖 `Machine` Medium, Neutral-Warm   | 🐻 `Grizzly`            |              |
+| 🐺 `Wolf` Darker, Neutral-Warm      | 🌿 `Eucalyptus`         |              |
+| 🎮 `Yesterday` Medium, Cold         | 🖋 `Inkstone` [Default] |              |
+|                                    | λ&nbsp;  `Citadel`     |              |
+|                                    | 🔵 `Neptune`            |              |
 
 &NewLine;
 

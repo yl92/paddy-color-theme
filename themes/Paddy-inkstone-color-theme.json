@@ -33,6 +33,7 @@
 		"tab.inactiveForeground": "#E7C4AB5b",
 		"tab.activeForeground": "#E7C4AB",
     "tab.activeBackground": "#131c24",
+    "tab.activeBorderTop": "#e7c4ab6e",
     "editorGroupHeader.tabsBackground": "#0e181f",
 		
 		"activityBar.background": "#070e15",

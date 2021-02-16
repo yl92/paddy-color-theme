@@ -31,13 +31,14 @@
 		"tab.inactiveBackground": "#16121b",
 		"tab.activeForeground": "#ffe4d8",
     "tab.activeBackground": "#1e1727",
+    "tab.activeBorderTop": "#bd9052",
     "editorGroupHeader.tabsBackground": "#16121b",
 		
 		"activityBar.background": "#100818",
-		"activityBar.foreground": "#9e825b",
+		"activityBar.foreground": "#bd9052",
 		"activityBar.border": "#0000",
 		"activityBar.inactiveForeground": "#917fa86c",
-		"activityBarBadge.background": "#9e825b",
+		"activityBarBadge.background": "#bd9052",
 		"activityBarBadge.foreground": "#100818",
 
 		"sideBar.background": "#190f22",
@@ -57,8 +58,8 @@
 
 		"panel.border": "#1e1727",
 		"panel.background": "#160d1f",
-		"panelTitle.activeForeground": "#eccec0",
-    "panelTitle.inactiveForeground": "#cfb5a979",
+		"panelTitle.activeForeground": "#bd9052",
+    "panelTitle.inactiveForeground": "#bd905279",
 
     "terminal.background": "#160d1f",
     "terminal.foreground": "#e7cdc0",
@@ -157,8 +158,8 @@
     
     "debugIcon.breakpointForeground": "#d8471b",
 
-		"list.focusBackground": "#a385339f",
-		"list.focusForeground": "#e9ded9",
+		"list.focusBackground": "#bd905269",
+    "list.focusForeground": "#fff8f5",
 		"list.activeSelectionBackground": "#50bb8644",
 		"list.activeSelectionForeground": "#fff8f5",
 		"list.inactiveSelectionBackground": "#cfb5a911",

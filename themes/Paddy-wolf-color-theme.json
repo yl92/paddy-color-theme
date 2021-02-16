@@ -29,8 +29,9 @@
 
     "tab.border": "#0000",
     "tab.inactiveBackground": "#201f1e",
-    "tab.activeForeground": "#f0e1db",
+    "tab.activeForeground": "#fcc9b5",
     "tab.activeBackground": "#252221",
+    "tab.activeBorderTop": "#ee560f",
     "editorGroupHeader.tabsBackground": "#201f1e",
 
     "activityBar.background": "#191816",
@@ -1246,7 +1247,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#ca8a12"
+        "foreground": "#eba21c"
       }
     },
     {

@@ -1,8 +1,8 @@
 {
 	"name": "paddy-color-theme",
 	"displayName": "Paddy Color Theme",
-	"description": "A very detailed color theme with earthy tones and many background options for all ye badass hackers. 🎄🍁🪓",
-  "version": "1.3.1",
+	"description": "A set of very detailed color theme with earthy tones for all ye badass hackers. 🎄🍁🪓",
+  "version": "1.4.0",
 	"publisher": "yile-ou",
 	"author": {
 		"name": "Yile Ou",
@@ -17,7 +17,7 @@
 	"categories": [
 		"Themes" 
   ],
-  "keywords": ["color-theme", "warm", "rainbow", "colorful", "green", "red", "organic", "olive", "purple", "brown", "medium gray", "black", "high contrast", "low contrast", "white", "off white", "blue", "navy"],
+  "keywords": ["color-theme", "warm", "rainbow", "colorful", "green", "red", "organic", "half-life", "half-life-alyx", "citadel", "teal", "olive", "purple", "brown", "medium gray", "black", "high contrast", "low contrast", "white", "off white", "blue", "navy"],
 	"contributes": {
 		"themes": [
       {
@@ -43,6 +43,12 @@
         "label": "P. \\ Eucalyptus",
         "uiTheme": "vs-dark",
         "path": "./themes/Paddy-eucalyptus-color-theme.json"
+      },
+      {
+        "id": "paddy-citadel",
+        "label": "P. \\ Citadel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paddy-citadel-color-theme.json"
       },
       {
         "id": "paddy-neptune",
@@ -135,6 +141,12 @@
         "label": "P. Upright \\ Eucalyptus",
         "uiTheme": "vs-dark",
         "path": "./themes/upright/Paddy-eucalyptus-upright-color-theme.json"
+      },
+      { 
+        "id": "paddy-citadel-upright",
+        "label": "P. Upright \\ Citadel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/upright/Paddy-citadel-upright-color-theme.json"
       },
       {
         "id": "paddy-neptune-upright",
