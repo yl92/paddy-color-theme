@@ -142,6 +142,8 @@
     "peekViewTitleLabel.foreground": "#f7dbc5",
     "peekViewEditor.background": "#ff902910",
     "peekViewEditor.matchHighlightBackground": "#ff6d0b44",
+    "peekViewResult.selectionBackground": "#ff9029",
+    "peekViewResult.selectionForeground": "#393837",
     "peekViewResult.background": "#ff90294f",
     "peekViewResult.fileForeground": "#e2ccc2",
     "peekViewResult.lineForeground": "#f7dbc5a6",

@@ -5,7 +5,7 @@
 
     "foreground": "#cfb5a9",
 
-    "editor.background": "#252320",
+    "editor.background": "#252221",
     "editor.foreground": "#cfb5a9",
     "editorCursor.background": "#ee560f55",
     "editorCursor.foreground": "#ee560f",
@@ -22,15 +22,15 @@
     "editorInfo.border": "#1ea050",
     "editorHint.border": "#21b39a",
 
-    "titleBar.activeBackground": "#252320",
+    "titleBar.activeBackground": "#252221",
     "titleBar.activeForeground": "#cfb5a9",
-    "titleBar.inactiveBackground": "#252320",
+    "titleBar.inactiveBackground": "#252221",
     "titleBar.inactiveForeground": "#cfb5a9b6",
 
     "tab.border": "#0000",
     "tab.inactiveBackground": "#201f1e",
     "tab.activeForeground": "#f0e1db",
-    "tab.activeBackground": "#252320",
+    "tab.activeBackground": "#252221",
     "editorGroupHeader.tabsBackground": "#201f1e",
 
     "activityBar.background": "#191816",
@@ -44,7 +44,7 @@
     "sideBar.border": "#0000",
     "sideBar.foreground": "#cfb5a9",
     "sideBarTitle.foreground": "#cfb5a9",
-    "sideBarSectionHeader.background": "#252320",
+    "sideBarSectionHeader.background": "#252221",
     "sideBarSectionHeader.border": "#0000",
 
     "statusBar.background": "#191816",
@@ -55,7 +55,7 @@
     "statusBarItem.prominentHoverBackground": "#3BAB87dd",
     "statusBarItem.remoteBackground": "#3BAB87",
 
-    "panel.border": "#252320",
+    "panel.border": "#252221",
     "panel.background": "#1d1b1a",
     "panelTitle.activeForeground": "#fa6d2c",
     "panelTitle.inactiveForeground": "#cfb5a966",
@@ -138,6 +138,7 @@
     "peekViewTitleLabel.foreground": "#cfb5a9",
     "peekViewEditor.background": "#31925d10",
     "peekViewEditor.matchHighlightBackground": "#ff6d0b44",
+    "peekViewResult.selectionBackground": "#31925d99",
     "peekViewResult.background": "#10492a4f",
     "peekViewResult.fileForeground": "#e2ccc2",
     "peekViewResult.lineForeground": "#cfb5a9a6",
