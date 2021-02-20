@@ -1,3 +1,9 @@
+**`1.4.3` - 2021-02-20**
+
+- Peek View in Citadel fixed
+
+---
+
 **`1.4.2` - 2021-02-18**
 
 - New Icon, but very round
