@@ -19,9 +19,9 @@
     "editor.findMatchHighlightBorder": "#d857ad4b",
 
 		"editorError.foreground": "#c71726",
-		"editorWarning.foreground": "#EE9351",
-		"editorInfo.border": "#408ACE",
-		"editorHint.border": "#33DB9E",
+    "editorWarning.foreground": "#e98842",
+    "editorInfo.foreground": "#73b4ac",
+    "editorHint.foreground": "#34a125",
 
 		"titleBar.activeBackground": "#131c24",
 		"titleBar.activeForeground": "#E7C4AB",

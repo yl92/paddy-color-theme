@@ -1,3 +1,9 @@
+**`1.4.4` - 2021-04-19**
+
+- Double hint / info squiggly lines fixed
+
+---
+
 **`1.4.3` - 2021-02-20**
 
 - Peek View in Citadel fixed
@@ -20,7 +26,7 @@
 
 - P. Citadel
 - Active tab top border for most themes
-- Peek view file name highlights colored
+- Peek view file name highlights coloured
 - Small tweaks
 
 ---
@@ -50,7 +56,7 @@
 
 **`1.2.0` - 2021-01-29**
 
-- Paddy Grizzly 🐻: Leathery Coffeeish Cinnammon Brown
+- Paddy Grizzly 🐻: Leathery Coffee-ish Cinnamon Brown
   
 ---
 
@@ -121,7 +127,7 @@
 ---
 
 **`0.10.3` - 2020-11-05**
-- Added coloring for TypeScript 4.0's tuple labels
+- Added colouring for TypeScript 4.0's tuple labels
 - Neptune's color temperature is now consistent with the rest
 - Paddy Yesterday has been updated, much more saturated and balanced
 - General updates across the board
@@ -211,7 +217,7 @@
 
 **`0.8.0` - 2020-04-18**
 - General updates: a lot more details for TS/TSX/CSS
-- some details in UI coloring fixed
+- some details in UI colouring fixed
 
 ---
 
@@ -233,7 +239,7 @@ Added Medium Gray variation, closer to the original aesthetics of [Atrium](https
 
 **`0.7.0` - 2019-10-03**
 - Added terminal colors
-- Vue coloring optimisations
+- Vue colouring optimisations
 
 ---
 

@@ -22,10 +22,10 @@
     "icon.foreground": "#038033",
     // "symbolIcon.keyForeground": "#038033",
 
-    "editorError.foreground": "#ec5325",
-    "editorWarning.foreground": "#be800d",
-    "editorInfo.border": "#038033",
-    "editorHint.border": "#048b75",
+    "editorError.foreground": "#ff5c69",
+    "editorWarning.foreground": "#ffa05b",
+    "editorInfo.foreground": "#72bdb4",
+    "editorHint.foreground": "#58be4a",
 
     "titleBar.activeBackground": "#f3e7e2",
     "titleBar.activeForeground": "#423926",

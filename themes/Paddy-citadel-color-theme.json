@@ -22,10 +22,10 @@
     "editor.findMatchHighlightBackground": "#ce0d9e33",
     "editor.findMatchHighlightBorder": "#d857ad33",
 
-    "editorError.foreground": "#ff440b",
-    "editorWarning.foreground": "#ffaa0b",
-    "editorInfo.border": "#1ea050",
-    "editorHint.border": "#21b39a",
+    "editorError.foreground": "#c71726",
+    "editorWarning.foreground": "#e98842",
+    "editorInfo.foreground": "#73b4ac",
+    "editorHint.foreground": "#34a125",
 
     "titleBar.activeBackground": "#092630",
     "titleBar.activeForeground": "#f0ab90",
