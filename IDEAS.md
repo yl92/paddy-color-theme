@@ -26,7 +26,6 @@
 Tussock - Desaturated yellow brown
 Santorini - Light theme, pure white with blue accent colors
 ? - teal + magenta
-Lunar - Desaturated grays
 ? - lavendar?
 ? - light: classic Windows gray?
 ? - Some sort of Blue... Tibetan sky?
