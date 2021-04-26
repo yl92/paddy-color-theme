@@ -43,7 +43,7 @@
     "activityBar.background": "#0c0414",
     "activityBar.foreground": "#604fff",
     "activityBar.border": "#604fff50",
-    "activityBar.inactiveForeground": "#604fff62",
+    "activityBar.inactiveForeground": "#604fff99",
     "activityBarBadge.background": "#af70f7",
     "activityBarBadge.foreground": "#312f2e",
 
@@ -69,7 +69,7 @@
     "panelTitle.inactiveForeground": "#5b455e",
 
     "terminal.background": "#0c0414",
-    "terminal.foreground": "#be94c4",
+    "terminal.foreground": "#ffc7da",
     "terminal.ansiBlack": "#3d3735",
     "terminal.ansiBrightBlack": "#504d47",
     "terminal.ansiBlue": "#3465a5",
@@ -174,15 +174,15 @@
     "menu.separatorBackground": "#f0721e86",
 
     "list.focusBackground": "#cc5ed663",
-    "list.focusForeground": "#fdbafa",
+    "list.focusForeground": "#ffc9fc",
     "list.activeSelectionBackground": "#bd5fb044",
     "list.activeSelectionForeground": "#fd9df8",
     "list.inactiveSelectionBackground": "#8c519b22",
     "list.inactiveSelectionForeground": "#b66db2",
     "list.hoverBackground": "#ffb87512",
     "list.errorForeground": "#f15c48",
-    "list.invalidItemForeground": "#b8980a",
-    "list.warningForeground": "#b8820c",
+    "list.invalidItemForeground": "#ce6401",
+    "list.warningForeground": "#ffb516",
     "list.dropBackground": "#A478D613",
     "list.highlightForeground": "#d355df",
     "listFilterWidget.background": "#8b4319",
@@ -190,10 +190,10 @@
     "listFilterWidget.outline": "#00000000",
     "list.filterMatchBackground": "#A478D62c",
 
-    "gitDecoration.addedResourceForeground": "#87cc2c",
-    "gitDecoration.modifiedResourceForeground": "#17caac",
+    "gitDecoration.addedResourceForeground": "#35e46f",
+    "gitDecoration.modifiedResourceForeground": "#11c0a3",
     "gitDecoration.deletedResourceForeground": "#72403f",
-    "gitDecoration.conflictingResourceForeground": "#c26d54",
+    "gitDecoration.conflictingResourceForeground": "#df3d52",
 
     "editorOverviewRuler.addedForeground": "#65a018",
     "editorOverviewRuler.modifiedForeground": "#11947e",
@@ -567,7 +567,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#599c93"
+        "foreground": "#599c80"
       }
     },
     {
@@ -852,7 +852,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#d8b249"
+        "foreground": "#d8ac73"
       }
     },
     {
@@ -971,7 +971,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#8099ad"
+        "foreground": "#80a8ad"
       }
     },
     {
@@ -1287,7 +1287,7 @@
         "source.postcss support.type.property-name",
       ],
       "settings": {
-        "foreground": "#7aad89"
+        "foreground": "#7ba09a"
       }
     },
     {
@@ -1354,7 +1354,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ffd5b3"
+        "foreground": "#ffe4cd"
       }
     },
     {
@@ -1731,7 +1731,7 @@
         "source.json string",
       ],
       "settings": {
-        "foreground": "#e2633d",
+        "foreground": "#f8693e",
       }
     },
     {
@@ -1751,7 +1751,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#e09569"
+        "foreground": "#ffaa9b"
       }
     },
     {
