@@ -28,40 +28,41 @@
     "titleBar.inactiveForeground": "#cfb5a9b6",
 
     "tab.border": "#0000",
-    "tab.inactiveBackground": "#201f1e",
+    "tab.inactiveBackground": "#1d1b19",
     "tab.activeForeground": "#fcc9b5",
     "tab.activeBackground": "#252221",
     "tab.activeBorderTop": "#ee560f",
-    "editorGroupHeader.tabsBackground": "#201f1e",
+    "editorGroupHeader.tabsBackground": "#1d1b19",
 
-    "activityBar.background": "#191816",
+    "activityBar.background": "#191716",
     "activityBar.foreground": "#dfb59a",
-    "activityBar.border": "#0000",
+    "activityBar.border": "#cfb5a923",
     "activityBar.inactiveForeground": "#cfb5a954",
     "activityBarBadge.background": "#ee560f",
     "activityBarBadge.foreground": "#161616",
 
-    "sideBar.background": "#201e1c",
-    "sideBar.border": "#0000",
+    "sideBar.background": "#1d1b19",
+    "sideBar.border": "#cfb5a923",
     "sideBar.foreground": "#cfb5a9",
     "sideBarTitle.foreground": "#cfb5a9",
-    "sideBarSectionHeader.background": "#252221",
-    "sideBarSectionHeader.border": "#0000",
+    "sideBarSectionHeader.background": "#191716",
+    "sideBarSectionHeader.border": "#cfb5a923",
 
-    "statusBar.background": "#191816",
+    "statusBar.background": "#191716",
     "statusBar.foreground": "#ad978d",
+    "statusBar.border": "#cfb5a923",
     "statusBar.debuggingBackground": "#682d22",
     "statusBar.noFolderBackground": "#161616",
     "statusBarItem.prominentBackground": "#3BAB87",
     "statusBarItem.prominentHoverBackground": "#3BAB87dd",
     "statusBarItem.remoteBackground": "#3BAB87",
 
-    "panel.border": "#252221",
-    "panel.background": "#1d1b1a",
+    "panel.border": "#cfb5a923",
+    "panel.background": "#1d1b19",
     "panelTitle.activeForeground": "#fa6d2c",
     "panelTitle.inactiveForeground": "#cfb5a966",
 
-    "terminal.background": "#1d1b1a",
+    "terminal.background": "#1d1b19",
     "terminal.foreground": "#cfb5a9",
     "terminal.ansiBlack": "#473e3b",
     "terminal.ansiBrightBlack": "#575249",
@@ -1377,7 +1378,6 @@
         "variable.language.this"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#b38967"
       }
     },

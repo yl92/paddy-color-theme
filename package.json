@@ -21,28 +21,34 @@
 	"contributes": {
 		"themes": [
       {
-        "id": "paddy-zeit",
-        "label": "P. \\ Zeit",
+        "id": "paddy-floresta",
+        "label": "P. \\ Floresta",
         "uiTheme": "vs-dark",
-        "path": "./themes/Paddy-zeit-color-theme.json"
+        "path": "./themes/Paddy-floresta-color-theme.json"
       },
 			{
-				"id": "paddy-eggplant",
-				"label": "P. \\ Eggplant",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Paddy-eggplant-color-theme.json"
+				"id": "paddy-1998",
+				"label": "P. \\ 1998",
+				"uiTheme": "vs",
+				"path": "./themes/Paddy-1998-color-theme.json"
 			},
 			{
-				"id": "paddy-neptune",
-				"label": "P. \\ Neptune",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Paddy-neptune-color-theme.json"
+				"id": "paddy-frost",
+				"label": "P. \\ Frost",
+				"uiTheme": "vs",
+				"path": "./themes/Paddy-frost-color-theme.json"
 			},
 			{
-				"id": "paddy-black",
-				"label": "P. \\ Black",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Paddy-black-color-theme.json"
+				"id": "paddy-light",
+				"label": "P. \\ Light",
+				"uiTheme": "vs",
+				"path": "./themes/Paddy-light-color-theme.json"
+			},
+			{
+				"id": "paddy-crimson",
+				"label": "P. \\ Crimson",
+				"uiTheme": "vs",
+				"path": "./themes/Paddy-crimson-color-theme.json"
 			}
 		]
 	},

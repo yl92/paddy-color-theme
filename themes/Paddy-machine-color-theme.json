@@ -12,9 +12,9 @@
     "editorCursor.background": "#ff902955",
     "editorCursor.foreground": "#ff9029",
     "editor.selectionBackground": "#ff90293d",
-    "editor.selectionHighlightBackground": "#8643434d",
+    "editor.selectionHighlightBackground": "#8643433f",
     "editor.wordHighlightBackground": "#db7f3333",
-    "editor.wordHighlightStrongBackground": "#db923349",
+    "editor.wordHighlightStrongBackground": "#db923333",
     "editor.findMatchBackground": "#d475f12a",
     "editor.findMatchHighlightBackground": "#ce0d9e33",
     "editor.findMatchHighlightBorder": "#d857ad33",
@@ -67,8 +67,8 @@
 
     "terminal.background": "#393837",
     "terminal.foreground": "#f7dbc5",
-    "terminal.ansiBlack": "#000000",
-    "terminal.ansiBrightBlack": "#151616",
+    "terminal.ansiBlack": "#585756",
+    "terminal.ansiBrightBlack": "#70706f",
     "terminal.ansiBlue": "#3465a5",
     "terminal.ansiBrightBlue": "#3a89d3",
     "terminal.ansiCyan": "#08a087",
@@ -1384,7 +1384,6 @@
         "variable.language.this"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#b69a83"
       }
     },

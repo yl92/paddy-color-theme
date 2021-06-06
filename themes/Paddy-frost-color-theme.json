@@ -33,29 +33,29 @@
     "titleBar.inactiveForeground": "#08291c99",
 
     "tab.border": "#0000",
-    "tab.inactiveBackground": "#f8f8f8",
+    "tab.inactiveBackground": "#f6faf9",
     "tab.inactiveForeground": "#083b2d79",
     "tab.activeForeground": "#045036",
     "tab.activeBackground": "#ffffff",
     "tab.activeBorderTop": "#8fd4ba",
-    "editorGroupHeader.tabsBackground": "#f0f7f5",
+    "editorGroupHeader.tabsBackground": "#f6faf9",
 
     "activityBar.background": "#e3f0ee",
     "activityBar.foreground": "#098a3a",
-    "activityBar.border": "#0000",
+    "activityBar.border": "#86bda13f",
     "activityBar.inactiveForeground": "#6a83709f",
     "activityBarBadge.background": "#098a3a",
 
     "sideBar.background": "#f6faf9",
-    "sideBar.border": "#86bd983a",
+    "sideBar.border": "#86bda13f",
     "sideBar.foreground": "#203123",
     "sideBarTitle.foreground": "#203123",
-    "sideBarSectionHeader.background": "#dcece9",
+    "sideBarSectionHeader.background": "#e3f0ee",
     "sideBarSectionHeader.border": "#0000",
 
     "statusBar.background": "#d3e4e1",
     "statusBar.foreground": "#1b1a1a",
-    "statusBar.border": "#0000",
+    "statusBar.border": "#86bda13f",
     "statusBar.debuggingBackground": "#dfa168",
     "statusBar.noFolderBackground": "#d3e4e1",
     "statusBarItem.prominentBackground": "#93ca73",
@@ -63,8 +63,8 @@
     "statusBarItem.remoteBackground": "#93ca73",
 
     "panel.background": "#f6faf8",
-    "panel.border": "#ffffff",
-    "panelTitle.activeForeground": "#0e4452",
+    "panel.border": "#86bda13f",
+    "panelTitle.activeForeground": "#098a3a",
     "panelTitle.inactiveForeground": "#8f9797",
 
     "terminal.background": "#f6faf8",
@@ -157,7 +157,7 @@
     "peekViewResult.background": "#a7d1cf4f",
     "peekViewResult.fileForeground": "#1b362e",
     "peekViewResult.lineForeground": "#223f3b94",
-    "editorGroup.border": "#86bd983a",
+    "editorGroup.border": "#86bda13f",
     "editorGroup.dropBackground": "#32bb6615",
     "settings.headerForeground": "#04462a",
     "settings.modifiedItemIndicator": "#149950",
@@ -1406,7 +1406,6 @@
         "variable.language.this"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#b39985"
       }
     },
