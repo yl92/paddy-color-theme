@@ -70,8 +70,8 @@
 
     "terminal.background": "#092630",
     "terminal.foreground": "#03b698",
-    "terminal.ansiBlack": "#3d3735",
-    "terminal.ansiBrightBlack": "#504d47",
+    "terminal.ansiBlack": "#0d3b4b",
+    "terminal.ansiBrightBlack": "#15404e",
     "terminal.ansiBlue": "#3465a5",
     "terminal.ansiBrightBlue": "#3a89d3",
     "terminal.ansiCyan": "#08a087",
@@ -84,8 +84,8 @@
     "terminal.ansiBrightRed": "#d43e2a",
     "terminal.ansiWhite": "#f0ab90",
     "terminal.ansiBrightWhite": "#fae8e0",
-    "terminal.ansiYellow": "#d37d0d",
-    "terminal.ansiBrightYellow": "#ff9b18",
+    "terminal.ansiYellow": "#d3940d",
+    "terminal.ansiBrightYellow": "#ffc118",
     "terminal.selectionBackground": "#1dfcd72d",
     "terminalCursor.background": "#1dfcd77a",
     "terminalCursor.foreground": "#1dfcd7",
@@ -172,6 +172,14 @@
     "menu.selectionBackground": "#f07f16",
     "menu.selectionForeground": "#331116",
     "menu.separatorBackground": "#f0721e86",
+
+    "symbolIcon.variableForeground": "#0aa3a3",
+    "symbolIcon.fieldForeground": "#bb7b51",
+    "symbolIcon.classForeground": "#f8af11",
+    "symbolIcon.interfaceForeground": "#af7942",
+    "symbolIcon.functionForeground": "#d35027",
+    "symbolIcon.methodForeground": "#d35027",
+    "symbolIcon.constructorForeground": "#ce63e9",
 
     "list.focusBackground": "#f06b1e63",
     "list.focusForeground": "#FF842D",
@@ -1969,6 +1977,16 @@
       ],
       "settings": {
         "foreground": "#00000050"
+      }
+    },
+    {
+      "name": "markup.fenced_code.block.markdown",
+      "scope": [
+        "markup.inline.raw.string.markdown",
+        "markup.fenced_code.block.markdown"
+      ],
+      "settings": {
+        "foreground": "#03b698"
       }
     },
     {

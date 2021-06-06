@@ -170,6 +170,14 @@
     "menu.selectionForeground": "#090e1f",
     "menu.separatorBackground": "#0d2b1734",
 
+    "symbolIcon.variableForeground": "#076e6e",
+    "symbolIcon.fieldForeground": "#a56840",
+    "symbolIcon.classForeground": "#d69303",
+    "symbolIcon.interfaceForeground": "#9b6733",
+    "symbolIcon.functionForeground": "#c74118",
+    "symbolIcon.methodForeground": "#c03b13",
+    "symbolIcon.constructorForeground": "#a841c2",
+
     "list.focusBackground": "#3c9c5e50",
     "list.focusForeground": "#0b1314",
     "list.activeSelectionBackground": "#fff8f5",
@@ -1981,6 +1989,16 @@
       ],
       "settings": {
         "foreground": "#00000050"
+      }
+    },
+    {
+      "name": "markup.fenced_code.block.markdown",
+      "scope": [
+        "markup.inline.raw.string.markdown",
+        "markup.fenced_code.block.markdown"
+      ],
+      "settings": {
+        "foreground": "#028a2b"
       }
     },
     {

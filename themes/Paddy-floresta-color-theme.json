@@ -35,7 +35,7 @@
     "tab.border": "#0000",
     "tab.inactiveBackground": "#07171a",
     "tab.inactiveForeground": "#7c8b84c5",
-    "tab.activeForeground": "#f7dfc8",
+    "tab.activeForeground": "#ffbcb3",
     "tab.activeBackground": "#07171a",
     "tab.activeBorderTop": "#d16aaa",
     "editorGroupHeader.tabsBackground": "#07171a",
@@ -49,24 +49,25 @@
 
     "sideBar.background": "#07171a",
     "sideBar.border": "#4fff7b31",
-    "sideBar.foreground": "#cec4b4c4",
-    "sideBarTitle.foreground": "#ffd4c7",
+    "sideBar.foreground": "#c0ceb1c4",
+    "sideBarTitle.foreground": "#c0ceb1",
     "sideBarSectionHeader.background": "#07171a",
+    "sideBarSectionHeader.foreground": "#c0ceb1",
     "sideBarSectionHeader.border": "#4fff7b31",
 
     "statusBar.background": "#07171a",
-    "statusBar.foreground": "#ffd4c7",
+    "statusBar.foreground": "#c0ceb1",
     "statusBar.border": "#4fff7b31",
     "statusBar.debuggingBackground": "#682d22",
     "statusBar.noFolderBackground": "#07171a",
-    "statusBarItem.prominentBackground": "#d16aaa",
-    "statusBarItem.prominentHoverBackground": "#ffa41bdd",
+    "statusBarItem.prominentBackground": "#d16aaa63",
+    "statusBarItem.prominentHoverBackground": "#ffa41b5d",
     "statusBarItem.remoteBackground": "#e06721",
 
     "panel.border": "#4fff7b31",
     "panel.background": "#07171a",
     "panelTitle.activeForeground": "#d16aaa",
-    "panelTitle.inactiveForeground": "#5b455e",
+    "panelTitle.inactiveForeground": "#37614a",
 
     "terminal.background": "#07171a",
     "terminal.foreground": "#ecb8a3",
@@ -103,9 +104,9 @@
     "input.background": "#07171a",
     "input.border": "#4fff7b31",
     "input.foreground": "#ffd4c7",
-    "scrollbarSlider.background": "#A478D613",
-    "scrollbarSlider.activeBackground": "#A478D610",
-    "scrollbarSlider.hoverBackground": "#A478D617",
+    "scrollbarSlider.background": "#d678c90c",
+    "scrollbarSlider.activeBackground": "#d678c910",
+    "scrollbarSlider.hoverBackground": "#d678c917",
     "scrollbar.shadow": "#07171a",
     "badge.background": "#d16aaa",
     "badge.foreground": "#110b09",
@@ -173,18 +174,26 @@
     "menu.selectionForeground": "#ffffff",
     "menu.separatorBackground": "#ff74975d",
 
-    "list.focusBackground": "#cc5ed663",
+    "symbolIcon.variableForeground": "#0aa3a3",
+    "symbolIcon.fieldForeground": "#bb7b51",
+    "symbolIcon.classForeground": "#f8af11",
+    "symbolIcon.interfaceForeground": "#af7942",
+    "symbolIcon.functionForeground": "#d35027",
+    "symbolIcon.methodForeground": "#d35027",
+    "symbolIcon.constructorForeground": "#ce63e9",
+
+    "list.focusBackground": "#f07a9463",
     "list.focusForeground": "#ffc9fc",
-    "list.activeSelectionBackground": "#bd5fb044",
+    "list.activeSelectionBackground": "#f07a9331",
     "list.activeSelectionForeground": "#ffd6eb",
-    "list.inactiveSelectionBackground": "#8c519b22",
-    "list.inactiveSelectionForeground": "#f874c6",
-    "list.hoverBackground": "#ffb87512",
+    "list.inactiveSelectionBackground": "#f07a9422",
+    "list.inactiveSelectionForeground": "#f07a94",
+    "list.hoverBackground": "#75ffd612",
     "list.errorForeground": "#f15c48",
     "list.invalidItemForeground": "#ce6401",
     "list.warningForeground": "#ffb516",
     "list.dropBackground": "#A478D613",
-    "list.highlightForeground": "#d355df",
+    "list.highlightForeground": "#ff61c2",
     "listFilterWidget.background": "#8b4319",
     "listFilterWidget.noMatchesOutline": "#ce4235",
     "listFilterWidget.outline": "#00000000",
@@ -1739,7 +1748,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#77c484"
+        "foreground": "#1ca132"
       }
     },
     {
@@ -1749,7 +1758,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#cc8a76"
+        "foreground": "#f07a94"
       }
     },
     {
@@ -1968,6 +1977,16 @@
       ],
       "settings": {
         "foreground": "#00000050"
+      }
+    },
+    {
+      "name": "markup.fenced_code.block.markdown",
+      "scope": [
+        "markup.inline.raw.string.markdown",
+        "markup.fenced_code.block.markdown"
+      ],
+      "settings": {
+        "foreground": "#60b172"
       }
     },
     {

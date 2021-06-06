@@ -69,16 +69,34 @@
         "path": "./themes/Paddy-emerald-color-theme.json"
       },
       {
-        "id": "paddy-frost",
-        "label": "P. \\ Frost",
-        "uiTheme": "vs",
-        "path": "./themes/Paddy-frost-color-theme.json"
+        "id": "paddy-floresta",
+        "label": "P. \\ Floresta",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paddy-floresta-color-theme.json"
       },
       {
         "id": "paddy-light",
         "label": "P. \\ Light",
         "uiTheme": "vs",
         "path": "./themes/Paddy-light-color-theme.json"
+      },
+      {
+        "id": "paddy-frost",
+        "label": "P. \\ Frost",
+        "uiTheme": "vs",
+        "path": "./themes/Paddy-frost-color-theme.json"
+      },
+      {
+        "id": "paddy-crimson",
+        "label": "P. \\ Crimson",
+        "uiTheme": "vs",
+        "path": "./themes/Paddy-crimson-color-theme.json"
+      },
+      {
+        "id": "paddy-1998",
+        "label": "P. \\ 1998",
+        "uiTheme": "vs",
+        "path": "./themes/Paddy-1998-color-theme.json"
       },
       {
         "id": "paddy-mist",

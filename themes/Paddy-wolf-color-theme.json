@@ -28,11 +28,11 @@
     "titleBar.inactiveForeground": "#cfb5a9b6",
 
     "tab.border": "#0000",
-    "tab.inactiveBackground": "#1d1b19",
+    "tab.inactiveBackground": "#252221",
     "tab.activeForeground": "#fcc9b5",
     "tab.activeBackground": "#252221",
     "tab.activeBorderTop": "#ee560f",
-    "editorGroupHeader.tabsBackground": "#1d1b19",
+    "editorGroupHeader.tabsBackground": "#252221",
 
     "activityBar.background": "#191716",
     "activityBar.foreground": "#dfb59a",
@@ -45,7 +45,7 @@
     "sideBar.border": "#cfb5a923",
     "sideBar.foreground": "#cfb5a9",
     "sideBarTitle.foreground": "#cfb5a9",
-    "sideBarSectionHeader.background": "#191716",
+    "sideBarSectionHeader.background": "#1d1b19",
     "sideBarSectionHeader.border": "#cfb5a923",
 
     "statusBar.background": "#191716",
@@ -103,7 +103,7 @@
     "scrollbarSlider.hoverBackground": "#cfb5a917",
     "scrollbar.shadow": "#151c1d98",
     "badge.background": "#ee560f",
-    "badge.foreground": "#e0cbc1",
+    "badge.foreground": "#000000",
     "notifications.background": "#272625",
     "notifications.foreground": "#cfb5a9",
     "notifications.border": "#203333",
@@ -155,6 +155,14 @@
     "menu.selectionBackground": "#692b18",
     "menu.selectionForeground": "#ebd3c8",
     "menu.separatorBackground": "#cfb5a907",
+
+    "symbolIcon.variableForeground": "#0aa3a3",
+    "symbolIcon.fieldForeground": "#bb7b51",
+    "symbolIcon.classForeground": "#f8af11",
+    "symbolIcon.interfaceForeground": "#af7942",
+    "symbolIcon.functionForeground": "#d35027",
+    "symbolIcon.methodForeground": "#d35027",
+    "symbolIcon.constructorForeground": "#ce63e9",
 
     "debugIcon.breakpointForeground": "#ee560f",
 
@@ -1954,6 +1962,16 @@
       ],
       "settings": {
         "foreground": "#00000050"
+      }
+    },
+    {
+      "name": "markup.fenced_code.block.markdown",
+      "scope": [
+        "markup.inline.raw.string.markdown",
+        "markup.fenced_code.block.markdown"
+      ],
+      "settings": {
+        "foreground": "#9aad66"
       }
     },
     {

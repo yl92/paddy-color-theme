@@ -55,8 +55,8 @@
     "sideBarSectionHeader.background": "#DDDDDD",
     "sideBarSectionHeader.border": "#808080",
 
-    "statusBar.background": "#DDDDDD",
-    "statusBar.foreground": "#000000",
+    "statusBar.background": "#000080",
+    "statusBar.foreground": "#ffffff",
     "statusBar.border": "#808080",
     "statusBar.debuggingBackground": "#FF8040",
     "statusBar.noFolderBackground": "#808000",
@@ -1999,6 +1999,7 @@
     {
       "name": "markup.fenced_code.block.markdown",
       "scope": [
+        "markup.inline.raw.string.markdown",
         "markup.fenced_code.block.markdown"
       ],
       "settings": {
