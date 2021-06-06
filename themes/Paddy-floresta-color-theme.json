@@ -15,7 +15,7 @@
     "editorCursor.background": "#d16aaa55",
     "editorCursor.foreground": "#d16aaa",
     "editor.selectionBackground": "#d16aaa42",
-    "editor.selectionHighlightBackground": "#1ed7f04d",
+    "editor.selectionHighlightBackground": "#d16aaa2d",
     "editor.wordHighlightBackground": "#db3e3333",
     "editor.wordHighlightStrongBackground": "#db473349",
     "editor.findMatchBackground": "#d475f12a",
@@ -92,7 +92,7 @@
     "terminalCursor.foreground": "#A478D6",
 
     "focusBorder": "#d16aaaa6",
-    "widget.shadow": "#051a1d8a",
+    "widget.shadow": "#02090a8a",
     "selection.background": "#d16aaa42",
     "button.background": "#d16aaa",
     "button.foreground": "#362222",
@@ -1676,7 +1676,7 @@
         "string.regexp keyword.operator"
       ],
       "settings": {
-        "foreground": "#614bdf"
+        "foreground": "#6c55eb"
       }
     },
     {

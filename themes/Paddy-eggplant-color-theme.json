@@ -36,28 +36,28 @@
 		
 		"activityBar.background": "#190f22",
 		"activityBar.foreground": "#bd9052",
-		"activityBar.border": "#fcb75d25",
+		"activityBar.border": "#c292cc25",
 		"activityBar.inactiveForeground": "#917fa86c",
 		"activityBarBadge.background": "#124d32",
 		"activityBarBadge.foreground": "#ffffff",
 
 		"sideBar.background": "#190f22",
-		"sideBar.border": "#fcb75d25",
+		"sideBar.border": "#c292cc25",
 		"sideBar.foreground": "#d3beb3",
 		"sideBarTitle.foreground": "#f8dacc",
 		"sideBarSectionHeader.background": "#1d1327",
-		"sideBarSectionHeader.border": "#fcb75d25",
+		"sideBarSectionHeader.border": "#c292cc25",
 
 		"statusBar.background": "#190f22",
 		"statusBar.foreground": "#dbc3b8",
-		"statusBar.border": "#fcb75d25",
+		"statusBar.border": "#c292cc25",
 		"statusBar.debuggingBackground": "#694524",
 		"statusBar.noFolderBackground": "#190f22",
 		"statusBarItem.prominentBackground": "#3BAB87",
 		"statusBarItem.prominentHoverBackground": "#3BAB87dd",
 		"statusBarItem.remoteBackground": "#3BAB87",
 
-		"panel.border": "#fcb75d25",
+		"panel.border": "#c292cc25",
 		"panel.background": "#190f22",
 		"panelTitle.activeForeground": "#bd9052",
     "panelTitle.inactiveForeground": "#bd905279",
@@ -113,7 +113,7 @@
     "diffEditor.removedTextBorder": "#b4242448",
     "editorWidget.background": "#130d1b",
     "editorWidget.foreground": "#cfb5a9",
-    "editorWidget.border": "#fcb75d25",
+    "editorWidget.border": "#c292cc25",
     "editorLink.activeForeground": "#20dda1",
     "textLink.activeForeground": "#ff6d0b",
     "textLink.foreground": "#b95715",
@@ -127,7 +127,7 @@
     "editorLineNumber.activeForeground": "#31925d",
     "editorLineNumber.foreground": "#61526880",
     "editorSuggestWidget.foreground": "#cfb5a9",
-    "editorSuggestWidget.border": "#fcb75d25",
+    "editorSuggestWidget.border": "#c292cc25",
     "editorSuggestWidget.selectedBackground": "#31925d33",
     "editorSuggestWidget.highlightForeground": "#31925d",
     "minimap.findMatchHighlight": "#31925d2a",
@@ -146,7 +146,7 @@
     "peekViewResult.background": "#10492a4f",
     "peekViewResult.fileForeground": "#e2ccc2",
     "peekViewResult.lineForeground": "#cfb5a9a6",
-    "editorGroup.border": "#fcb75d25",
+    "editorGroup.border": "#c292cc25",
     "editorGroup.dropBackground": "#32bb6615",
     "settings.headerForeground": "#e7d4cb",
     "settings.modifiedItemIndicator": "#31925d",
@@ -1664,7 +1664,7 @@
         "string.regexp keyword.operator"
       ],
       "settings": {
-        "foreground": "#614bdf"
+        "foreground": "#7c66f7"
       }
     },
     {

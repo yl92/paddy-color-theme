@@ -33,11 +33,11 @@
     "titleBar.inactiveForeground": "#42392699",
 
     "tab.border": "#0000",
-    "tab.inactiveBackground": "#e7dad2",
+    "tab.inactiveBackground": "#ecdfd9",
     "tab.activeForeground": "#050707",
     // "tab.activeBorderTop": "#050707",
     "tab.activeBackground": "#f3e7e2",
-    "editorGroupHeader.tabsBackground": "#e7dad2",
+    "editorGroupHeader.tabsBackground": "#ecdfd9",
 
     "activityBar.background": "#e7d4cc",
     "activityBar.foreground": "#0e963b",
@@ -198,8 +198,8 @@
     "list.filterMatchBackground": "#fdf3efd8",
     "list.deemphasizedForeground": "#0edb6a",
 
-    "gitDecoration.addedResourceForeground": "#9fc487",
-    "gitDecoration.modifiedResourceForeground": "#6da396",
+    "gitDecoration.addedResourceForeground": "#749e58",
+    "gitDecoration.modifiedResourceForeground": "#408575",
     "gitDecoration.deletedResourceForeground": "#be4c4a",
     "gitDecoration.conflictingResourceForeground": "#e60086",
 

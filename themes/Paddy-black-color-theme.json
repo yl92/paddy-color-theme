@@ -166,7 +166,7 @@
 
     "symbolIcon.variableForeground": "#0aa3a3",
     "symbolIcon.fieldForeground": "#bb7b51",
-    "symbolIcon.classForeground": "#f8af11",
+    "symbolIcon.classForeground": "#ffbb00",
     "symbolIcon.interfaceForeground": "#af7942",
     "symbolIcon.functionForeground": "#d35027",
     "symbolIcon.methodForeground": "#d35027",

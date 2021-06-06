@@ -178,8 +178,8 @@
     "symbolIcon.fieldForeground": "#bb7b51",
     "symbolIcon.classForeground": "#f8af11",
     "symbolIcon.interfaceForeground": "#af7942",
-    "symbolIcon.functionForeground": "#d35027",
-    "symbolIcon.methodForeground": "#d35027",
+    "symbolIcon.functionForeground": "#ed143d",
+    "symbolIcon.methodForeground": "#ed143d",
     "symbolIcon.constructorForeground": "#ce63e9",
     
     "pickerGroup.foreground": "#ed143d",

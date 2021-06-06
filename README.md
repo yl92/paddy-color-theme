@@ -1,17 +1,18 @@
 ![preview-image](https://raw.githubusercontent.com/troydraws/paddy-color-theme/master/paddy-color-theme-preview.gif)
 
-**A set of very detailed color themes with earthy tones and 16 background options for all ye badass hackers. 🍁**
+**A set of very detailed color themes with earthy tones and 19 background options for all ye badass hackers. 🍁**
 
-| Grayscale                          | With Accent Colors     | Light Themes |
-| ---------------------------------- | ---------------------- | ------------ |
-| 🚧 `𝔅𝔩𝔞𝔠𝔨` Pitch Black              | 🍆 `Eggplant`           | 🌞 `Light`    |
-| 🪓 `Dark` The Classic Choice        | 🌲 `Emerald`            | ❄️ `Frost`    |
-| 🌥 `Mist` *"Winter Dublin Edition"* | 🧧 `Ox` Year of the Ox  |              |
-| 🤖 `Machine` Medium, Neutral-Warm   | 🐻 `Grizzly`            |              |
-| 🐺 `Wolf` Darker, Neutral-Warm      | 🌿 `Eucalyptus`         |              |
-| 🎮 `Yesterday` Medium, Cold         | 🖋 `Inkstone` [Default] |              |
-|                                    | λ&nbsp;  `Citadel`     |              |
-|                                    | 🔵 `Neptune`            |              |
+| Grayscale                                   | With Accent Colors          | Light Themes               |
+| ------------------------------------------- | --------------------------- | -------------------------- |
+| 🚧 `𝔅𝔩𝔞𝔠𝔨` Pitch Black                       | 🍆 `Eggplant`                | 🌞 `Light`                  |
+| 🪓 `Dark` *Paddy Classic* <sup>Default</sup> | 🌲 `Emerald`                 | 💋 `Crimson` <sup>New</sup> |
+| 🌥 `Mist` *"Winter Dublin Edition"*          | 🧧 `Ox` Year of the Ox       | ❄️ `Frost`                  |
+| 🤖 `Machine` Medium, Neutral-Warm            | 🐻 `Grizzly`                 | 🪟 `1998` <sup>New</sup>    |
+| 🐺 `Wolf` Darker, Neutral-Warm               | 🌿 `Eucalyptus`              |                            |
+| 🎮 `Yesterday` Medium, Cold                  | 🖋 `Inkstone`                |                            |
+|                                             | λ&nbsp;  `Citadel`          |                            |
+|                                             | 🔵 `Neptune`                 |                            |
+|                                             | 🌸 `Floresta` <sup>New</sup> |                            |
 
 &NewLine;
 
@@ -26,29 +27,21 @@
 
 → **IBM Plex Mono**: Satisfying italics. [[Official Site](https://www.ibm.com/plex/)] • [[Google Fonts](https://fonts.google.com/specimen/IBM+Plex+Mono)]  
 
-→ **Iosevka**: [[Official Site](https://typeof.net/Iosevka/)] Ridiculous amount of ligature & glyph customisations!
+→ **Iosevka**: [[Official Site](https://typeof.net/Iosevka/)] A condensed option.
 
-→ **DM Mono**: [[Google Fonts](https://fonts.google.com/specimen/DM+Mono)] Round & geometrical.
+→ **DM Mono**: [[Google Fonts](https://fonts.google.com/specimen/DM+Mono)] Round and geometrical.
 
-→ **Recursive (Mono Duotone)**: Recursive Mono Duotone (Recursive_Code/Duotone) is quite unique, and it comes with fancy programming ligatures. [[recursive.design](https://www.recursive.design/)]  
+→ **Recursive**: [[recursive.design](https://www.recursive.design/)] 
 
 → **SF Mono** Apple's monospace font. You can get it on [[developer.apple.com](https://developer.apple.com/fonts/)].  
 
-→ **JetBrains Mono** JetBrains' open-source monospace font. [[jetbrains.com](https://www.jetbrains.com/lp/mono/)]. 
+→ **JetBrains Mono** JetBrains' open-source monospace. [[jetbrains.com](https://www.jetbrains.com/lp/mono/)]. 
 
 ---
 
 **Best paid font I've found so far (not affiliated)**
 
-→ [[PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)] I can no longer use any other font after trying out this one... it's just *almost* perfect.
-
----
-
-**Customise your UI a bit more**
-
-→ The [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension can let you pick your beloved fonts to be used across UI as well as some other cool little features.  
-
-→ [Chalice Icon Theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme) is good if you don't like the messy icon colors.
+→ [[PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)] I can no longer use any other font after trying out this one... it's *almost* perfect.
 
 ---
 
