@@ -153,7 +153,7 @@
     "peekViewTitle.background": "#ebebeb",
     "peekViewTitleLabel.foreground": "#000000",
     "peekViewEditor.background": "#eeeeee67",
-    "peekViewEditor.matchHighlightBackground": "#ff6d0b44",
+    "peekViewEditor.matchHighlightBackground": "#ed143d44",
     "peekViewResult.selectionBackground": "#ffffff",
     "peekViewResult.selectionForeground": "#000000",
     "peekViewResult.background": "#d1d1d1a4",
