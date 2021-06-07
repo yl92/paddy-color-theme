@@ -10,7 +10,7 @@
     "editor.foreground": "#000000",
     "editorCursor.background": "#0000FF8c",
     "editorCursor.foreground": "#0000FF",
-    "editor.selectionBackground": "#ffffff57",
+    "editor.selectionBackground": "#ffffff",
     "editor.selectionHighlightBackground": "#ffffff33",
     "editor.wordHighlightBackground": "#ffffff3a",
     "editor.wordHighlightStrongBackground": "#ffffff4d",
@@ -123,12 +123,12 @@
     "editorWidget.foreground": "#000000",
     "editorWidget.border": "#808080",
     "editorLink.activeForeground": "#FF0000",
-    "textLink.activeForeground": "#ff6d0b",
-    "textLink.foreground": "#b95715",
-    "textPreformat.foreground": "#ee6f58",
-    "textBlockQuote.background": "#DDDDDD73",
+    "textLink.activeForeground": "#0080FF",
+    "textLink.foreground": "#0000FF",
+    "textPreformat.foreground": "#008080",
+    "textBlockQuote.background": "#ffffff",
     "textSeparator.foreground": "#9c4a1b55",
-    "textBlockQuote.border": "#FF0000",
+    "textBlockQuote.border": "#008080",
     "editorWhitespace.foreground": "#acacac",
     "editor.lineHighlightBackground": "#0000",
     "editor.lineHighlightBorder": "#a8373700",
@@ -137,8 +137,8 @@
     "editorSuggestWidget.background": "#DDDDDD",
     "editorSuggestWidget.foreground": "#000000",
     "editorSuggestWidget.border": "#808080",
-    "editorSuggestWidget.selectedBackground": "#FF000033",
-    "editorSuggestWidget.highlightForeground": "#FF0000",
+    "editorSuggestWidget.selectedBackground": "#ffffff",
+    "editorSuggestWidget.highlightForeground": "#0000FF",
     "editorHoverWidget.foreground": "#1b1f2b",
     "minimap.background": "#DDDDDD",
     "minimapSlider.background": "#d3d3d344",
@@ -149,17 +149,17 @@
     "merge.incomingHeaderBackground": "#da65214b",
     "merge.incomingContentBackground": "#da652123",
     "tree.indentGuidesStroke": "#808080",
-    "progressBar.background": "#FF0000",
-    "peekView.border": "#9c9c9c99",
-    "peekViewTitle.background": "#ebebeb",
+    "progressBar.background": "#0000FF",
+    "peekView.border": "#808080",
+    "peekViewTitle.background": "#C0C0C0",
     "peekViewTitleLabel.foreground": "#000000",
     "peekViewEditor.background": "#eeeeee67",
-    "peekViewEditor.matchHighlightBackground": "#ff6d0b44",
+    "peekViewEditor.matchHighlightBackground": "#ffffff",
     "peekViewResult.selectionBackground": "#DDDDDD",
     "peekViewResult.selectionForeground": "#000000",
     "peekViewResult.background": "#d1d1d1a4",
-    "peekViewResult.fileForeground": "#36241b",
-    "peekViewResult.lineForeground": "#3f2c2294",
+    "peekViewResult.fileForeground": "#000000",
+    "peekViewResult.lineForeground": "#333333",
     "editorGroup.border": "#02020250",
     "editorGroup.dropBackground": "#ff848415",
     "settings.headerForeground": "#000000",
@@ -1191,7 +1191,7 @@
       }
     },
     {
-      "name": "Type Annotation Puncuations",
+      "name": "Type Annotation Punctuations",
       "scope": [
         "meta.object.type punctuation.definition.block",
         "meta.type.declaration meta.brace.square",
@@ -1216,7 +1216,7 @@
       }
     },
     {
-      "name": "Type Annotation Puncuations",
+      "name": "Type Annotation Punctuations",
       "scope": [
         "meta.type.annotation meta.brace.square",
       ],
@@ -1651,7 +1651,7 @@
       }
     },
     {
-      "name": "Regular Expressions Puncuations",
+      "name": "Regular Expressions Punctuations",
       "scope": [
         "string.regexp punctuation"
       ],

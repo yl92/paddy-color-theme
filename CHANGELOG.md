@@ -1,3 +1,14 @@
+**`1.5.0` - 2021-06-07**
+
+- The summer is here and my room is too bright for the dark themes! To compensate this and aid my poor eyes, some lighter themes are added. But also a dark them, because variety.
+- Crimson: Pure white background, with a crimson red accent color
+- 1998: That vintage Microsoft Paint feel
+- Haze: A low-contrast dark theme with a light plum background.
+- Floresta: Get some blissful shade deep in the jungle where it's mossy, damp and chilled, littered with wild flowers in pink and yellow. 
+- All older themes are aligned in style regarding borders that separates the panels. Some minor adjustments to terminal colors; added colors for symbol icons and code snippets in markdown files.
+
+---
+
 **`1.4.4` - 2021-04-19**
 
 - Double hint / info squiggly lines fixed

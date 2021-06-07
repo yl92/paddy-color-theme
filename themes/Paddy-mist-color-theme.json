@@ -6,7 +6,7 @@
     "foreground": "#ffe3cc",
     
     "editor.background": "#3b4646",
-		"editor.foreground": "#ffffff",
+		"editor.foreground": "#ffe3cc",
 		"editorCursor.background": "#2fb66b55",
 		"editorCursor.foreground": "#1fc56a",
 		"editor.selectionBackground": "#6f96904d",
@@ -57,7 +57,7 @@
 		"statusBarItem.remoteBackground": "#3BAB87",
 
 		"panel.background": "#344141",
-		"panel.border": "#3b4646",
+		"panel.border": "#c4e6eb16",
 		"panelTitle.activeForeground": "#eccec0",
     "panelTitle.inactiveForeground": "#cfb5a979",
 
@@ -189,13 +189,13 @@
 		"gitDecoration.deletedResourceForeground": "#a04847",
 		"gitDecoration.conflictingResourceForeground": "#ee6c44",
 
-		"editorOverviewRuler.addedForeground": "#0b5c26",
-		"editorOverviewRuler.modifiedForeground": "#1d796c",
+		"editorOverviewRuler.addedForeground": "#77ac89",
+		"editorOverviewRuler.modifiedForeground": "#6faca3",
 
-		"editorGutter.addedBackground": "#0b5c26",
-		"editorGutter.modifiedBackground": "#145e4b",
-		"editorGutter.deletedBackground": "#72403f",
-		"editorGutter.commentRangeForeground": "#57514d",
+		"editorGutter.addedBackground": "#7aaf83",
+		"editorGutter.modifiedBackground": "#77a5a7",
+		"editorGutter.deletedBackground": "#ad8887",
+		"editorGutter.commentRangeForeground": "#b1a59d",
 
 	},
   "tokenColors": [
@@ -1161,7 +1161,7 @@
       }
     },
     {
-      "name": "Type Annotation Puncuations",
+      "name": "Type Annotation Punctuations",
       "scope": [
         "meta.object.type punctuation.definition.block",
         "meta.type.declaration meta.brace.square",
@@ -1186,7 +1186,7 @@
       }
     },
     {
-      "name": "Type Annotation Puncuations",
+      "name": "Type Annotation Punctuations",
       "scope": [
         "meta.type.annotation meta.brace.square",
       ],
@@ -1621,7 +1621,7 @@
       }
     },
     {
-      "name": "Regular Expressions Puncuations",
+      "name": "Regular Expressions Punctuations",
       "scope": [
         "string.regexp punctuation"
       ],

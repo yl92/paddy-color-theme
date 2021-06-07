@@ -1159,7 +1159,7 @@
       }
     },
     {
-      "name": "Type Annotation Puncuations",
+      "name": "Type Annotation Punctuations",
       "scope": [
         "meta.object.type punctuation.definition.block",
         "meta.type.declaration meta.brace.square",
@@ -1184,7 +1184,7 @@
       }
     },
     {
-      "name": "Type Annotation Puncuations",
+      "name": "Type Annotation Punctuations",
       "scope": [
         "meta.type.annotation meta.brace.square",
       ],
@@ -1619,7 +1619,7 @@
       }
     },
     {
-      "name": "Regular Expressions Puncuations",
+      "name": "Regular Expressions Punctuations",
       "scope": [
         "string.regexp punctuation"
       ],
