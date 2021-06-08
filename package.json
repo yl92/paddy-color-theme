@@ -58,12 +58,6 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/Paddy-haze-color-theme.json"
 			},
-			{
-				"id": "paddy-eggplant",
-				"label": "P. \\ Eggplant",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Paddy-eggplant-color-theme.json"
-			},
 			// {
 			// 	"id": "paddy-grizzly",
 			// 	"label": "P. \\ Grizzly",
@@ -129,24 +123,6 @@
 				"label": "P. \\ 1998",
 				"uiTheme": "vs",
 				"path": "./themes/Paddy-1998-color-theme.json"
-			},
-			{
-				"id": "paddy-mist",
-				"label": "P. \\ Mist",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Paddy-mist-color-theme.json"
-			},
-			{
-				"id": "paddy-yesterday",
-				"label": "P. \\ Yesterday",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Paddy-yesterday-color-theme.json"
-			},
-			{
-				"id": "paddy-machine",
-				"label": "P. \\ Machine",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Paddy-machine-color-theme.json"
 			},
 			// {
 			// 	"id": "paddy-wolf",
