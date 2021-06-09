@@ -7,11 +7,12 @@
 | 🚧 `𝔅𝔩𝔞𝔠𝔨` Pitch Black                       | 🍆 `Eggplant`                | 🌞 `Light`                  |
 | 🪓 `Dark` *Paddy Classic* <sup>Default</sup> | 🌲 `Emerald`                 | 💋 `Crimson` <sup>New</sup> |
 | 🌥 `Mist` *"Winter Dublin Edition"*          | 🧧 `Ox` Year of the Ox       | ❄️ `Frost`                  |
-| 🤖 `Machine` Medium, Neutral-Warm            | 🐻 `Grizzly`                 | 🪟 `1998` <sup>New</sup>    |
+| 🤖 `Machine` Medium, Neutral-Warm            | 🐻 `Grizzly`                 |                            |
 | 🐺 `Wolf` Darker, Neutral-Warm               | 🌿 `Eucalyptus`              |                            |
 | 🎮 `Yesterday` Medium, Cold                  | 🖋 `Inkstone`                |                            |
 |                                             | λ&nbsp;  `Citadel`          |                            |
 |                                             | 🔵 `Neptune`                 |                            |
+|                                             | 🌄 `Haze` <sup>New</sup>     |                            |
 |                                             | 🌸 `Floresta` <sup>New</sup> |                            |
 
 &NewLine;
