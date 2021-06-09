@@ -11,8 +11,8 @@
     "editor.foreground": "#e4cbc4",
     "editorCursor.background": "#5fecff55",
     "editorCursor.foreground": "#5fecff",
-    "editor.selectionBackground": "#5fecff3d",
-    "editor.selectionHighlightBackground": "#5fecff21",
+    "editor.selectionBackground": "#5fecff2a",
+    "editor.selectionHighlightBackground": "#5fecff1a",
     "editor.wordHighlightBackground": "#f8abeb17",
     "editor.wordHighlightStrongBackground": "#f066cd27",
     "editor.findMatchBackground": "#f1c6752a",
@@ -1876,7 +1876,7 @@
         "markup.italic"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "italic ",
         "foreground": "#ddc2a8"
       }
     },
@@ -1902,7 +1902,7 @@
         "markup.quote markup.bold string"
       ],
       "settings": {
-        "fontStyle": "bold",
+        "fontStyle": "italic bold",
         "foreground": "#dfd4bf"
       }
     },

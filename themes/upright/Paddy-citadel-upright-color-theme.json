@@ -1,5 +1,5 @@
 {
-  "name": "Upright Paddy Citadel",
+  "name": "Paddy Citadel",
   "type": "dark",
   "colors": {
 
@@ -15,9 +15,9 @@
     "editorCursor.background": "#FF842D55",
     "editorCursor.foreground": "#FF842D",
     "editor.selectionBackground": "#ff681042",
-    "editor.selectionHighlightBackground": "#1ed7f04d",
-    "editor.wordHighlightBackground": "#db3e3333",
-    "editor.wordHighlightStrongBackground": "#db473349",
+    "editor.selectionHighlightBackground": "#1ed7f02d",
+    "editor.wordHighlightBackground": "#db3e3328",
+    "editor.wordHighlightStrongBackground": "#db47333b",
     "editor.findMatchBackground": "#d475f12a",
     "editor.findMatchHighlightBackground": "#ce0d9e33",
     "editor.findMatchHighlightBorder": "#d857ad33",
@@ -70,8 +70,8 @@
 
     "terminal.background": "#092630",
     "terminal.foreground": "#03b698",
-    "terminal.ansiBlack": "#3d3735",
-    "terminal.ansiBrightBlack": "#504d47",
+    "terminal.ansiBlack": "#0d3b4b",
+    "terminal.ansiBrightBlack": "#15404e",
     "terminal.ansiBlue": "#3465a5",
     "terminal.ansiBrightBlue": "#3a89d3",
     "terminal.ansiCyan": "#08a087",
@@ -84,8 +84,8 @@
     "terminal.ansiBrightRed": "#d43e2a",
     "terminal.ansiWhite": "#f0ab90",
     "terminal.ansiBrightWhite": "#fae8e0",
-    "terminal.ansiYellow": "#d37d0d",
-    "terminal.ansiBrightYellow": "#ff9b18",
+    "terminal.ansiYellow": "#d3940d",
+    "terminal.ansiBrightYellow": "#ffc118",
     "terminal.selectionBackground": "#1dfcd72d",
     "terminalCursor.background": "#1dfcd77a",
     "terminalCursor.foreground": "#1dfcd7",
@@ -173,6 +173,14 @@
     "menu.selectionForeground": "#331116",
     "menu.separatorBackground": "#f0721e86",
 
+    "symbolIcon.variableForeground": "#03b698",
+    "symbolIcon.fieldForeground": "#bb7b51",
+    "symbolIcon.classForeground": "#f8af11",
+    "symbolIcon.interfaceForeground": "#af7942",
+    "symbolIcon.functionForeground": "#d35027",
+    "symbolIcon.methodForeground": "#d35027",
+    "symbolIcon.constructorForeground": "#ce63e9",
+
     "list.focusBackground": "#f06b1e63",
     "list.focusForeground": "#FF842D",
     "list.activeSelectionBackground": "#FF842D44",
@@ -211,6 +219,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
+        
         "foreground": "#326d65"
       }
     },
@@ -220,6 +229,7 @@
         "comment.block.documentation storage.type.class.jsdoc"
       ],
       "settings": {
+        
         "foreground": "#2bc2a9"
       }
     },
@@ -309,6 +319,7 @@
         "keyword.operator.new",
       ],
       "settings": {
+        
         "foreground": "#b89e59"
       }
     },
@@ -318,6 +329,7 @@
         "storage.type",
       ],
       "settings": {
+        
         "foreground": "#ca6756"
       }
     },
@@ -377,6 +389,7 @@
         "storage.type.property",
       ],
       "settings": {
+        
         "foreground": "#f75827"
       }
     },
@@ -386,6 +399,7 @@
         "storage.modifier"
       ],
       "settings": {
+        
         "foreground": "#bd6752"
       }
     },
@@ -516,6 +530,7 @@
         "keyword.control",
       ],
       "settings": {
+        
       }
     },
     {
@@ -525,6 +540,7 @@
         "keyword.control.flow",
       ],
       "settings": {
+        
         "foreground": "#319b51"
       }
     },
@@ -534,6 +550,7 @@
         "keyword.control.trycatch",
       ],
       "settings": {
+        
         "foreground": "#ee324b"
       }
     },
@@ -567,6 +584,7 @@
         "keyword.other",
       ],
       "settings": {
+        
       }
     },
     {
@@ -657,6 +675,7 @@
         "keyword.operator.expression.void",
       ],
       "settings": {
+        
         "foreground": "#725f5f"
       }
     },
@@ -684,6 +703,7 @@
         "keyword.other.unit",
       ],
       "settings": {
+        
       }
     },
     {
@@ -753,6 +773,7 @@
         "keyword.operator.expression",
       ],
       "settings": {
+        
         "foreground": "#ca6969"
       }
     },
@@ -813,6 +834,7 @@
         "support.function.construct.output",
       ],
       "settings": {
+        
         "foreground": "#69a080"
       }
     },
@@ -887,6 +909,7 @@
         "support.function.misc.scss",
       ],
       "settings": {
+        
         "foreground": "#da4c33"
       }
     },
@@ -945,6 +968,7 @@
         "meta.decorator",
       ],
       "settings": {
+        
         "foreground": "#9bc0a9"
       }
     },
@@ -1211,6 +1235,7 @@
         "keyword.operator.spread",
       ],
       "settings": {
+        
         "foreground": "#c2716c"
       }
     },
@@ -1220,6 +1245,7 @@
         "keyword.operator.of",
       ],
       "settings": {
+        
         "foreground": "#6dddbb"
       }
     },
@@ -1229,6 +1255,7 @@
         "keyword.operator.expression.delete",
       ],
       "settings": {
+        
         "foreground": "#f85c51"
       }
     },
@@ -1334,6 +1361,7 @@
         "source.postcss variable"
       ],
       "settings": {
+        
         "foreground": "#ffd5b3"
       }
     },
@@ -1382,6 +1410,7 @@
         "entity.name.method.js"
       ],
       "settings": {
+        
         "foreground": "#82AAFF"
       }
     },
@@ -1677,6 +1706,7 @@
         "tag.decorator.js punctuation.definition.tag.js"
       ],
       "settings": {
+        
         "foreground": "#82AAFF"
       }
     },
@@ -1688,6 +1718,7 @@
         "keyword.blade",
       ],
       "settings": {
+        
         "foreground": "#eb7d7d"
       }
     },
@@ -1697,6 +1728,7 @@
         "source.js constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
+        
         "foreground": "#FF5370"
       }
     },
@@ -1844,7 +1876,7 @@
         "markup.italic"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "italic ",
         "foreground": "#ddc2a8"
       }
     },
@@ -1870,7 +1902,7 @@
         "markup.quote markup.bold string"
       ],
       "settings": {
-        "fontStyle": "bold italic",
+        "fontStyle": "italic bold",
         "foreground": "#dfd4bf"
       }
     },
@@ -1899,6 +1931,7 @@
         "markup.quote"
       ],
       "settings": {
+        
       }
     },
     {
@@ -1944,6 +1977,16 @@
       ],
       "settings": {
         "foreground": "#00000050"
+      }
+    },
+    {
+      "name": "markup.fenced_code.block.markdown",
+      "scope": [
+        "markup.inline.raw.string.markdown",
+        "markup.fenced_code.block.markdown"
+      ],
+      "settings": {
+        "foreground": "#03b698"
       }
     },
     {
