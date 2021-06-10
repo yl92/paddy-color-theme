@@ -5,7 +5,7 @@
 
     "foreground": "#fffbfa",
     // "contrastBorder": "#6cd6fa67",
-    "icon.foreground": "#fffbfa",
+    "icon.foreground": "#5fecff",
 
     "editor.background": "#5a415a",
     "editor.foreground": "#e4cbc4",
@@ -114,7 +114,7 @@
     "diffEditor.insertedTextBorder": "#3bab8848",
     "diffEditor.removedTextBackground": "#b424242a",
     "diffEditor.removedTextBorder": "#b4242448",
-    "editorWidget.background": "#5a415a",
+    "editorWidget.background": "#634963",
     "editorWidget.foreground": "#fffbf8",
     "editorWidget.border": "#6cd6fa67",
     "editorLink.activeForeground": "#5fecff",
@@ -173,9 +173,9 @@
 
     "list.focusBackground": "#5fecff56",
     "list.focusForeground": "#ffffff",
-    "list.activeSelectionBackground": "#a1e7fd44",
+    "list.activeSelectionBackground": "#61daff3a",
     "list.activeSelectionForeground": "#ffffff",
-    "list.inactiveSelectionBackground": "#faffff11",
+    "list.inactiveSelectionBackground": "#61daff2c",
     "list.inactiveSelectionForeground": "#ffffff",
     "list.hoverBackground": "#b0e7e42f",
     "list.errorForeground": "#ffa093",
@@ -199,7 +199,7 @@
     "editorOverviewRuler.modifiedForeground": "#98dfd669",
     
     "editorGutter.addedBackground": "#6ccf8daf",
-    "editorGutter.modifiedBackground": "#82dbdba1",
+    "editorGutter.modifiedBackground": "#82dbdb98",
     "editorGutter.deletedBackground": "#f19d9b81",
     "editorGutter.commentRangeForeground": "#dfd9d471",
   },
@@ -728,7 +728,7 @@
         "punctuation.accessor.optional",
       ],
       "settings": {
-        "foreground": "#e9bcbc"
+        "foreground": "#ff9090"
       }
     },
     {
@@ -846,7 +846,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#6d88ff"
+        "foreground": "#869cff"
       }
     },
     {
@@ -919,7 +919,6 @@
         "meta.function-call support.function",
       ],
       "settings": {
-        "foreground": "#ff6739"
       }
     },
     {
@@ -1215,7 +1214,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#c2a073"
+        "foreground": "#cea188"
       }
     },
     {
@@ -1295,7 +1294,7 @@
         "source.postcss support.type.property-name",
       ],
       "settings": {
-        "foreground": "#a6d8b5"
+        "foreground": "#bdd8c6"
       }
     },
     {
@@ -1304,7 +1303,7 @@
         "meta.property-list entity.name.tag",
       ],
       "settings": {
-        "foreground": "#79bb9f"
+        "foreground": "#5bce9e"
       }
     },
     {
@@ -1362,7 +1361,7 @@
       ],
       "settings": {
         
-        "foreground": "#ffe8cd"
+        "foreground": "#ffe9e9"
       }
     },
     {
