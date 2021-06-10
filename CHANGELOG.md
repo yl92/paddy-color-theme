@@ -1,3 +1,7 @@
+**`1.5.1` - 2021-06-10**
+
+- Yesterday's Dropdown transparent background fixed
+
 **`1.5.0` - 2021-06-10**
 
 The summer is here and it's time for a new 2021 Summer Lookbook! Three new themes are added:
