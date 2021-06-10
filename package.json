@@ -43,234 +43,234 @@
 	],
 	"contributes": {
 		"themes": [
-			{
-				"id": "paddy-inkstone",
-				"label": "P. \\ Inkstone",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-inkstone-color-theme.json"
-			},
-			{
-				"id": "paddy-eggplant",
-				"label": "P. \\ Eggplant",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-eggplant-color-theme.json"
-			},
-			{
-				"id": "paddy-grizzly",
-				"label": "P. \\ Grizzly",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-grizzly-color-theme.json"
-			},
-			{
-				"id": "paddy-eucalyptus",
-				"label": "P. \\ Eucalyptus",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-eucalyptus-color-theme.json"
-			},
-			{
-				"id": "paddy-citadel",
-				"label": "P. \\ Citadel",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-citadel-color-theme.json"
-			},
-			{
-				"id": "paddy-neptune",
-				"label": "P. \\ Neptune",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-neptune-color-theme.json"
-			},
-			{
-				"id": "paddy-ox",
-				"label": "P. \\ Ox",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-ox-color-theme.json"
-			},
-			{
-				"id": "paddy-emerald",
-				"label": "P. \\ Emerald",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-emerald-color-theme.json"
-			},
-			{
-				"id": "paddy-floresta",
-				"label": "P. \\ Floresta",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-floresta-color-theme.json"
-			},
-			{
-				"id": "paddy-light",
-				"label": "P. \\ Light",
-				"uiTheme": "vs",
-				"path": "./themes/default/Paddy-light-color-theme.json"
-			},
-			{
-				"id": "paddy-frost",
-				"label": "P. \\ Frost",
-				"uiTheme": "vs",
-				"path": "./themes/default/Paddy-frost-color-theme.json"
-			},
-			{
-				"id": "paddy-crimson",
-				"label": "P. \\ Crimson",
-				"uiTheme": "vs",
-				"path": "./themes/default/Paddy-crimson-color-theme.json"
-			},
+			// {
+			// 	"id": "paddy-inkstone",
+			// 	"label": "P. \\ Inkstone",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/default/Paddy-inkstone-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-eggplant",
+			// 	"label": "P. \\ Eggplant",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/default/Paddy-eggplant-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-grizzly",
+			// 	"label": "P. \\ Grizzly",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/default/Paddy-grizzly-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-eucalyptus",
+			// 	"label": "P. \\ Eucalyptus",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/default/Paddy-eucalyptus-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-citadel",
+			// 	"label": "P. \\ Citadel",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/default/Paddy-citadel-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-neptune",
+			// 	"label": "P. \\ Neptune",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/default/Paddy-neptune-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-ox",
+			// 	"label": "P. \\ Ox",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/default/Paddy-ox-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-emerald",
+			// 	"label": "P. \\ Emerald",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/default/Paddy-emerald-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-floresta",
+			// 	"label": "P. \\ Floresta",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/default/Paddy-floresta-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-light",
+			// 	"label": "P. \\ Light",
+			// 	"uiTheme": "vs",
+			// 	"path": "./themes/default/Paddy-light-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-frost",
+			// 	"label": "P. \\ Frost",
+			// 	"uiTheme": "vs",
+			// 	"path": "./themes/default/Paddy-frost-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-crimson",
+			// 	"label": "P. \\ Crimson",
+			// 	"uiTheme": "vs",
+			// 	"path": "./themes/default/Paddy-crimson-color-theme.json"
+			// },
 			{
 				"id": "paddy-haze",
 				"label": "P. \\ Haze",
 				"uiTheme": "vs-dark",
 				"path": "./themes/default/Paddy-haze-color-theme.json"
 			},
-			{
-				"id": "paddy-mist",
-				"label": "P. \\ Mist",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-mist-color-theme.json"
-			},
-			{
-				"id": "paddy-yesterday",
-				"label": "P. \\ Yesterday",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-yesterday-color-theme.json"
-			},
-			{
-				"id": "paddy-machine",
-				"label": "P. \\ Machine",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-machine-color-theme.json"
-			},
-			{
-				"id": "paddy-wolf",
-				"label": "P. \\ Wolf",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-wolf-color-theme.json"
-			},
-			{
-				"id": "paddy-dark",
-				"label": "P. \\ Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-dark-color-theme.json"
-			},
-			{
-				"id": "paddy-black",
-				"label": "P. \\ Black",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-black-color-theme.json"
-			},
-			{
-				"id": "paddy-inkstone-upright",
-				"label": "P. Upright \\ Inkstone",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-inkstone-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-eggplant-upright",
-				"label": "P. Upright \\ Eggplant",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-eggplant-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-grizzly-upright",
-				"label": "P. Upright \\ Grizzly",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-grizzly-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-eucalyptus-upright",
-				"label": "P. Upright \\ Eucalyptus",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-eucalyptus-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-citadel-upright",
-				"label": "P. Upright \\ Citadel",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-citadel-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-neptune-upright",
-				"label": "P. Upright \\ Neptune",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-neptune-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-ox-upright",
-				"label": "P. Upright \\ Ox",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-ox-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-emerald-upright",
-				"label": "P. Upright \\ Emerald",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-emerald-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-floresta-upright",
-				"label": "P. Upright \\ Floresta",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-floresta-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-frost-upright",
-				"label": "P. Upright \\ Frost",
-				"uiTheme": "vs",
-				"path": "./themes/upright/Paddy-frost-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-light-upright",
-				"label": "P. Upright \\ Light",
-				"uiTheme": "vs",
-				"path": "./themes/upright/Paddy-light-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-crimson-upright",
-				"label": "P. Upright \\ Crimson",
-				"uiTheme": "vs",
-				"path": "./themes/upright/Paddy-crimson-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-haze-upright",
-				"label": "P. Upright \\ Haze",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-haze-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-mist-upright",
-				"label": "P. Upright \\ Mist",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-mist-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-yesterday-upright",
-				"label": "P. Upright \\ Yesterday",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-yesterday-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-machine-upright",
-				"label": "P. Upright \\ Machine",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-machine-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-wolf-upright",
-				"label": "P. Upright \\ Wolf",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-wolf-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-dark-upright",
-				"label": "P. Upright \\ Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-dark-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-black-upright",
-				"label": "P. Upright \\ Black",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-black-upright-color-theme.json"
-			}
+			// {
+			// 	"id": "paddy-mist",
+			// 	"label": "P. \\ Mist",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/default/Paddy-mist-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-yesterday",
+			// 	"label": "P. \\ Yesterday",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/default/Paddy-yesterday-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-machine",
+			// 	"label": "P. \\ Machine",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/default/Paddy-machine-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-wolf",
+			// 	"label": "P. \\ Wolf",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/default/Paddy-wolf-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-dark",
+			// 	"label": "P. \\ Dark",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/default/Paddy-dark-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-black",
+			// 	"label": "P. \\ Black",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/default/Paddy-black-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-inkstone-upright",
+			// 	"label": "P. Upright \\ Inkstone",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-inkstone-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-eggplant-upright",
+			// 	"label": "P. Upright \\ Eggplant",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-eggplant-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-grizzly-upright",
+			// 	"label": "P. Upright \\ Grizzly",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-grizzly-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-eucalyptus-upright",
+			// 	"label": "P. Upright \\ Eucalyptus",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-eucalyptus-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-citadel-upright",
+			// 	"label": "P. Upright \\ Citadel",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-citadel-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-neptune-upright",
+			// 	"label": "P. Upright \\ Neptune",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-neptune-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-ox-upright",
+			// 	"label": "P. Upright \\ Ox",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-ox-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-emerald-upright",
+			// 	"label": "P. Upright \\ Emerald",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-emerald-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-floresta-upright",
+			// 	"label": "P. Upright \\ Floresta",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-floresta-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-frost-upright",
+			// 	"label": "P. Upright \\ Frost",
+			// 	"uiTheme": "vs",
+			// 	"path": "./themes/upright/Paddy-frost-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-light-upright",
+			// 	"label": "P. Upright \\ Light",
+			// 	"uiTheme": "vs",
+			// 	"path": "./themes/upright/Paddy-light-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-crimson-upright",
+			// 	"label": "P. Upright \\ Crimson",
+			// 	"uiTheme": "vs",
+			// 	"path": "./themes/upright/Paddy-crimson-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-haze-upright",
+			// 	"label": "P. Upright \\ Haze",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-haze-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-mist-upright",
+			// 	"label": "P. Upright \\ Mist",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-mist-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-yesterday-upright",
+			// 	"label": "P. Upright \\ Yesterday",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-yesterday-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-machine-upright",
+			// 	"label": "P. Upright \\ Machine",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-machine-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-wolf-upright",
+			// 	"label": "P. Upright \\ Wolf",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-wolf-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-dark-upright",
+			// 	"label": "P. Upright \\ Dark",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-dark-upright-color-theme.json"
+			// },
+			// {
+			// 	"id": "paddy-black-upright",
+			// 	"label": "P. Upright \\ Black",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/upright/Paddy-black-upright-color-theme.json"
+			// }
 		]
 	},
 	"__metadata": {
