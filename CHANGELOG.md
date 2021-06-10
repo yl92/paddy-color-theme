@@ -1,6 +1,6 @@
 **`1.5.1` - 2021-06-10**
 
-- Yesterday's Dropdown transparent background fixed
+- `Yesterday` Dropdown transparent background fixed
 
 **`1.5.0` - 2021-06-10**
 
