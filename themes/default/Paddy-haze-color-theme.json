@@ -160,8 +160,8 @@
     "menu.background": "#5a415a",
     "menu.border": "#6cd6fa67",
     "menu.foreground": "#fffbfa",
-    "menu.selectionBackground": "#5fecff",
-    "menu.selectionForeground": "#5a415a",
+    "menu.selectionBackground": "#5fecff28",
+    "menu.selectionForeground": "#5fecff",
     "menu.separatorBackground": "#6cd6fa67",
 
     "symbolIcon.variableForeground": "#3dcfcf",

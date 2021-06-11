@@ -173,7 +173,7 @@
     "menu.foreground": "#ffd4c7",
     "menu.selectionBackground": "#d16aaa3b",
     "menu.selectionForeground": "#ffffff",
-    "menu.separatorBackground": "#ff74975d",
+    "menu.separatorBackground": "#4fff7b31",
 
     "symbolIcon.variableForeground": "#0aa3a3",
     "symbolIcon.fieldForeground": "#bb7b51",
