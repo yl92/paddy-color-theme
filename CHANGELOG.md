@@ -1,3 +1,8 @@
+**`1.5.3` - 2021-06-11**
+
+- statusBarItem.prominent fixed
+- Other Minor patches
+  
 **`1.5.1` - 2021-06-10**
 
 - `Yesterday` Dropdown transparent background fixed

@@ -58,9 +58,10 @@
     "statusBar.border": "#86bda13f",
     "statusBar.debuggingBackground": "#dfa168",
     "statusBar.noFolderBackground": "#d3e4e1",
-    "statusBarItem.prominentBackground": "#93ca73",
-    "statusBarItem.prominentHoverBackground": "#afd499",
-    "statusBarItem.remoteBackground": "#93ca73",
+    "statusBarItem.prominentBackground": "#098a3a",
+    "statusBarItem.prominentForeground": "#d3e4e1",
+    "statusBarItem.prominentHoverBackground": "#0ba546",
+    "statusBarItem.remoteBackground": "#098a3a",
 
     "panel.background": "#f6faf8",
     "panel.border": "#86bda13f",

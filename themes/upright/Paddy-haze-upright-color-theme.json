@@ -57,8 +57,9 @@
     "statusBar.debuggingBackground": "#682d22",
     "statusBar.noFolderBackground": "#5a415a",
     "statusBarItem.prominentBackground": "#5fecff",
+    "statusBarItem.prominentForeground": "#5a415a",
     "statusBarItem.prominentHoverBackground": "#5fecffdd",
-    "statusBarItem.remoteBackground": "#5fecff",
+    "statusBarItem.remoteBackground": "#5fecff3f",
 
     "panel.border": "#6cd6fa67",
     "panel.background": "#5a415a",
@@ -927,7 +928,7 @@
         "variable.parameter",
       ],
       "settings": {
-        "foreground": "#f19a78"
+        "foreground": "#ffddd1"
       }
     },
     {

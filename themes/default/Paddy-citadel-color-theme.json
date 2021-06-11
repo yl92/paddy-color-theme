@@ -60,8 +60,9 @@
     "statusBar.debuggingBackground": "#682d22",
     "statusBar.noFolderBackground": "#092630",
     "statusBarItem.prominentBackground": "#FF842D",
+    "statusBarItem.prominentForeground": "#092630",
     "statusBarItem.prominentHoverBackground": "#ffa41bdd",
-    "statusBarItem.remoteBackground": "#e06721",
+    "statusBarItem.remoteBackground": "#ff842d49",
 
     "panel.border": "#1dfcd728",
     "panel.background": "#092630",

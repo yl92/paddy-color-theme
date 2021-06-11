@@ -2,7 +2,7 @@
 	"name": "paddy-color-theme",
 	"displayName": "Paddy Color Theme",
 	"description": "A set of very detailed color theme with earthy tones for all ye badass hackers. 🎄🍁🪓",
-	"version": "1.5.2",
+	"version": "1.5.3",
 	"publisher": "yile-ou",
 	"author": {
 		"name": "Yile Ou",
@@ -43,6 +43,12 @@
 	],
 	"contributes": {
 		"themes": [
+			{
+				"id": "paddy-dark",
+				"label": "P. \\ Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/default/Paddy-dark-color-theme.json"
+			},
 			{
 				"id": "paddy-inkstone",
 				"label": "P. \\ Inkstone",
@@ -146,16 +152,17 @@
 				"path": "./themes/default/Paddy-wolf-color-theme.json"
 			},
 			{
-				"id": "paddy-dark",
-				"label": "P. \\ Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-dark-color-theme.json"
-			},
-			{
 				"id": "paddy-black",
 				"label": "P. \\ Black",
 				"uiTheme": "vs-dark",
 				"path": "./themes/default/Paddy-black-color-theme.json"
+			},
+
+			{
+				"id": "paddy-dark-upright",
+				"label": "P. Upright \\ Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/upright/Paddy-dark-upright-color-theme.json"
 			},
 			{
 				"id": "paddy-inkstone-upright",
@@ -258,12 +265,6 @@
 				"label": "P. Upright \\ Wolf",
 				"uiTheme": "vs-dark",
 				"path": "./themes/upright/Paddy-wolf-upright-color-theme.json"
-			},
-			{
-				"id": "paddy-dark-upright",
-				"label": "P. Upright \\ Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-dark-upright-color-theme.json"
 			},
 			{
 				"id": "paddy-black-upright",
