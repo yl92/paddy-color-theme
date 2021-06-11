@@ -2,18 +2,17 @@
 
 **A set of very detailed color themes with earthy tones and 19 background options for all ye badass hackers. 🍁**
 
-| Grayscale                                   | With Accent Colors          | Light Themes               |
-| ------------------------------------------- | --------------------------- | -------------------------- |
-| 🚧 `𝔅𝔩𝔞𝔠𝔨` Pitch Black                       | 🍆 `Eggplant`                | 🌞 `Light`                  |
-| 🪓 `Dark` *Paddy Classic* <sup>Default</sup> | 🌲 `Emerald`                 | 💋 `Crimson` <sup>New</sup> |
-| 🌥 `Mist` *"Winter Dublin Edition"*          | 🧧 `Ox` Year of the Ox       | ❄️ `Frost`                  |
-| 🤖 `Machine` Medium, Neutral-Warm            | 🐻 `Grizzly`                 |                            |
-| 🐺 `Wolf` Darker, Neutral-Warm               | 🌿 `Eucalyptus`              |                            |
-| 🎮 `Yesterday` Medium, Cold                  | 🖋 `Inkstone`                |                            |
-|                                             | λ&nbsp;  `Citadel`          |                            |
-|                                             | 🔵 `Neptune`                 |                            |
-|                                             | 🌄 `Haze` <sup>New</sup>     |                            |
-|                                             | 🌸 `Floresta` <sup>New</sup> |                            |
+| Very Dark Themes        | Colourful Darks             | Low Contrast            | Light Themes               |
+| ----------------------- | --------------------------- | ----------------------- | -------------------------- |
+| 🪓`Dark` *Paddy Classic* | 🍆 `Eggplant`                | 🤖 `Machine`             | 🌞 `Light`                  |
+| 🚧 `Black`               | 🌲 `Emerald`                 | 🎮 `Yesterday`           | 🍷 `Crimson` <sup>New</sup> |
+| 🐺 `Wolf`                | 🧧 `Ox` *Year of the Ox*     | 🌄 `Haze` <sup>New</sup> | ❄️ `Frost`                  |
+|                         | 🐻 `Grizzly`                 | 🌥 `Mist`                |                            |
+|                         | 🌿 `Eucalyptus`              |                         |                            |
+|                         | 🖋 `Inkstone`                |                         |                            |
+|                         | λ&nbsp;  `Citadel`          |                         |                            |
+|                         | 🔵 `Neptune`                 |                         |                            |
+|                         | 🌸 `Floresta` <sup>New</sup> |                         |                            |
 
 &NewLine;
 
@@ -42,7 +41,7 @@
 
 **Best paid font I've found so far (not affiliated)**
 
-→ [[PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)] I can no longer use any other font after trying out this one... it's *almost* perfect.
+→ [[PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)] I can no longer use any other font after trying out PragmataPro... it's *almost* perfect.
 
 ---
 
