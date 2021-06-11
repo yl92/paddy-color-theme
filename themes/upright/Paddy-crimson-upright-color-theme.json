@@ -171,6 +171,7 @@
     
     "menu.background": "#ffffff",
     "menu.foreground": "#000000",
+    "menu.border": "#3838382c",
     "menu.selectionBackground": "#ed143d31",
     "menu.selectionForeground": "#000000",
     "menu.separatorBackground": "#00000028",
