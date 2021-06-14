@@ -1,3 +1,12 @@
+**`1.5.5` - 2021-06-14**
+
+- darkening comment colors for Crimson
+- removing italics on units
+  
+**`1.5.4` - 2021-06-12**
+
+- Readme updates, small patches
+
 **`1.5.3` - 2021-06-11**
 
 - statusBarItem.prominent fixed

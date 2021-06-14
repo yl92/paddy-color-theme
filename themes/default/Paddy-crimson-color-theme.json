@@ -226,7 +226,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#b3b3b3"
+        "foreground": "#a1a1a1"
       }
     },
     {
@@ -708,7 +708,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
       }
     },
     {
