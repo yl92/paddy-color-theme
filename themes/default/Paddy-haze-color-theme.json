@@ -76,8 +76,8 @@
     "terminal.ansiBrightCyan": "#55ffe3",
     "terminal.ansiGreen": "#3fd15e",
     "terminal.ansiBrightGreen": "#90fcb4",
-    "terminal.ansiMagenta": "#f734ac",
-    "terminal.ansiBrightMagenta": "#ff73e8",
+    "terminal.ansiMagenta": "#ff58bf",
+    "terminal.ansiBrightMagenta": "#ff84eb",
     "terminal.ansiRed": "#f5513b",
     "terminal.ansiBrightRed": "#ff8676",
     "terminal.ansiWhite": "#fffbfa",
@@ -696,7 +696,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
       }
     },
     {
