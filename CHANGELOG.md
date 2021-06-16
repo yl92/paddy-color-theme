@@ -1,3 +1,7 @@
+**`1.5.6` - 2021-06-14**
+
+- Crimson terminal color updates
+  
 **`1.5.5` - 2021-06-14**
 
 - darkening comment colors for Crimson
