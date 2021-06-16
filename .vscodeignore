@@ -6,3 +6,4 @@ vsc-extension-quickstart.md
 paddy-color-theme-preview.gif
 themes/default/Paddy-1998-color-theme.json
 themes/upright/Paddy-1998-upright-color-theme.json
+*.bash
