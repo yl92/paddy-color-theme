@@ -127,6 +127,7 @@
     "textSeparator.foreground": "#dba37b55",
     "textBlockQuote.border": "#f0371e",
     "editorWhitespace.foreground": "#eea16719",
+    "editorIndentGuide.activeBackground": "#ecaf8744",
     "editor.lineHighlightBackground": "#e695381e",
     "editor.lineHighlightBorder": "#0000",
     "editorLineNumber.activeForeground": "#f0371e",
@@ -262,7 +263,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#eead78"
+        "foreground": "#fdcaa0"
       }
     },
     {
@@ -701,7 +702,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        
+        "fontStyle": "",
       }
     },
     {

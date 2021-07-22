@@ -76,8 +76,8 @@
     "terminal.ansiBrightCyan": "#55ffe3",
     "terminal.ansiGreen": "#3fd15e",
     "terminal.ansiBrightGreen": "#90fcb4",
-    "terminal.ansiMagenta": "#f734ac",
-    "terminal.ansiBrightMagenta": "#ff73e8",
+    "terminal.ansiMagenta": "#ff58bf",
+    "terminal.ansiBrightMagenta": "#ff84eb",
     "terminal.ansiRed": "#f5513b",
     "terminal.ansiBrightRed": "#ff8676",
     "terminal.ansiWhite": "#fffbfa",
@@ -126,6 +126,8 @@
     "textSeparator.foreground": "#e9d5c755",
     "textBlockQuote.border": "#5fecff",
     "editorWhitespace.foreground": "#6cd6fa34",
+    "editorIndentGuide.background": "#9fbfc41e",
+    "editorIndentGuide.activeBackground": "#5fecff44",
     "editor.lineHighlightBackground": "#51ceff13",
     "editor.lineHighlightBorder": "#0000",
     "editorLineNumber.activeForeground": "#5fecff",
@@ -696,7 +698,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        
+        "fontStyle": "",
       }
     },
     {

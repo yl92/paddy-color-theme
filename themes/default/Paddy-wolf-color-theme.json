@@ -123,6 +123,7 @@
     "textSeparator.foreground": "#e9d5c755",
     "textBlockQuote.border": "#c95a0f",
     "editorWhitespace.foreground": "#8d898518",
+    "editorIndentGuide.activeBackground": "#cfb5a944",
     "editor.lineHighlightBackground": "#cfb5a913",
     "editor.lineHighlightBorder": "#0000",
     "editorLineNumber.activeForeground": "#31925d",
@@ -870,7 +871,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#c5512e"
+        "foreground": "#ca5c3a"
       }
     },
     {
@@ -896,7 +897,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#e65022"
+        "foreground": "#ce5d3a"
       }
     },
     {

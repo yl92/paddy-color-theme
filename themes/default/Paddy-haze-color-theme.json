@@ -126,6 +126,8 @@
     "textSeparator.foreground": "#e9d5c755",
     "textBlockQuote.border": "#5fecff",
     "editorWhitespace.foreground": "#6cd6fa34",
+    "editorIndentGuide.background": "#9fbfc41e",
+    "editorIndentGuide.activeBackground": "#5fecff44",
     "editor.lineHighlightBackground": "#51ceff13",
     "editor.lineHighlightBorder": "#0000",
     "editorLineNumber.activeForeground": "#5fecff",

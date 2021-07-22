@@ -128,6 +128,7 @@
     "textSeparator.foreground": "#dba37b55",
     "textBlockQuote.border": "#FF842D",
     "editorWhitespace.foreground": "#25817519",
+    "editorIndentGuide.activeBackground": "#1dfcd72d",
     "editor.lineHighlightBackground": "#FF842D1e",
     "editor.lineHighlightBorder": "#0000",
     "editorLineNumber.activeForeground": "#FF842D",
