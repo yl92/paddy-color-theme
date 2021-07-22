@@ -1,9 +1,7 @@
-**`1.5.6` - 2021-06-14**
+**`1.5.6` - 2021-06-16**
 
+- light theme scrollbar updates to be more transparent
 - Crimson terminal color updates
-  
-**`1.5.5` - 2021-06-14**
-
 - darkening comment colors for Crimson
 - removing italics on units
   

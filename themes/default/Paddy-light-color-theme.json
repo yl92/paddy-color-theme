@@ -103,9 +103,9 @@
     "input.background": "#D2D8C8",
     "input.border": "#40856362",
     "input.foreground": "#163a2d",
-    "scrollbarSlider.background": "#e7d5cbee",
-    "scrollbarSlider.activeBackground": "#eedcd2",
-    "scrollbarSlider.hoverBackground": "#f1dbcdee",
+    "scrollbarSlider.background": "#cfb2a338",
+    "scrollbarSlider.activeBackground": "#c5a49241",
+    "scrollbarSlider.hoverBackground": "#d1b29e23",
     "scrollbar.shadow": "#917c7356",
     "badge.background": "#127a35",
     "badge.foreground": "#f7e6de",
@@ -332,7 +332,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#8d6966"
+        "foreground": "#ad6760"
       }
     },
     {
@@ -392,7 +392,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#c98e67"
+        "foreground": "#db7633"
       }
     },
     {
