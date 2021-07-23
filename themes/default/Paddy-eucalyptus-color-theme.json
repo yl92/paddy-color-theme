@@ -163,8 +163,7 @@
     "settings.headerForeground": "#ca804f",
     "settings.modifiedItemIndicator": "#d4872e",
     "settings.focusedRowBackground": "#d4872e1f",
-    "notebook.focusedRowBorder": "#d4862e1e",
-    "notebook.rowHoverBackground": "#e09e5313",
+    "settings.focusedRowBorder": "#e09e5313",
     // "notebook.cellToolbarSeparator": "#fd9b4036",
     "pickerGroup.foreground": "#f0601e",
     

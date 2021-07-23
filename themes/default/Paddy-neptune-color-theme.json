@@ -155,8 +155,7 @@
     "settings.headerForeground": "#e7d4cb",
     "settings.modifiedItemIndicator": "#2241f7",
     "settings.focusedRowBackground": "#2241f71f",
-    "notebook.focusedRowBorder": "#2241f73d",
-    "notebook.rowHoverBackground": "#2241f710",
+    "settings.focusedRowBorder": "#2241f710",
     "pickerGroup.foreground": "#2c52e7",
 
 		"menu.background": "#161b35",

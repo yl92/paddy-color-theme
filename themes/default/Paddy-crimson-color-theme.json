@@ -165,8 +165,7 @@
     "editorGroup.dropBackground": "#ff848415",
     "settings.headerForeground": "#000000",
     "settings.modifiedItemIndicator": "#ed143d",
-    "notebook.focusedRowBorder": "#ed143d42",
-    "notebook.rowHoverBackground": "#ed143d10",
+    "settings.focusedRowBorder": "#ed143d10",
     "editorLightBulb.foreground": "#f19b32",
     "editorLightBulbAutoFix.foreground": "#2376c4",
     
