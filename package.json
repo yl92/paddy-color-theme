@@ -56,6 +56,12 @@
 				"path": "./themes/default/Paddy-inkstone-color-theme.json"
 			},
 			{
+				"id": "paddy-leipzig",
+				"label": "P. \\ Leipzig",
+				"uiTheme": "vs-dark",
+				"path": "./themes/default/Paddy-leipzig-color-theme.json"
+			},
+			{
 				"id": "paddy-eggplant",
 				"label": "P. \\ Eggplant",
 				"uiTheme": "vs-dark",
@@ -169,6 +175,12 @@
 				"label": "P. Upright \\ Inkstone",
 				"uiTheme": "vs-dark",
 				"path": "./themes/upright/Paddy-inkstone-upright-color-theme.json"
+			},
+			{
+				"id": "paddy-leipzig-upright",
+				"label": "P. Upright \\ Leipzig",
+				"uiTheme": "vs-dark",
+				"path": "./themes/upright/Paddy-leipzig-upright-color-theme.json"
 			},
 			{
 				"id": "paddy-eggplant-upright",

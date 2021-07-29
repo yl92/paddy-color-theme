@@ -4,6 +4,7 @@
 	"colors": {
 
     "foreground": "#fdc0be",
+    "editorCodeLens.foreground": "#ffd6d4",
     "icon.foreground": "#0058db",
     
     "editor.background": "#13172b",
@@ -876,7 +877,7 @@
         "keyword.other.special-method",
       ],
       "settings": {
-        "foreground": "#f33d3d"
+        "foreground": "#e04d4d"
       }
     },
     {
@@ -902,7 +903,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f33d3d"
+        "foreground": "#e24242"
       }
     },
     {
@@ -911,7 +912,7 @@
         "meta.function-call support.function",
       ],
       "settings": {
-        "foreground": "#e94b1b"
+        "foreground": "#d45832"
       }
     },
     {

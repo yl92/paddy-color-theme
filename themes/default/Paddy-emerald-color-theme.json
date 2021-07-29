@@ -4,6 +4,7 @@
 	"colors": {
 
     "foreground": "#fad6b9",
+    "editorCodeLens.foreground": "#ffe3cc",
     "icon.foreground": "#04961c",
     
     "editor.background": "#081b18",
@@ -899,7 +900,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f7501d"
+        "foreground": "#e9582c"
       }
     },
     {
@@ -908,7 +909,7 @@
         "meta.function-call support.function",
       ],
       "settings": {
-        "foreground": "#e94b1b"
+        "foreground": "#dd5c34"
       }
     },
     {

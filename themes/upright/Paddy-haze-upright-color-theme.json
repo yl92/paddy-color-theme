@@ -4,6 +4,7 @@
   "colors": {
 
     "foreground": "#fffbfa",
+    "editorCodeLens.foreground": "#ffeae4",
     // "contrastBorder": "#6cd6fa67",
     "icon.foreground": "#5fecff",
 

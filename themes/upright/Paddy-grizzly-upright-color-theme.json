@@ -4,6 +4,7 @@
   "colors": {
 
     "foreground": "#f1bc94",
+    "editorCodeLens.foreground": "#fdd4b5",
     "icon.foreground": "#f1bc94",
     "descriptionForeground": "#e2ab8198",
     "sash.hoverBorder": "#e2ab8198",

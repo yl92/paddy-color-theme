@@ -4,6 +4,7 @@
 	"colors": {
 
     "foreground": "#f5d8c3",
+    "editorCodeLens.foreground": "#ffeadb",
     
     "editor.background": "#111b22",
 		"editor.foreground": "#f5d8c3",
@@ -909,7 +910,7 @@
         "meta.function-call support.function",
       ],
       "settings": {
-        "foreground": "#e64a1b"
+        "foreground": "#e05126"
       }
     },
     {

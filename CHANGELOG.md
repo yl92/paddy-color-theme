@@ -1,3 +1,8 @@
+**`1.5.7` - 2021-07-29**
+
+- New variant: Leipzig
+- Adding colors for editorCodeLens
+  
 **`1.5.6` - 2021-06-16**
 
 - light theme scrollbar updates to be more transparent

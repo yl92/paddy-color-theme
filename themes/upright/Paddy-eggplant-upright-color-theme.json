@@ -4,6 +4,7 @@
 	"colors": {
 
     "foreground": "#ffd9bb",
+    "editorCodeLens.foreground": "#ffe2cc",
     
     "editor.background": "#1c1427",
 		"editor.foreground": "#ffd9bb",
@@ -874,7 +875,7 @@
         "keyword.other.special-method",
       ],
       "settings": {
-        "foreground": "#d8471b"
+        "foreground": "#d45730"
       }
     },
     {
@@ -900,7 +901,7 @@
       ],
       "settings": {
         
-        "foreground": "#f7501d"
+        "foreground": "#ee5a2d"
       }
     },
     {
@@ -909,7 +910,7 @@
         "meta.function-call support.function",
       ],
       "settings": {
-        "foreground": "#e94b1b"
+        "foreground": "#e0582e"
       }
     },
     {

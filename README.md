@@ -1,18 +1,19 @@
 ![preview-image](https://raw.githubusercontent.com/troydraws/paddy-color-theme/master/paddy-color-theme-preview.gif)
 
-**A set of very detailed color themes with earthy tones and 19 background options for all ye badass hackers. 🍁**
+**A set of very detailed color themes with earthy tones and 20 background options for all ye badass hackers. 🍁**
 
-| Very Dark Themes        | Colourful Darks             | Low Contrast            | Light Themes               |
-| ----------------------- | --------------------------- | ----------------------- | -------------------------- |
-| 🪓`Dark` *Paddy Classic* | 🍆 `Eggplant`                | 🤖 `Machine`             | 🌞 `Light`                  |
-| 🚧 `Black`               | 🌲 `Emerald`                 | 🎮 `Yesterday`           | 🍷 `Crimson` <sup>New</sup> |
-| 🐺 `Wolf`                | 🧧 `Ox` *Year of the Ox*     | 🌄 `Haze` <sup>New</sup> | ❄️ `Frost`                  |
-|                         | 🐻 `Grizzly`                 | 🌥 `Mist`                |                            |
-|                         | 🌿 `Eucalyptus`              |                         |                            |
-|                         | 🖋 `Inkstone`                |                         |                            |
-|                         | λ&nbsp;  `Citadel`          |                         |                            |
-|                         | 🔵 `Neptune`                 |                         |                            |
-|                         | 🌸 `Floresta` <sup>New</sup> |                         |                            |
+| Very Dark Themes        | Colourful Darks            | Low Contrast  | Light Themes |
+| ----------------------- | -------------------------- | ------------- | ------------ |
+| 🪓`Dark` *Paddy Classic* | 🍆 `Eggplant`               | 🤖 `Machine`   | 🌞 `Light`    |
+| 🚧 `Black`               | 🌲 `Emerald`                | 🎮 `Yesterday` | 🍷 `Crimson`  |
+| 🐺 `Wolf`                | 🧧 `Ox` *Year of the Ox*    | 🌄 `Haze` >    | ❄️ `Frost`    |
+|                         | 🐻 `Grizzly`                | 🌥 `Mist`      |              |
+|                         | 🌿 `Eucalyptus`             |               |              |
+|                         | 🖋 `Inkstone`               |               |              |
+|                         | λ&nbsp;  `Citadel`         |               |              |
+|                         | 🔵 `Neptune`                |               |              |
+|                         | 🌸 `Floresta`               |               |              |
+|                         | 🎼 `Leipzig` <sup>New</sup> |               |              |
 
 &NewLine;
 
@@ -27,15 +28,15 @@
 
 → **IBM Plex Mono**: Satisfying italics. [[Official Site](https://www.ibm.com/plex/)] • [[Google Fonts](https://fonts.google.com/specimen/IBM+Plex+Mono)]  
 
-→ **Iosevka**: [[Official Site](https://typeof.net/Iosevka/)] A condensed option.
+→ **Iosevka**: [[Official Site](https://typeof.net/Iosevka/)]
 
-→ **DM Mono**: [[Google Fonts](https://fonts.google.com/specimen/DM+Mono)] Round and geometrical.
+→ **DM Mono**: [[Google Fonts](https://fonts.google.com/specimen/DM+Mono)]
 
 → **Recursive**: [[recursive.design](https://www.recursive.design/)] 
 
 → **SF Mono** Apple's monospace font. You can get it on [[developer.apple.com](https://developer.apple.com/fonts/)].  
 
-→ **JetBrains Mono** JetBrains' open-source monospace. [[jetbrains.com](https://www.jetbrains.com/lp/mono/)]. 
+→ **JetBrains Mono** [[jetbrains.com](https://www.jetbrains.com/lp/mono/)]. 
 
 ---
 
