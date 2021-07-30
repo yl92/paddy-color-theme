@@ -1,5 +1,5 @@
 {
-  "name": "Paddy Leipzig",
+  "name": "P. \\ Leipzig",
   "type": "dark",
   "colors": {
 
@@ -116,14 +116,14 @@
     "scrollbar.shadow": "#221b1d",
     "badge.background": "#d6922c",
     "badge.foreground": "#110b09",
-    "notifications.background": "#221b1d",
+    "notifications.background": "#2c2225",
     "notifications.foreground": "#e7c4a3",
     "notifications.border": "#6aa88438",
     "diffEditor.insertedTextBackground": "#3bab881c",
     "diffEditor.insertedTextBorder": "#3bab8848",
     "diffEditor.removedTextBackground": "#b424242a",
     "diffEditor.removedTextBorder": "#b4242448",
-    "editorWidget.background": "#221b1d",
+    "editorWidget.background": "#2c2225",
     "editorWidget.foreground": "#e7c4a3",
     "editorWidget.border": "#6aa88438",
     "editorLink.activeForeground": "#6aa884",
@@ -233,7 +233,7 @@
       ],
       "settings": {
         
-        "foreground": "#d48545"
+        "foreground": "#dda147"
       }
     },
     {

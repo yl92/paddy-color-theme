@@ -1,11 +1,11 @@
 {
-  "name": "Paddy Yesterday",
+  "name": "P. \\ Yesterday",
   "type": "dark",
   "colors": {
 
     "foreground": "#e4c2a9",
     "editorCodeLens.foreground": "#f1d5c0",
-    "contrastBorder": "#5bcfb22f",
+    // "contrastBorder": "#5bcfb22f",
 
     "editor.background": "#242d33",
     "editor.foreground": "#e4c2a9",
@@ -89,7 +89,7 @@
 
     "focusBorder": "#9c542a",
     "descriptionForeground": "#e4c2a998",
-    "widget.shadow": "#242d33",
+    "widget.shadow": "#1c2429",
     "selection.background": "#4fac8a99",
     "button.background": "#4fac8a31",
     "button.foreground": "#f0dbd1",
@@ -104,7 +104,7 @@
     "scrollbarSlider.background": "#e4c2a913",
     "scrollbarSlider.activeBackground": "#e4c2a910",
     "scrollbarSlider.hoverBackground": "#e4c2a917",
-    "scrollbar.shadow": "#242d33",
+    "scrollbar.shadow": "#1c2429",
     "badge.background": "#d47f57",
     "badge.foreground": "#242d33",
     "notifications.background": "#242d33",
