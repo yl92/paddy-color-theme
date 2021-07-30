@@ -1,6 +1,6 @@
-**`1.5.7` - 2021-07-29**
+**`1.6.0` - 2021-07-30**
 
-- New variant: Leipzig
+- New variant: Leipzig (If you are looking at this and you are from Leipzig please let me know if you think it actually matches your impression of the city?)
 - Adding colors for editorCodeLens
   
 **`1.5.6` - 2021-06-16**

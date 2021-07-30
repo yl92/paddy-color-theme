@@ -660,7 +660,7 @@
         "constant.language.null",
       ],
       "settings": {
-        "foreground": "#5c9c61"
+        "foreground": "#71978c"
       }
     },
     {
@@ -669,7 +669,7 @@
         "constant.language.undefined",
       ],
       "settings": {
-        "foreground": "#5c9c61"
+        "foreground": "#74998b"
       }
     },
     {
@@ -679,7 +679,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ac9393"
+        "foreground": "#b69e9e"
       }
     },
     {
