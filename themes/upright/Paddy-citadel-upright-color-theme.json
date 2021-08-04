@@ -1,5 +1,5 @@
 {
-  "name": "P. \\ Citadel",
+  "name": "P. Upright \\ Citadel",
   "type": "dark",
   "colors": {
 
@@ -114,10 +114,11 @@
     "notifications.background": "#092630",
     "notifications.foreground": "#f0ab90",
     "notifications.border": "#1dfcd728",
-    "diffEditor.insertedTextBackground": "#3bab881c",
-    "diffEditor.insertedTextBorder": "#3bab8848",
-    "diffEditor.removedTextBackground": "#b424242a",
-    "diffEditor.removedTextBorder": "#b4242448",
+    "diffEditor.insertedTextBackground": "#1dfcd70e",
+    "diffEditor.insertedTextBorder": "#1dfcd708",
+    "diffEditor.removedTextBackground": "#b4242459",
+    "diffEditor.removedTextBorder": "#b4242408",
+    "diffEditor.diagonalFill": "#f0ab901f",
     "editorWidget.background": "#092630",
     "editorWidget.foreground": "#f0ab90",
     "editorWidget.border": "#1dfcd728",
@@ -182,6 +183,9 @@
     "symbolIcon.functionForeground": "#d35027",
     "symbolIcon.methodForeground": "#d35027",
     "symbolIcon.constructorForeground": "#ce63e9",
+
+    "editorLightBulb.foreground": "#ffbb00",
+    "editorLightBulbAutoFix.foreground": "#6ac292",
 
     "list.focusBackground": "#f06b1e63",
     "list.focusForeground": "#FF842D",

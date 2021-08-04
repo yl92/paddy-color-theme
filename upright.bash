@@ -9,7 +9,7 @@ for file in *.json; do
   mv $file $newFile
 done
 for file in *.json; do 
-  sed -i '' 's/P. \\,//gP. Upright \\' $file;
+  sed -i '' 's/"P. /"P. Upright /g' $file;
   sed -i '' 's/"fontStyle": "italic",//g' $file;
   sed -i '' 's/italic underline/underline/g' $file;
   sed -i '' 's/bold italic/bold/g' $file;

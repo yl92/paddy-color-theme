@@ -1,6 +1,6 @@
 ![preview-image](https://raw.githubusercontent.com/troydraws/paddy-color-theme/master/paddy-color-theme-preview.gif)
 
-**A set of very detailed color themes with earthy tones and 20 background options for all ye badass hackers. 🍁**
+**A set of very detailed color themes with earthy tones for all ye badass hackers. 🍁**
 
 | Very Dark Themes        | Colourful Darks            | Low Contrast  | Light Themes |
 | ----------------------- | -------------------------- | ------------- | ------------ |

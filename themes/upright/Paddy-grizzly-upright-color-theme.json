@@ -1,5 +1,5 @@
 {
-  "name": "P. \\ Grizzly",
+  "name": "P. Upright \\ Grizzly",
   "type": "dark",
   "colors": {
 
@@ -21,6 +21,9 @@
     "editor.findMatchBackground": "#d475f12a",
     "editor.findMatchHighlightBackground": "#ce0d9e33",
     "editor.findMatchHighlightBorder": "#d857ad33",
+
+    "editorLightBulb.foreground": "#ffbb00",
+    "editorLightBulbAutoFix.foreground": "#6ac292",
 
     "editorError.foreground": "#c71726",
     "editorWarning.foreground": "#e98842",
@@ -114,10 +117,11 @@
     "notifications.background": "#2c1d17",
     "notifications.foreground": "#f1bc94",
     "notifications.border": "#fc913f38",
-    "diffEditor.insertedTextBackground": "#3bab881c",
-    "diffEditor.insertedTextBorder": "#3bab8848",
+    "diffEditor.insertedTextBackground": "#52bb521c",
+    "diffEditor.insertedTextBorder": "#52bb5208",
     "diffEditor.removedTextBackground": "#b424242a",
-    "diffEditor.removedTextBorder": "#b4242448",
+    "diffEditor.removedTextBorder": "#b4242408",
+    "diffEditor.diagonalFill": "#f1bc9419",
     "editorWidget.background": "#2c1d17",
     "editorWidget.foreground": "#f1bc94",
     "editorWidget.border": "#fc913f38",
@@ -176,6 +180,8 @@
     "symbolIcon.functionForeground": "#d35027",
     "symbolIcon.methodForeground": "#d35027",
     "symbolIcon.constructorForeground": "#ce63e9",
+
+    "debugIcon.breakpointForeground": "#d8471b",
 
     "list.focusBackground": "#ff902960",
     "list.focusForeground": "#ffd9cf",

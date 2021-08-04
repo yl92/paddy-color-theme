@@ -1,12 +1,13 @@
 {
-  "name": "P. \\ Wolf",
+  "name": "P. Upright \\ Wolf",
   "type": "dark",
   "colors": {
 
     "foreground": "#cfb5a9",
     "editorCodeLens.foreground": "#e7cfc3",
+    "icon.foreground": "#e06932",
 
-    "editor.background": "#252221",
+    "editor.background": "#221f1e",
     "editor.foreground": "#cfb5a9",
     "editorCursor.background": "#ee560f55",
     "editorCursor.foreground": "#ee560f",
@@ -23,20 +24,20 @@
     "editorInfo.foreground": "#73b4ac",
     "editorHint.foreground": "#34a125",
 
-    "titleBar.activeBackground": "#252221",
+    "titleBar.activeBackground": "#221f1e",
     "titleBar.activeForeground": "#cfb5a9",
-    "titleBar.inactiveBackground": "#252221",
+    "titleBar.inactiveBackground": "#221f1e",
     "titleBar.inactiveForeground": "#cfb5a9b6",
 
     "tab.border": "#0000",
-    "tab.inactiveBackground": "#252221",
+    "tab.inactiveBackground": "#221f1e",
     "tab.activeForeground": "#fcc9b5",
-    "tab.activeBackground": "#252221",
+    "tab.activeBackground": "#221f1e",
     "tab.activeBorderTop": "#ee560f",
-    "editorGroupHeader.tabsBackground": "#252221",
+    "editorGroupHeader.tabsBackground": "#221f1e",
 
     "activityBar.background": "#191716",
-    "activityBar.foreground": "#dfb59a",
+    "activityBar.foreground": "#ee560f",
     "activityBar.border": "#cfb5a923",
     "activityBar.inactiveForeground": "#cfb5a954",
     "activityBarBadge.background": "#ee560f",
@@ -106,16 +107,17 @@
     "scrollbar.shadow": "#151c1d98",
     "badge.background": "#ee560f",
     "badge.foreground": "#000000",
-    "notifications.background": "#272625",
+    "notifications.background": "#292524",
     "notifications.foreground": "#cfb5a9",
     "notifications.border": "#203333",
-    "diffEditor.insertedTextBackground": "#3bab881c",
-    "diffEditor.insertedTextBorder": "#3bab8848",
-    "diffEditor.removedTextBackground": "#b424242a",
-    "diffEditor.removedTextBorder": "#b4242448",
-    "editorWidget.background": "#272625",
+    "diffEditor.insertedTextBackground": "#63b1441c",
+    "diffEditor.insertedTextBorder": "#63b14408",
+    "diffEditor.removedTextBackground": "#bd3f042a",
+    "diffEditor.removedTextBorder": "#bd3f0408",
+    "diffEditor.diagonalFill": "#cfb5a920",
+    "editorWidget.background": "#292524",
     "editorWidget.foreground": "#cfb5a9",
-    "editorWidget.border": "#3f4141",
+    "editorWidget.border": "#cfb5a923",
     "editorLink.activeForeground": "#20dda1",
     "textLink.activeForeground": "#ff6d0b",
     "textLink.foreground": "#e9701f",
@@ -129,6 +131,8 @@
     "editor.lineHighlightBorder": "#0000",
     "editorLineNumber.activeForeground": "#31925d",
     "editorLineNumber.foreground": "#5e5a5881",
+    "editorLightBulb.foreground": "#ffb223",
+    "editorLightBulbAutoFix.foreground": "#6ac279",
     "editorSuggestWidget.foreground": "#cfb5a9",
     "editorSuggestWidget.selectedBackground": "#31925d33",
     "editorSuggestWidget.highlightForeground": "#2e9c60",
@@ -218,7 +222,7 @@
       ],
       "settings": {
         
-        "foreground": "#ad9563"
+        "foreground": "#e06932"
       }
     },
     {

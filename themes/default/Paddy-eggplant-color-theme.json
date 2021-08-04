@@ -6,7 +6,7 @@
     "foreground": "#ffd9bb",
     "editorCodeLens.foreground": "#ffe2cc",
     
-    "editor.background": "#1c1427",
+    "editor.background": "#1c1525",
 		"editor.foreground": "#ffd9bb",
 		"editorCursor.background": "#2fb66b55",
 		"editorCursor.foreground": "#1fc56a",
@@ -23,48 +23,48 @@
     "editorInfo.foreground": "#73b4ac",
     "editorHint.foreground": "#34a125",
 
-		"titleBar.activeBackground": "#1e1727",
+		"titleBar.activeBackground": "#1a1122",
 		"titleBar.activeForeground": "#f3d9cd",
-		"titleBar.inactiveBackground": "#1e1727",
+		"titleBar.inactiveBackground": "#1a1122",
 		"titleBar.inactiveForeground": "#cfb5a9b6",
 
 		"tab.border": "#0000",
-		"tab.inactiveBackground": "#190f22",
+		"tab.inactiveBackground": "#1a1122",
 		"tab.activeForeground": "#bd9052",
-    "tab.activeBackground": "#1e1727",
+    "tab.activeBackground": "#1c1525",
     "tab.activeBorderTop": "#bd9052",
-    "editorGroupHeader.tabsBackground": "#190f22",
+    "editorGroupHeader.tabsBackground": "#1a1122",
 		
-		"activityBar.background": "#190f22",
+		"activityBar.background": "#1a1122",
 		"activityBar.foreground": "#bd9052",
 		"activityBar.border": "#c292cc25",
 		"activityBar.inactiveForeground": "#917fa86c",
 		"activityBarBadge.background": "#124d32",
 		"activityBarBadge.foreground": "#ffffff",
 
-		"sideBar.background": "#190f22",
+		"sideBar.background": "#1a1122",
 		"sideBar.border": "#c292cc25",
 		"sideBar.foreground": "#d3beb3",
 		"sideBarTitle.foreground": "#f8dacc",
-		"sideBarSectionHeader.background": "#1d1327",
+		"sideBarSectionHeader.background": "#1a1122",
 		"sideBarSectionHeader.border": "#c292cc25",
 
-		"statusBar.background": "#190f22",
+		"statusBar.background": "#1a1122",
 		"statusBar.foreground": "#dbc3b8",
 		"statusBar.border": "#c292cc25",
 		"statusBar.debuggingBackground": "#694524",
-		"statusBar.noFolderBackground": "#190f22",
+		"statusBar.noFolderBackground": "#1a1122",
 		"statusBarItem.prominentBackground": "#bd9052",
-		"statusBarItem.prominentForeground": "#190f22",
+		"statusBarItem.prominentForeground": "#1a1122",
 		"statusBarItem.prominentHoverBackground": "#f1bd72",
 		"statusBarItem.remoteBackground": "#237e61",
 
 		"panel.border": "#c292cc25",
-		"panel.background": "#190f22",
+		"panel.background": "#1a1122",
 		"panelTitle.activeForeground": "#bd9052",
     "panelTitle.inactiveForeground": "#bd905279",
 
-    "terminal.background": "#190f22",
+    "terminal.background": "#1a1122",
     "terminal.foreground": "#e7cdc0",
     "terminal.ansiBlack": "#3d3735",
     "terminal.ansiBrightBlack": "#504d47",
@@ -103,17 +103,20 @@
     "scrollbarSlider.background": "#8f78c513",
     "scrollbarSlider.activeBackground": "#4932684b",
     "scrollbarSlider.hoverBackground": "#7862aa4d",
-    "scrollbar.shadow": "#110918",
+    "scrollbar.shadow": "#1c1427",
+    "editorLightBulb.foreground": "#ffbb00",
+    "editorLightBulbAutoFix.foreground": "#6ac292",
     "badge.background": "#123525",
     "badge.foreground": "#e0cbc1",
     "notifications.background": "#292035",
     "notifications.foreground": "#cfb5a9",
     "notifications.border": "#203333",
     "diffEditor.insertedTextBackground": "#3bab881c",
-    "diffEditor.insertedTextBorder": "#3bab8848",
+    "diffEditor.insertedTextBorder": "#3bab8808",
     "diffEditor.removedTextBackground": "#b424242a",
-    "diffEditor.removedTextBorder": "#b4242448",
-    "editorWidget.background": "#130d1b",
+    "diffEditor.removedTextBorder": "#b4242408",
+    "diffEditor.diagonalFill": "#ffd9bb18",
+    "editorWidget.background": "#20172c",
     "editorWidget.foreground": "#cfb5a9",
     "editorWidget.border": "#c292cc25",
     "editorLink.activeForeground": "#20dda1",
@@ -155,7 +158,7 @@
     "settings.modifiedItemIndicator": "#31925d",
     "pickerGroup.foreground": "#62a893",
 
-		"menu.background": "#190f22",
+		"menu.background": "#1a1122",
 		"menu.foreground": "#cfb5a9",
 		"menu.selectionBackground": "#3BAB8755",
 		"menu.selectionForeground": "#cfb5a9",
@@ -221,7 +224,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#aa9d83"
+        "foreground": "#c5b596"
       }
     },
     {
@@ -457,7 +460,7 @@
         "meta.tag",
       ],
       "settings": {
-        "foreground": "#5ab36f"
+        "foreground": "#61a070"
       }
     },
     {
@@ -779,7 +782,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#f07822"
+        "foreground": "#e7853f"
       }
     },
     {

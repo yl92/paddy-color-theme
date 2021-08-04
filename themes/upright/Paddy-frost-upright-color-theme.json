@@ -1,5 +1,5 @@
 {
-  "name": "P. \\ Frost",
+  "name": "P. Upright \\ Frost",
   "type": "light",
   "colors": {
 
@@ -27,9 +27,9 @@
     "editorInfo.foreground": "#72bdb4",
     "editorHint.foreground": "#58be4a",
 
-    "titleBar.activeBackground": "#ffffff",
+    "titleBar.activeBackground": "#f6faf9",
     "titleBar.activeForeground": "#08291c",
-    "titleBar.inactiveBackground": "#ffffff",
+    "titleBar.inactiveBackground": "#f6faf9",
     "titleBar.inactiveForeground": "#08291c99",
 
     "tab.border": "#0000",
@@ -114,10 +114,11 @@
     "notifications.foreground": "#162424",
     "notifications.border": "#203333",
     "diffEditor.insertedTextBackground": "#3bab881c",
-    "diffEditor.insertedTextBorder": "#3bab8848",
-    "diffEditor.removedTextBackground": "#b424242a",
-    "diffEditor.removedTextBorder": "#b4242448",
-
+    "diffEditor.insertedTextBorder": "#3bab8808",
+    "diffEditor.removedTextBackground": "#f120202a",
+    "diffEditor.removedTextBorder": "#f1202008",
+    "diffEditor.diagonalFill": "#08291c19",
+    "debugIcon.breakpointForeground": "#ff5420",
     "editorWidget.background": "#f8f8f8",
     "editorWidget.foreground": "#050e0e",
     "editorWidget.border": "#e4d7cc",
@@ -164,8 +165,8 @@
     "settings.headerForeground": "#04462a",
     "settings.modifiedItemIndicator": "#149950",
     "pickerGroup.foreground": "#62a879",
-    "editorLightBulb.foreground": "#f19b32",
-    "editorLightBulbAutoFix.foreground": "#2376c4",
+    "editorLightBulb.foreground": "#eeb61c",
+    "editorLightBulbAutoFix.foreground": "#23c494",
 
     "menu.background": "#ffffff",
     "menu.foreground": "#0b1413",
@@ -233,7 +234,7 @@
       ],
       "settings": {
         
-        "foreground": "#79a795"
+        "foreground": "#327c60"
       }
     },
     {

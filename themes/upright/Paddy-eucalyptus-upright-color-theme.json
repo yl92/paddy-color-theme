@@ -1,5 +1,5 @@
 {
-  "name": "P. \\ Eucalyptus",
+  "name": "P. Upright \\ Eucalyptus",
   "type": "dark",
   "colors": {
 
@@ -115,14 +115,15 @@
     "scrollbar.shadow": "#21241e",
     "badge.background": "#d4872e",
     "badge.foreground": "#110b09",
-    "notifications.background": "#2d3026",
+    "notifications.background": "#252922",
     "notifications.foreground": "#e7b07d",
     "notifications.border": "#fc943f38",
-    "diffEditor.insertedTextBackground": "#3bab881c",
-    "diffEditor.insertedTextBorder": "#3bab8848",
-    "diffEditor.removedTextBackground": "#b424242a",
-    "diffEditor.removedTextBorder": "#b4242448",
-    "editorWidget.background": "#2d3026",
+    "diffEditor.insertedTextBackground": "#80a35313",
+    "diffEditor.insertedTextBorder": "#80a35308",
+    "diffEditor.removedTextBackground": "#bb3d1e38",
+    "diffEditor.removedTextBorder": "#bb3d1e08",
+    "diffEditor.diagonalFill": "#eea16719",
+    "editorWidget.background": "#252922",
     "editorWidget.foreground": "#e7b07d",
     "editorWidget.border": "#fc943f38",
     "editorLink.activeForeground": "#d4872e",
@@ -207,6 +208,9 @@
 
     "editorOverviewRuler.addedForeground": "#609932",
     "editorOverviewRuler.modifiedForeground": "#46a76e",
+
+    "editorLightBulb.foreground": "#e6ac57",
+    "editorLightBulbAutoFix.foreground": "#7ac9ab",
     
     "editorGutter.addedBackground": "#5da32f",
     "editorGutter.modifiedBackground": "#36a062",
@@ -605,7 +609,7 @@
         "constant.numeric",
       ],
       "settings": {
-        "foreground": "#fca66d"
+        "foreground": "#eb7456"
       }
     },
     {
@@ -1523,7 +1527,7 @@
         "meta.jsx.children.tsx"
       ],
       "settings": {
-        "foreground": "#DDCAC1"
+        "foreground": "#e9cba2"
       }
     },
     {

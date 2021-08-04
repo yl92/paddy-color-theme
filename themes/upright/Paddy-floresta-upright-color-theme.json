@@ -1,5 +1,5 @@
 {
-  "name": "P. \\ Floresta",
+  "name": "P. Upright \\ Floresta",
   "type": "dark",
   "colors": {
 
@@ -115,11 +115,12 @@
     "notifications.background": "#07171a",
     "notifications.foreground": "#ffd4c7",
     "notifications.border": "#4fff7b31",
-    "diffEditor.insertedTextBackground": "#3bab881c",
-    "diffEditor.insertedTextBorder": "#3bab8848",
+    "diffEditor.insertedTextBackground": "#3bab4a15",
+    "diffEditor.insertedTextBorder": "#3bab4a08",
     "diffEditor.removedTextBackground": "#b424242a",
-    "diffEditor.removedTextBorder": "#b4242448",
-    "editorWidget.background": "#07171a",
+    "diffEditor.removedTextBorder": "#b4242408",
+    "diffEditor.diagonalFill": "#ffd4c718",
+    "editorWidget.background": "#081a1d",
     "editorWidget.foreground": "#ffd4c7",
     "editorWidget.border": "#4fff7b31",
     "editorLink.activeForeground": "#A478D6",
@@ -168,6 +169,9 @@
     "pickerGroup.foreground": "#e6962f",
 
     "debugIcon.breakpointForeground": "#ff3b2d",
+
+    "editorLightBulb.foreground": "#ffbb00",
+    "editorLightBulbAutoFix.foreground": "#6ac292",
     
     "menu.background": "#07171a",
     "menu.border": "#4fff7b31",

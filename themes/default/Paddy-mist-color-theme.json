@@ -18,14 +18,17 @@
     "editor.findMatchHighlightBackground": "#ce0d9e49",
     "editor.findMatchHighlightBorder": "#d857ad4b",
 
+    "editorLightBulb.foreground": "#ffbb00",
+    "editorLightBulbAutoFix.foreground": "#6ac292",
+
 		"editorError.foreground": "#c71726",
     "editorWarning.foreground": "#e98842",
     "editorInfo.foreground": "#73b4ac",
     "editorHint.foreground": "#34a125",
 
-		"titleBar.activeBackground": "#3b4646",
+		"titleBar.activeBackground": "#344141",
 		"titleBar.activeForeground": "#f8dacc",
-		"titleBar.inactiveBackground": "#3b4646",
+		"titleBar.inactiveBackground": "#344141",
 		"titleBar.inactiveForeground": "#cfb5a9b2",
 
 		"tab.border": "#0000",
@@ -105,15 +108,16 @@
     "scrollbarSlider.hoverBackground": "#cfb5a917",
     "badge.background": "#1c774a",
     "badge.foreground": "#e0cbc1",
-    "notifications.background": "#384d4d",
+    "notifications.background": "#3f4b4b",
     "notifications.foreground": "#cfb5a9",
     "notifications.border": "#203333",
     "diffEditor.insertedTextBackground": "#3bab881c",
-    "diffEditor.insertedTextBorder": "#3bab8848",
+    "diffEditor.insertedTextBorder": "#3bab8808",
     "diffEditor.removedTextBackground": "#b424242a",
-    "diffEditor.removedTextBorder": "#b4242448",
+    "diffEditor.removedTextBorder": "#b4242408",
+    "diffEditor.diagonalFill": "#eccbbb19",
 
-    "editorWidget.background": "#2e3a3a",
+    "editorWidget.background": "#3f4b4b",
     "editorWidget.foreground": "#eccbbb",
     "editorWidget.border": "#657a79",
     "editorLink.activeForeground": "#20dda1",
@@ -221,7 +225,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#aa9d83"
+        "foreground": "#daccb0"
       }
     },
     {
@@ -532,7 +536,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#08d15c"
+        "foreground": "#4dd686"
       }
     },
     {
@@ -779,7 +783,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#ff8d3b"
+        "foreground": "#ff9e58"
       }
     },
     {
@@ -901,7 +905,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ff6b3d"
+        "foreground": "#ff815b"
       }
     },
     {

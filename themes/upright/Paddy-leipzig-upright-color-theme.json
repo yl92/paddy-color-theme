@@ -1,5 +1,5 @@
 {
-  "name": "P. \\ Leipzig",
+  "name": "P. Upright \\ Leipzig",
   "type": "dark",
   "colors": {
 
@@ -24,6 +24,9 @@
     "editor.findMatchBackground": "#d475f12a",
     "editor.findMatchHighlightBackground": "#ce0d9e33",
     "editor.findMatchHighlightBorder": "#d857ad33",
+
+    "editorLightBulb.foreground": "#ffbb00",
+    "editorLightBulbAutoFix.foreground": "#6ac292",
 
     "editorError.foreground": "#c71726",
     "editorWarning.foreground": "#e98842",
@@ -116,14 +119,15 @@
     "scrollbar.shadow": "#221b1d",
     "badge.background": "#d6922c",
     "badge.foreground": "#110b09",
-    "notifications.background": "#2c2225",
+    "notifications.background": "#221b1d",
     "notifications.foreground": "#e7c4a3",
     "notifications.border": "#6aa88438",
-    "diffEditor.insertedTextBackground": "#3bab881c",
-    "diffEditor.insertedTextBorder": "#3bab8848",
+    "diffEditor.insertedTextBackground": "#3bab8810",
+    "diffEditor.insertedTextBorder": "#3bab880e",
     "diffEditor.removedTextBackground": "#b424242a",
-    "diffEditor.removedTextBorder": "#b4242448",
-    "editorWidget.background": "#2c2225",
+    "diffEditor.removedTextBorder": "#b424242f",
+    "diffEditor.diagonalFill": "#e7c4a318",
+    "editorWidget.background": "#221b1d",
     "editorWidget.foreground": "#e7c4a3",
     "editorWidget.border": "#6aa88438",
     "editorLink.activeForeground": "#6aa884",
@@ -153,16 +157,16 @@
     "merge.incomingContentBackground": "#da652123",
     "tree.indentGuidesStroke": "#e7c4a318",
     "progressBar.background": "#6aa884",
-    "peekView.border": "#f07c1e70",
-    "peekViewTitle.background": "#f0831e41",
-    "peekViewTitleLabel.foreground": "#e7c4a3",
-    "peekViewEditor.background": "#f0721e10",
-    "peekViewEditor.matchHighlightBackground": "#ff810b44",
-    "peekViewResult.background": "#f0831e38",
-    "peekViewResult.selectionBackground": "#ff810b5d",
-    "peekViewResult.fileForeground": "#d69b7f",
-    "peekViewResult.lineForeground": "#e7c4a3a6",
-    "peekViewTitleDescription.foreground": "#e6af86a6",
+    "peekView.border": "#66d39370",
+    "peekViewTitle.background": "#6aa88441",
+    "peekViewTitleLabel.foreground": "#81c09b",
+    "peekViewEditor.background": "#84d6b410",
+    "peekViewEditor.matchHighlightBackground": "#3a97612a",
+    "peekViewResult.background": "#6aa88428",
+    "peekViewResult.selectionBackground": "#6aa8845d",
+    "peekViewResult.fileForeground": "#b0cfbd",
+    "peekViewResult.lineForeground": "#799c88",
+    "peekViewTitleDescription.foreground": "#beccb1a6",
     "settings.headerForeground": "#f0da9f",
     "settings.modifiedItemIndicator": "#c75c54",
     "settings.focusedRowBackground": "#6aa88415",
@@ -233,7 +237,7 @@
       ],
       "settings": {
         
-        "foreground": "#dda147"
+        "foreground": "#dd8b47"
       }
     },
     {

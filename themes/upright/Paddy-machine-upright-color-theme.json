@@ -1,5 +1,5 @@
 {
-  "name": "P. \\ Machine",
+  "name": "P. Upright \\ Machine",
   "type": "dark",
   "colors": {
 
@@ -113,9 +113,10 @@
     "notifications.foreground": "#f7dbc5",
     "notifications.border": "#f7dbc538",
     "diffEditor.insertedTextBackground": "#3bab881c",
-    "diffEditor.insertedTextBorder": "#3bab8848",
+    "diffEditor.insertedTextBorder": "#3bab8808",
     "diffEditor.removedTextBackground": "#b424242a",
-    "diffEditor.removedTextBorder": "#b4242448",
+    "diffEditor.removedTextBorder": "#b4242408",
+    "diffEditor.diagonalFill": "#f7dbc521",
     "editorWidget.background": "#413f3e",
     "editorWidget.foreground": "#f7dbc5",
     "editorWidget.border": "#f7dbc538",
@@ -132,6 +133,8 @@
     "editor.lineHighlightBorder": "#0000",
     "editorLineNumber.activeForeground": "#ff9029",
     "editorLineNumber.foreground": "#f7dbc538",
+    "editorLightBulb.foreground": "#ffbb3d",
+    "editorLightBulbAutoFix.foreground": "#6ac292",
     "editorSuggestWidget.border": "#f7dbc538",
     "editorSuggestWidget.foreground": "#f7dbc5",
     "editorSuggestWidget.selectedBackground": "#ff902933",
@@ -224,7 +227,7 @@
       ],
       "settings": {
         
-        "foreground": "#c4ac7c"
+        "foreground": "#dd9d69"
       }
     },
     {

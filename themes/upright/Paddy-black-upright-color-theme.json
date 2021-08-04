@@ -1,5 +1,5 @@
 {
-  "name": "P. \\ Black",
+  "name": "P. Upright \\ Black",
   "type": "dark",
   "colors": {
 
@@ -113,10 +113,14 @@
     "notifications.background": "#0c0c0c",
     "notifications.foreground": "#f5dcbc",
     "notifications.border": "#f5dcbc29",
-    "diffEditor.insertedTextBackground": "#3bab881c",
-    "diffEditor.insertedTextBorder": "#3bab8848",
-    "diffEditor.removedTextBackground": "#b424242a",
-    "diffEditor.removedTextBorder": "#b4242448",
+    "diffEditor.insertedTextBackground": "#3bab731c",
+    "diffEditor.insertedTextBorder": "#3bab7308",
+    "diffEditor.removedTextBackground": "#b43a2438",
+    "diffEditor.removedTextBorder": "#b43a2409",
+    "diffEditor.diagonalFill": "#f5dcbc22",
+    "debugIcon.breakpointForeground": "#d8471b",
+    "editorLightBulb.foreground": "#ffbb00",
+    "editorLightBulbAutoFix.foreground": "#6ac292",
     "editorWidget.background": "#0c0c0c",
     "editorWidget.foreground": "#f5dcbc",
     "editorWidget.border": "#f5dcbc29",
@@ -192,15 +196,15 @@
     "list.filterMatchBackground": "#ffbb002c",
 
     "gitDecoration.addedResourceForeground": "#84ce52",
-    "gitDecoration.modifiedResourceForeground": "#6ac798",
+    "gitDecoration.modifiedResourceForeground": "#6ac7ab",
     "gitDecoration.deletedResourceForeground": "#72403f",
     "gitDecoration.conflictingResourceForeground": "#c26d54",
 
     "editorOverviewRuler.addedForeground": "#84ce52",
-    "editorOverviewRuler.modifiedForeground": "#6ac798",
+    "editorOverviewRuler.modifiedForeground": "#6ac7ab",
     
-    "editorGutter.addedBackground": "#84ce52",
-    "editorGutter.modifiedBackground": "#6ac798",
+    "editorGutter.addedBackground": "#84ce5256",
+    "editorGutter.modifiedBackground": "#6ac7ab6e",
     "editorGutter.deletedBackground": "#9e5857",
     "editorGutter.commentRangeForeground": "#756e69",
   },

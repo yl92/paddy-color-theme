@@ -1,5 +1,5 @@
 {
-  "name": "P. \\ Yesterday",
+  "name": "P. Upright \\ Yesterday",
   "type": "dark",
   "colors": {
 
@@ -110,10 +110,14 @@
     "notifications.background": "#242d33",
     "notifications.foreground": "#e4c2a9",
     "notifications.border": "#5bcfb22f",
-    "diffEditor.insertedTextBackground": "#3bab881c",
-    "diffEditor.insertedTextBorder": "#3bab8848",
+    "diffEditor.insertedTextBackground": "#3bab981c",
+    "diffEditor.insertedTextBorder": "#3bab9808",
     "diffEditor.removedTextBackground": "#b424242a",
-    "diffEditor.removedTextBorder": "#b4242448",
+    "diffEditor.removedTextBorder": "#b4242408",
+    "diffEditor.diagonalFill": "#e4c2a928",
+    "editorLightBulb.foreground": "#ffbb00",
+    "editorLightBulbAutoFix.foreground": "#6ac292",
+    "debugIcon.breakpointForeground": "#fd7b3f",
     "editorWidget.background": "#242d33",
     "editorWidget.foreground": "#e4c2a9",
     "editorWidget.border": "#5bcfb22f",
@@ -222,7 +226,7 @@
       ],
       "settings": {
         
-        "foreground": "#aa9d83"
+        "foreground": "#d1bf9b"
       }
     },
     {

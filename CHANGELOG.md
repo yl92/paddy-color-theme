@@ -1,3 +1,10 @@
+**`1.6.1` - 2021-08-04**
+
+- DiffEditor colouring
+- Lightbulb colouring
+- Noticeable adjustments to Dark & Wolf
+- Other minor colour adjustments
+
 **`1.6.0` - 2021-07-30**
 
 - New theme: `Leipzig` (If you are looking at this and you are from Leipzig please let me know if you think it actually matches your impression of the city?)
