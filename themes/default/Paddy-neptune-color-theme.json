@@ -1730,22 +1730,13 @@
       }
     },
     {
-      "name": "JSON String",
-      "scope": [
-        "source.json string",
-      ],
-      "settings": {
-        "foreground": "#d87034",
-      }
-    },
-    {
       "name": "JSON Key - Level 0",
       "scope": [
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#77c484"
+        "foreground": "#4a93ff"
       }
     },
     {
@@ -1755,7 +1746,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#cc8a76"
+        "foreground": "#ff8a66"
       }
     },
     {

@@ -714,7 +714,7 @@
         "constant.other.caps"
       ],
       "settings": {
-        "foreground": "#528f5c"
+        "foreground": "#52bb64"
       }
     },
     {
@@ -1729,15 +1729,6 @@
       }
     },
     {
-      "name": "JSON String",
-      "scope": [
-        "source.json string",
-      ],
-      "settings": {
-        "foreground": "#fc8d4d",
-      }
-    },
-    {
       "name": "JSON Key - Level 0",
       "scope": [
         "source.json meta.structure.dictionary.json support.type.property-name.json"
@@ -1754,7 +1745,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#e0b3a5"
+        "foreground": "#eb6767"
       }
     },
     {
@@ -1764,7 +1755,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#e7b8aa"
+        "foreground": "#d8a697"
       }
     },
     {

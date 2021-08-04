@@ -1,5 +1,10 @@
 **`1.6.2` - 2021-08-04**
 
+- JSON syntax colour updates
+- Other minor adjustments
+
+**`1.6.1` - 2021-08-04**
+
 - DiffEditor colouring
 - Lightbulb colouring
 - Noticeable adjustments to Dark & Wolf
@@ -8,18 +13,18 @@
 **`1.6.0` - 2021-07-30**
 
 - New theme: `Leipzig` (If you are looking at this and you are from Leipzig please let me know if you think it actually matches your impression of the city?)
-- Adding colors for editorCodeLens
+- Adding colours for editorCodeLens
 
 **`1.5.7` - 2021-07-23**
 
 - Adding a subtle highlight for current indentation level
-- Minor color adjustments mostly to make the red for function calls less saturated
+- Minor colour adjustments mostly to make the red for function calls less saturated
 
 **`1.5.6` - 2021-06-16**
 
 - light theme scrollbar updates to be more transparent
-- Crimson terminal color updates
-- darkening comment colors for Crimson
+- Crimson terminal colour updates
+- darkening comment colours for Crimson
 - removing italics on units
   
 **`1.5.4` - 2021-06-12**
@@ -38,12 +43,12 @@
 **`1.5.0` - 2021-06-10**
 
 The summer is here and it's time for a new 2021 Summer Lookbook! Three new themes are added:
-- **Crimson**: Pure white background, with a crimson red accent color
+- **Crimson**: Pure white background, with a crimson red accent colour
 - **Haze**: A low-contrast dark theme with a light plum background.
 - **Floresta**: Get some blissful shade deep in the jungle where it's mossy, damp and chilled, littered with wild flowers in pink and yellow. 
 
 
-All older themes are aligned in style regarding borders that separates the panels. Some minor adjustments to terminal colors; added colors for symbol icons and code snippets in markdown files.
+All older themes are aligned in style regarding borders that separates the panels. Some minor adjustments to terminal colours; added colours for symbol icons and code snippets in markdown files.
 
 ---
 
@@ -98,8 +103,8 @@ All older themes are aligned in style regarding borders that separates the panel
 
 **`1.2.1` - 2021-01-30**
 
-- Fixes for menu colors in Windows
-- Brighter Terminal black colors to fix invisible text
+- Fixes for menu colours in Windows
+- Brighter Terminal black colours to fix invisible text
   
 ---
 
@@ -121,7 +126,7 @@ All older themes are aligned in style regarding borders that separates the panel
 ---
 
 **`1.1.2` - 2020-12-07**
-- Removing special color for "noFolder" status bar
+- Removing special colour for "noFolder" status bar
 - Smaller fixes
 - Updating Readme
 
@@ -133,13 +138,13 @@ All older themes are aligned in style regarding borders that separates the panel
 ---
 
 **`1.1.0` - 2020-12-06**
-- All colors now have their upright counterpart with all italics stripped
+- All colours now have their upright counterpart with all italics stripped
 - Removing bold from async
 
 ---
 
 **`1.0.1` - 2020-12-06**
-- Adding colors for blockquotes in UI
+- Adding colours for blockquotes in UI
 - Updating Readme
 - Small patches
 
@@ -154,7 +159,7 @@ All older themes are aligned in style regarding borders that separates the panel
 
 **`0.12.1` - 2020-12-05**
 - Paddy Machine - a desaturated medium gray option, completely flat. Designed to fit the "personalities" of the font [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/).
-- Small fixes such as the colors for array deconstruction.
+- Small fixes such as the colours for array deconstruction.
 
 ---
 
@@ -177,7 +182,7 @@ All older themes are aligned in style regarding borders that separates the panel
 
 **`0.10.3` - 2020-11-05**
 - Added colouring for TypeScript 4.0's tuple labels
-- Neptune's color temperature is now consistent with the rest
+- Neptune's colour temperature is now consistent with the rest
 - Paddy Yesterday has been updated, much more saturated and balanced
 - General updates across the board
 
@@ -208,13 +213,13 @@ All older themes are aligned in style regarding borders that separates the panel
 ---
 
 **`0.9.9` - 2020-10-12**
-- the colors of get/set storage keywords now look more different from the function names following them
+- the colours of get/set storage keywords now look more different from the function names following them
 
 ---
 
 **`0.9.8` - 2020-10-6**
 - Improvements to the light theme
-- Status bar debugging state background color added
+- Status bar debugging state background colour added
 
 ---
 
@@ -243,7 +248,7 @@ All older themes are aligned in style regarding borders that separates the panel
 ---
 
 **`0.9.2` - 2020-08-23**
-- Color updates for oddities in semantic highlighting
+- colour updates for oddities in semantic highlighting
 - Added Recursive Mono Duotone to the font recommendations
 
 ---
@@ -260,7 +265,7 @@ All older themes are aligned in style regarding borders that separates the panel
 ---
 
 **`0.8.1` - 2020-04-25**
-- Some syntax colors updates
+- Some syntax colours updates
 
 ---
 
@@ -271,8 +276,8 @@ All older themes are aligned in style regarding borders that separates the panel
 ---
 
 **`0.7.4` - 2020-03-12**
-- Adjusted conditional token color to help discern from new light blue constants
-- JSON color updates
+- Adjusted conditional token colour to help discern from new light blue constants
+- JSON colour updates
 
 ---
 
@@ -287,18 +292,18 @@ Added Medium Gray variation, closer to the original aesthetics of [Atrium](https
 ---
 
 **`0.7.0` - 2019-10-03**
-- Added terminal colors
+- Added terminal colours
 - Vue colouring optimisations
 
 ---
 
 **`0.6.1` - 2019-09-30**
-Updated some colors for JavaScript and the extension description
+Updated some colours for JavaScript and the extension description
 
 ---
 
 **[Initial Release] `0.5.0` - 2019-09-29**
-- The original Paddy. Color saturation and brightness based on an iMac screen with high brightness. The origin of Paddy, would be an earlier color theme I made for Atom, called [Atrium](https://atom.io/themes/atrium-syntax).
+- The original Paddy. colour saturation and brightness based on an iMac screen with high brightness. The origin of Paddy, would be an earlier colour theme I made for Atom, called [Atrium](https://atom.io/themes/atrium-syntax).
 
 ---
 

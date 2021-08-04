@@ -10,7 +10,7 @@
     "editor.foreground": "#2b2b2b",
     "editorCursor.background": "#ed143d8c",
     "editorCursor.foreground": "#ff4668",
-    "editor.selectionBackground": "#81818125",
+    "editor.selectionBackground": "#8181812c",
     "editor.selectionHighlightBackground": "#ed143d33",
     "editor.wordHighlightBackground": "#db7f3323",
     "editor.wordHighlightStrongBackground": "#db923349",
@@ -442,7 +442,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#a08476"
+        "foreground": "#966146"
       }
     },
     {
@@ -723,7 +723,7 @@
         "constant.other.caps"
       ],
       "settings": {
-        "foreground": "#02a56f"
+        "foreground": "#00885b"
       }
     },
     {
@@ -866,7 +866,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#a38544"
+        "foreground": "#b68b2d"
       }
     },
     {
@@ -1752,22 +1752,13 @@
       }
     },
     {
-      "name": "JSON String",
-      "scope": [
-        "source.json string",
-      ],
-      "settings": {
-        "foreground": "#cf5107",
-      }
-    },
-    {
       "name": "JSON Key - Level 0",
       "scope": [
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#468649"
+        "foreground": "#f04d4d"
       }
     },
     {
@@ -1777,7 +1768,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#9b6250"
+        "foreground": "#7c4a3a"
       }
     },
     {
@@ -1787,7 +1778,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#a36e5e"
+        "foreground": "#627177"
       }
     },
     {
@@ -1797,7 +1788,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#b97e25"
+        "foreground": "#c48d3c"
       }
     },
     {
@@ -1807,7 +1798,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#757a35"
+        "foreground": "#818821"
       }
     },
     {

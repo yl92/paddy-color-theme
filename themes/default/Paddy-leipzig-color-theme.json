@@ -10,7 +10,7 @@
     "sash.hoverBorder": "#e2ab8198",
     "editorRuler.foreground": "#e2ab8198",
     "editorGroup.border": "#6aa88438",
-    "editorGroup.dropBackground": "#6aa88413",
+    "editorGroup.dropBackground": "#d6922c13",
 
     "editor.background": "#221b1d",
     "editor.foreground": "#e7c4a3",
@@ -198,7 +198,7 @@
     "list.errorForeground": "#f15c48",
     "list.invalidItemForeground": "#cc832f",
     "list.warningForeground": "#cf8b3d",
-    "list.dropBackground": "#6aa88413",
+    "list.dropBackground": "#d6922c13",
     "list.highlightForeground": "#d6922c",
     "listFilterWidget.background": "#8b4319",
     "listFilterWidget.noMatchesOutline": "#ce4235",
@@ -1739,22 +1739,13 @@
       }
     },
     {
-      "name": "JSON String",
-      "scope": [
-        "source.json string",
-      ],
-      "settings": {
-        // "foreground": "#eb736b",
-      }
-    },
-    {
       "name": "JSON Key - Level 0",
       "scope": [
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#6ce97d"
+        "foreground": "#6aa884"
       }
     },
     {
@@ -1764,7 +1755,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#6aa884"
+        "foreground": "#61dd95"
       }
     },
     {

@@ -157,7 +157,7 @@
     "peekViewResult.fileForeground": "#e2ccc2",
     "peekViewResult.lineForeground": "#e4c2a9a6",
     "editorGroup.border": "#a9c1e42f",
-    "editorGroup.dropBackground": "#32bb6615",
+    "editorGroup.dropBackground": "#d47f5715",
     "settings.headerForeground": "#e7d4cb",
     "settings.modifiedItemIndicator": "#d47f57",
     "pickerGroup.foreground": "#62a893",
@@ -1729,22 +1729,13 @@
       }
     },
     {
-      "name": "JSON String",
-      "scope": [
-        "source.json string",
-      ],
-      "settings": {
-        "foreground": "#d87034",
-      }
-    },
-    {
       "name": "JSON Key - Level 0",
       "scope": [
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#76b379"
+        "foreground": "#98d69b"
       }
     },
     {
@@ -1754,7 +1745,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#c28c7b"
+        "foreground": "#e4a491"
       }
     },
     {
@@ -1764,7 +1755,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#cf9d8e"
+        "foreground": "#cea27a"
       }
     },
     {
