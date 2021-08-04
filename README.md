@@ -6,7 +6,7 @@
 | ----------------------- | -------------------------- | ------------- | ------------ |
 | 🪓`Dark` *Paddy Classic* | 🍆 `Eggplant`               | 🤖 `Machine`   | 🌞 `Light`    |
 | 🚧 `Black`               | 🌲 `Emerald`                | 🎮 `Yesterday` | 🍷 `Crimson`  |
-| 🐺 `Wolf`                | 🧧 `Ox` *Year of the Ox*    | 🌄 `Haze` >    | ❄️ `Frost`    |
+| 🐺 `Wolf`                | 🧧 `Ox` *Year of the Ox*    | 🌄 `Haze`      | ❄️ `Frost`    |
 |                         | 🐻 `Grizzly`                | 🌥 `Mist`      |              |
 |                         | 🌿 `Eucalyptus`             |               |              |
 |                         | 🖋 `Inkstone`               |               |              |
