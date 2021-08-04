@@ -1,3 +1,9 @@
+**`1.6.3` - 2021-08-04**
+
+- terminal / other UI colour updates
+- deleted / conflicting resource colour updates
+- Other minor adjustments
+  
 **`1.6.2` - 2021-08-04**
 
 - JSON syntax colour updates

@@ -202,8 +202,8 @@
 
     "gitDecoration.addedResourceForeground": "#749e58",
     "gitDecoration.modifiedResourceForeground": "#408575",
-    "gitDecoration.deletedResourceForeground": "#be4c4a",
-    "gitDecoration.conflictingResourceForeground": "#e60086",
+    "gitDecoration.deletedResourceForeground": "#c44845",
+    "gitDecoration.conflictingResourceForeground": "#f11796",
 
     "editorOverviewRuler.addedForeground": "#9fc487",
     "editorOverviewRuler.modifiedForeground": "#6da396",

@@ -215,7 +215,7 @@
 
     "editorGutter.addedBackground": "#7ee23b93",
     "editorGutter.modifiedBackground": "#abcfda",
-    "editorGutter.deletedBackground": "#c76968",
+    "editorGutter.deletedBackground": "#da6361",
     "editorGutter.commentRangeForeground": "#b8a79b",
   },
   "tokenColors": [

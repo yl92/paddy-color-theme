@@ -54,6 +54,7 @@
     "statusBar.foreground": "#ad978d",
     "statusBar.border": "#cfb5a923",
     "statusBar.debuggingBackground": "#682d22",
+    "statusBar.debuggingForeground": "#ebbda8",
     "statusBar.noFolderBackground": "#161616",
     "statusBarItem.prominentBackground": "#ee560f",
     "statusBarItem.prominentForeground": "#191716",
@@ -192,15 +193,15 @@
 
     "gitDecoration.addedResourceForeground": "#1db129",
     "gitDecoration.modifiedResourceForeground": "#488582",
-    "gitDecoration.deletedResourceForeground": "#72403f",
-    "gitDecoration.conflictingResourceForeground": "#c26d54",
+    "gitDecoration.deletedResourceForeground": "#e05553",
+    "gitDecoration.conflictingResourceForeground": "#fc60f4",
 
     "editorOverviewRuler.addedForeground": "#0b5c26",
     "editorOverviewRuler.modifiedForeground": "#1d796c",
     
     "editorGutter.addedBackground": "#0b5c26",
     "editorGutter.modifiedBackground": "#145e4b",
-    "editorGutter.deletedBackground": "#72403f",
+    "editorGutter.deletedBackground": "#b86261",
     "editorGutter.commentRangeForeground": "#57514d",
   },
   "tokenColors": [

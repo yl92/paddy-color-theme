@@ -77,8 +77,8 @@
     "terminal.ansiBrightGreen": "#1b9e47",
     "terminal.ansiMagenta": "#c40b48",
     "terminal.ansiBrightMagenta": "#ff246d",
-    "terminal.ansiRed": "#b61702",
-    "terminal.ansiBrightRed": "#d43e2a",
+    "terminal.ansiRed": "#e72006",
+    "terminal.ansiBrightRed": "#f7614d",
     "terminal.ansiWhite": "#cfa9bb",
     "terminal.ansiBrightWhite": "#fae0e8",
     "terminal.ansiYellow": "#d37d0d",
@@ -196,15 +196,15 @@
 
 		"gitDecoration.addedResourceForeground": "#4cc46a",
 		"gitDecoration.modifiedResourceForeground": "#7a8bc7",
-		"gitDecoration.deletedResourceForeground": "#662c3d",
-		"gitDecoration.conflictingResourceForeground": "#fa562d",
+		"gitDecoration.deletedResourceForeground": "#dd5550",
+		"gitDecoration.conflictingResourceForeground": "#ff4dd2",
 
 		"editorOverviewRuler.addedForeground": "#19866b",
 		"editorOverviewRuler.modifiedForeground": "#202975",
 
 		"editorGutter.addedBackground": "#19866b",
 		"editorGutter.modifiedBackground": "#202975",
-		"editorGutter.deletedBackground": "#662c3d",
+		"editorGutter.deletedBackground": "#cf5076",
 		"editorGutter.commentRangeForeground": "#494e5a",
 
 	},
