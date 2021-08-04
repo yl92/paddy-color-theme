@@ -1,4 +1,4 @@
-**`1.6.1` - 2021-08-04**
+**`1.6.2` - 2021-08-04**
 
 - DiffEditor colouring
 - Lightbulb colouring
