@@ -1,3 +1,7 @@
+**`1.6.4` - 2021-08-06**
+
+- Some `Frost` colour fixes
+  
 **`1.6.3` - 2021-08-04**
 
 - terminal / other UI colour updates
