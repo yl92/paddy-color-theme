@@ -10,10 +10,10 @@
 |                         | 🐻 `Grizzly`                | 🌥 `Mist`      |              |
 |                         | 🌿 `Eucalyptus`             |               |              |
 |                         | 🖋 `Inkstone`               |               |              |
+|                         | 🎼 `Leipzig` <sup>New</sup> |               |              |
 |                         | λ&nbsp;  `Citadel`         |               |              |
 |                         | 🔵 `Neptune`                |               |              |
 |                         | 🌸 `Floresta`               |               |              |
-|                         | 🎼 `Leipzig` <sup>New</sup> |               |              |
 
 &NewLine;
 

@@ -1,6 +1,6 @@
 **`1.6.4` - 2021-08-06**
 
-- Some `Frost` colour fixes
+- Some `Frost` and `Black` colour fixes and updates
   
 **`1.6.3` - 2021-08-04**
 
