@@ -171,7 +171,9 @@
     "settings.modifiedItemIndicator": "#c75c54",
     "settings.focusedRowBackground": "#6aa88415",
     "settings.focusedRowBorder": "#e09e5313",
+
     "pickerGroup.foreground": "#6aa884",
+    "pickerGroup.border": "#6aa88438",
     
     "menu.background": "#171a15",
     "menu.border": "#6aa88438",
@@ -444,6 +446,15 @@
       ],
       "settings": {
         "foreground": "#e79975b9"
+      }
+    },
+    {
+      "name": "variable.interpolation",
+      "scope": [
+        "variable.interpolation",
+      ],
+      "settings": {
+        "fontStyle": ""
       }
     },
     {

@@ -186,6 +186,8 @@
     "symbolIcon.constructorForeground": "#ce63e9",
     
     "pickerGroup.foreground": "#ed143d",
+    "pickerGroup.border": "#3838382c",
+    
     "list.focusBackground": "#ffc8c850",
     "list.focusForeground": "#313131",
     "list.activeSelectionBackground": "#ffc6c6",
@@ -443,6 +445,15 @@
       ],
       "settings": {
         "foreground": "#966146"
+      }
+    },
+    {
+      "name": "variable.interpolation",
+      "scope": [
+        "variable.interpolation",
+      ],
+      "settings": {
+        "fontStyle": ""
       }
     },
     {

@@ -2,23 +2,22 @@
 
 **A set of very detailed color themes with earthy tones for all ye badass hackers. 🍁**
 
-| Very Dark Themes        | Colourful Darks            | Low Contrast  | Light Themes |
-| ----------------------- | -------------------------- | ------------- | ------------ |
-| 🪓`Dark` *Paddy Classic* | 🍆 `Eggplant`               | 🤖 `Machine`   | 🌞 `Light`    |
-| 🚧 `Black`               | 🌲 `Emerald`                | 🎮 `Yesterday` | 🍷 `Crimson`  |
-| 🐺 `Wolf`                | 🧧 `Ox` *Year of the Ox*    | 🌄 `Haze`      | ❄️ `Frost`    |
-|                         | 🐻 `Grizzly`                | 🌥 `Mist`      |              |
-|                         | 🌿 `Eucalyptus`             |               |              |
-|                         | 🖋 `Inkstone`               |               |              |
-|                         | 🎼 `Leipzig` <sup>New</sup> |               |              |
-|                         | λ&nbsp;  `Citadel`         |               |              |
-|                         | 🔵 `Neptune`                |               |              |
-|                         | 🌸 `Floresta`               |               |              |
+| Very Dark Themes        | Colourful Darks         | Low Contrast  | Light Themes                 |
+| ----------------------- | ----------------------- | ------------- | ---------------------------- |
+| 🪓`Dark` *Paddy Classic* | 🍆 `Eggplant`            | 🤖 `Machine`   | 🌞 `Light`                    |
+| 🚧 `Black`               | 🌲 `Emerald`             | 🎮 `Yesterday` | 🍷 `Crimson`                  |
+| 🐺 `Wolf`                | 🧧 `Ox` *Year of the Ox* | 🌄 `Haze`      | ❄️ `Frost`                    |
+|                         | 🐻 `Grizzly`             | 🌥 `Mist`      | 🍵 `Genmaicha` <sup>New</sup> |
+|                         | 🌿 `Eucalyptus`          |               |                              |
+|                         | 🖋 `Inkstone`            |               |                              |
+|                         | 🎼 `Leipzig`             |               |                              |
+|                         | λ&nbsp;  `Citadel`      |               |                              |
+|                         | 🔵 `Neptune`             |               |                              |
+|                         | 🌸 `Floresta`            |               |                              |
 
 &NewLine;
 
 > Each variant comes with both non-italic ("upright") and italic versions. Italics are mostly used for "action-like" syntax tokens and typescript annotations.
-
 
 > An idea: Override Workspace color theme for different project windows in `Settings > Workspace > Workbench > Appearance > Color Theme`, or directly in the project's local `settings.json` file.
 

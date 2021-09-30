@@ -167,7 +167,9 @@
     "settings.focusedRowBackground": "#d4872e1f",
     "settings.focusedRowBorder": "#e09e5313",
     // "notebook.cellToolbarSeparator": "#fd9b4036",
+
     "pickerGroup.foreground": "#f0601e",
+    "pickerGroup.border": "#fc943f38",
     
     "menu.background": "#171a15",
     "menu.border": "#fc943f38",
@@ -443,6 +445,15 @@
       ],
       "settings": {
         "foreground": "#e67d4dbe"
+      }
+    },
+    {
+      "name": "variable.interpolation",
+      "scope": [
+        "variable.interpolation",
+      ],
+      "settings": {
+        "fontStyle": ""
       }
     },
     {

@@ -162,10 +162,13 @@
     "editorGroup.dropBackground": "#3290bb15",
     "settings.headerForeground": "#e7d4cb",
     "settings.modifiedItemIndicator": "#c74017",
+
     "pickerGroup.foreground": "#c74017",
+    "pickerGroup.border": "#7179a01e",
 
 		"menu.background": "#172029",
 		"menu.foreground": "#f5d8c3",
+    "menu.border": "#7179a01e",
 		"menu.selectionBackground": "#c7401755",
 		"menu.selectionForeground": "#f5d8c3",
 		"menu.separatorBackground": "#a9b6cf38",
@@ -435,6 +438,15 @@
       ],
       "settings": {
         "foreground": "#ce967cab"
+      }
+    },
+    {
+      "name": "variable.interpolation",
+      "scope": [
+        "variable.interpolation",
+      ],
+      "settings": {
+        "fontStyle": ""
       }
     },
     {

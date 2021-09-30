@@ -160,7 +160,9 @@
     "editorGroup.dropBackground": "#ff902915",
     "settings.headerForeground": "#e7d4cb",
     "settings.modifiedItemIndicator": "#ff9029",
+
     "pickerGroup.foreground": "#ff9029",
+    "pickerGroup.border": "#f7dbc538",
     
     "menu.background": "#393837",
     "menu.border": "#f7dbc538",
@@ -435,6 +437,15 @@
       ],
       "settings": {
         "foreground": "#f8c4ab91"
+      }
+    },
+    {
+      "name": "variable.interpolation",
+      "scope": [
+        "variable.interpolation",
+      ],
+      "settings": {
+        "fontStyle": ""
       }
     },
     {

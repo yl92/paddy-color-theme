@@ -28,7 +28,6 @@ Taranaki: Blue & Green & White & Tussock
 
 - Yellow?
 - teal + magenta
-- light: classic Windows gray? // not really working out, see the hidden `1998` theme
 - Pink
 - Light: Lisbon?
 

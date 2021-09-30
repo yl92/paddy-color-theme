@@ -167,6 +167,7 @@
     "settings.focusedRowBorder": "#d16aaa10",
     // "notebook.cellToolbarSeparator": "#fd9b4036",
     "pickerGroup.foreground": "#e6962f",
+    "pickerGroup.border": "#ffd4c7",
 
     "debugIcon.breakpointForeground": "#ff3b2d",
 
@@ -444,6 +445,15 @@
       ],
       "settings": {
         "foreground": "#ce967cab"
+      }
+    },
+    {
+      "name": "variable.interpolation",
+      "scope": [
+        "variable.interpolation",
+      ],
+      "settings": {
+        "fontStyle": ""
       }
     },
     {
