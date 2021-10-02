@@ -217,11 +217,14 @@
     "gitDecoration.untrackedResourceForeground": "#447452",
     "gitDecoration.ignoredResourceForeground": "#ac9777",
 
-    "editorOverviewRuler.addedForeground": "#3f960542",
-    "editorOverviewRuler.modifiedForeground": "#33878a60",
+    "editorOverviewRuler.addedForeground": "#71b91370",
+    "minimapGutter.addedBackground": "#71b91370",
+    "editorGutter.addedBackground": "#71b91370",
+    
+    "editorOverviewRuler.modifiedForeground": "#2086a560",
+    "minimapGutter.modifiedBackground": "#2086a560",
+    "editorGutter.modifiedBackground": "#27695b41",
 
-    "editorGutter.addedBackground": "#48a50a4b",
-    "editorGutter.modifiedBackground": "#27695041",
     "editorGutter.deletedBackground": "#da6361",
     "editorGutter.commentRangeForeground": "#b8a79b",
 
@@ -718,7 +721,7 @@
         "constant.language.boolean.true",
       ],
       "settings": {
-        "foreground": "#0fb459"
+        "foreground": "#728a07"
       }
     },
     {
