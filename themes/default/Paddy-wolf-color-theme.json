@@ -59,7 +59,8 @@
     "statusBarItem.prominentBackground": "#ee560f",
     "statusBarItem.prominentForeground": "#ffdecf",
     "statusBarItem.prominentHoverBackground": "#ff6d29",
-    "statusBarItem.remoteBackground": "#ff6d295e",
+    "statusBarItem.remoteBackground": "#2d6d20",
+    "statusBarItem.remoteForeground": "#f1dfcd",
 
     "panel.border": "#cfb5a923",
     "panel.background": "#1d1b19",
@@ -197,6 +198,7 @@
     "gitDecoration.modifiedResourceForeground": "#488582",
     "gitDecoration.deletedResourceForeground": "#e05553",
     "gitDecoration.conflictingResourceForeground": "#fc60f4",
+    "gitDecoration.ignoredResourceForeground": "#685c5c",
 
     "editorOverviewRuler.addedForeground": "#0b5c26",
     "editorOverviewRuler.modifiedForeground": "#1d796c",
@@ -205,6 +207,15 @@
     "editorGutter.modifiedBackground": "#145e4b",
     "editorGutter.deletedBackground": "#b86261",
     "editorGutter.commentRangeForeground": "#57514d",
+
+    "editorBracketHighlight.foreground1": "#b8986f",
+    "editorBracketHighlight.foreground2": "#dd745a",
+    "editorBracketHighlight.foreground3": "#bec95f",
+    "editorBracketHighlight.foreground4": "#48a04c",
+    "editorBracketHighlight.foreground5": "#7ca5af",
+    "editorBracketHighlight.foreground6": "#e78747",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff3232"
+
   },
   "tokenColors": [
     {

@@ -63,7 +63,8 @@
     "statusBarItem.prominentBackground": "#FF842D",
     "statusBarItem.prominentForeground": "#092630",
     "statusBarItem.prominentHoverBackground": "#ffa41bdd",
-    "statusBarItem.remoteBackground": "#ff842d49",
+    "statusBarItem.remoteBackground": "#03b698",
+    "statusBarItem.remoteForeground": "#092630",
 
     "panel.border": "#1dfcd728",
     "panel.background": "#092630",
@@ -86,8 +87,8 @@
     "terminal.ansiBrightRed": "#ff5a44",
     "terminal.ansiWhite": "#f0ab90",
     "terminal.ansiBrightWhite": "#fae8e0",
-    "terminal.ansiYellow": "#d3a50d",
-    "terminal.ansiBrightYellow": "#ffdc18",
+    "terminal.ansiYellow": "#d38e0d",
+    "terminal.ansiBrightYellow": "#ffc918",
     "terminal.selectionBackground": "#1dfcd72d",
     "terminalCursor.background": "#1dfcd77a",
     "terminalCursor.foreground": "#1dfcd7",
@@ -165,7 +166,9 @@
     "settings.focusedRowBackground": "#1dfcd718",
     "settings.focusedRowBorder": "#1dfcd73d",
     // "notebook.cellToolbarSeparator": "#fd9b4036",
+    
     "pickerGroup.foreground": "#FF842D",
+    "pickerGroup.border": "#1dfcd728",
 
     "debugIcon.breakpointForeground": "#ff3b2d",
     
@@ -208,7 +211,8 @@
     "gitDecoration.modifiedResourceForeground": "#17caac",
     "gitDecoration.deletedResourceForeground": "#b45150",
     "gitDecoration.conflictingResourceForeground": "#c254b9",
-
+    "gitDecoration.ignoredResourceForeground": "#4b5a59",
+    
     "editorOverviewRuler.addedForeground": "#65a018",
     "editorOverviewRuler.modifiedForeground": "#11947e",
     
@@ -216,6 +220,15 @@
     "editorGutter.modifiedBackground": "#11947e",
     "editorGutter.deletedBackground": "#9e5857",
     "editorGutter.commentRangeForeground": "#866e5d",
+
+    "editorBracketHighlight.foreground1": "#926d3c",
+    "editorBracketHighlight.foreground2": "#6bbbcf",
+    "editorBracketHighlight.foreground3": "#9ca546",
+    "editorBracketHighlight.foreground4": "#d65f3b",
+    "editorBracketHighlight.foreground5": "#b3709f",
+    "editorBracketHighlight.foreground6": "#ce952d",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff3232"
+
   },
   "tokenColors": [
     {
@@ -443,6 +456,15 @@
       ],
       "settings": {
         "foreground": "#e67d4dbe"
+      }
+    },
+    {
+      "name": "variable.interpolation",
+      "scope": [
+        "variable.interpolation",
+      ],
+      "settings": {
+        "fontStyle": ""
       }
     },
     {

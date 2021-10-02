@@ -65,7 +65,8 @@
     "statusBarItem.prominentBackground": "#f0601e",
     "statusBarItem.prominentForeground": "#21241e",
     "statusBarItem.prominentHoverBackground": "#f0601edd",
-    "statusBarItem.remoteBackground": "#f0601e38",
+    "statusBarItem.remoteBackground": "#945d1e",
+    "statusBarItem.remoteForeground": "#f8d7b2",
 
     "panel.border": "#fc943f38",
     "panel.background": "#21241e",
@@ -90,8 +91,8 @@
     "terminal.ansiBrightRed": "#fc442c",
     "terminal.ansiWhite": "#fae5d6",
     "terminal.ansiBrightWhite": "#fff2ec",
-    "terminal.ansiYellow": "#c5874d",
-    "terminal.ansiBrightYellow": "#ffaa3a",
+    "terminal.ansiYellow": "#d69637",
+    "terminal.ansiBrightYellow": "#ffba3a",
     "terminal.selectionBackground": "#eb08004b",
     "terminalCursor.background": "#f0601e7a",
     "terminalCursor.foreground": "#f0601e",
@@ -203,10 +204,13 @@
     "listFilterWidget.outline": "#00000000",
     "list.filterMatchBackground": "#f0601e2c",
 
-    "gitDecoration.addedResourceForeground": "#92d13f",
-    "gitDecoration.modifiedResourceForeground": "#7fc08d",
-    "gitDecoration.deletedResourceForeground": "#b94c4a",
-    "gitDecoration.conflictingResourceForeground": "#d650c4",
+    "gitDecoration.addedResourceForeground": "#65d10c83",
+    "gitDecoration.modifiedResourceForeground": "#488582",
+    "gitDecoration.renamedResourceForeground": "#188d5c",
+    "gitDecoration.deletedResourceForeground": "#b34f4d",
+    "gitDecoration.conflictingResourceForeground": "#eb4ee3",
+    "gitDecoration.untrackedResourceForeground": "#51995b",
+    "gitDecoration.ignoredResourceForeground": "#5c5e4d",
 
     "editorOverviewRuler.addedForeground": "#609932",
     "editorOverviewRuler.modifiedForeground": "#46a76e",
@@ -218,6 +222,15 @@
     "editorGutter.modifiedBackground": "#36a062",
     "editorGutter.deletedBackground": "#9e5857",
     "editorGutter.commentRangeForeground": "#866e5d",
+
+    "editorBracketHighlight.foreground1": "#926d3c",
+    "editorBracketHighlight.foreground2": "#cf6b6b",
+    "editorBracketHighlight.foreground3": "#9ca546",
+    "editorBracketHighlight.foreground4": "#3a7900",
+    "editorBracketHighlight.foreground5": "#b3709f",
+    "editorBracketHighlight.foreground6": "#ce952d",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff3232"
+    
   },
   "tokenColors": [
     {
@@ -1756,7 +1769,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#82a344"
+        "foreground": "#9ac053"
       }
     },
     {

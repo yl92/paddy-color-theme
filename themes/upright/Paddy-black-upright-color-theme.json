@@ -60,8 +60,8 @@
     "statusBarItem.prominentBackground": "#ffbb00",
     "statusBarItem.prominentForeground": "#000000",
     "statusBarItem.prominentHoverBackground": "#f5dcbc",
-    "statusBarItem.remoteBackground": "#ffa600",
-    "statusBarItem.remoteForeground": "#ffa60031",
+    "statusBarItem.remoteBackground": "#ce9700",
+    "statusBarItem.remoteForeground": "#000000",
 
     "panel.border": "#f5dcbc29",
     "panel.background": "#000000",
@@ -162,8 +162,10 @@
     "editorGroup.dropBackground": "#ffbb0015",
     "settings.headerForeground": "#f7f1e1",
     "settings.modifiedItemIndicator": "#ffbb00",
-    "pickerGroup.foreground": "#ffbb00",
     
+    "pickerGroup.foreground": "#ffbb00",
+    "pickerGroup.border": "#f5dcbc29",
+
     "menu.background": "#000000",
     "menu.foreground": "#f5dcbc",
     "menu.border": "#f5dcbc29",
@@ -208,6 +210,15 @@
     "editorGutter.modifiedBackground": "#6ac7ab6e",
     "editorGutter.deletedBackground": "#9e5857",
     "editorGutter.commentRangeForeground": "#756e69",
+
+    "editorBracketHighlight.foreground1": "#b8986f",
+    "editorBracketHighlight.foreground2": "#dd745a",
+    "editorBracketHighlight.foreground3": "#f0c03e",
+    "editorBracketHighlight.foreground4": "#48a04c",
+    "editorBracketHighlight.foreground5": "#af7ca0",
+    "editorBracketHighlight.foreground6": "#e78747",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff3232"
+    
   },
   "tokenColors": [
     {
@@ -435,6 +446,15 @@
       ],
       "settings": {
         "foreground": "#caa28fb2"
+      }
+    },
+    {
+      "name": "variable.interpolation",
+      "scope": [
+        "variable.interpolation",
+      ],
+      "settings": {
+        "fontStyle": ""
       }
     },
     {

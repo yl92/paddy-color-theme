@@ -47,8 +47,8 @@
     "activityBar.foreground": "#ff9029",
     "activityBar.border": "#fc913f38",
     "activityBar.inactiveForeground": "#fc913f48",
-    "activityBarBadge.background": "#ff9029",
-    "activityBarBadge.foreground": "#312f2e",
+    "activityBarBadge.background": "#6c8833",
+    "activityBarBadge.foreground": "#000000",
 
     "sideBar.background": "#201612",
     "sideBar.border": "#fc913f38",
@@ -66,7 +66,8 @@
     "statusBarItem.prominentBackground": "#ff9029",
     "statusBarItem.prominentForeground": "#201612",
     "statusBarItem.prominentHoverBackground": "#ff9029dd",
-    "statusBarItem.remoteBackground": "#ff902938",
+    "statusBarItem.remoteBackground": "#37441f",
+    "statusBarItem.remoteForeground": "#f3e1ba",
 
     "panel.border": "#fc913f38",
     "panel.background": "#201612",
@@ -112,8 +113,8 @@
     "scrollbarSlider.activeBackground": "#f3a36510",
     "scrollbarSlider.hoverBackground": "#e9955417",
     "scrollbar.shadow": "#201612",
-    "badge.background": "#ff9029",
-    "badge.foreground": "#110b09",
+    "badge.background": "#6c8833",
+    "badge.foreground": "#000000",
     "notifications.background": "#2c1d17",
     "notifications.foreground": "#f1bc94",
     "notifications.border": "#fc913f38",
@@ -206,7 +207,9 @@
     "gitDecoration.modifiedResourceForeground": "#7fc08d",
     "gitDecoration.deletedResourceForeground": "#b15250",
     "gitDecoration.conflictingResourceForeground": "#dd5ad2",
-
+    "gitDecoration.untrackedResourceForeground": "#51995b",
+    "gitDecoration.ignoredResourceForeground": "#705751",
+    
     "editorOverviewRuler.addedForeground": "#609932",
     "editorOverviewRuler.modifiedForeground": "#46a76e",
     
@@ -214,6 +217,15 @@
     "editorGutter.modifiedBackground": "#36a062",
     "editorGutter.deletedBackground": "#9e5857",
     "editorGutter.commentRangeForeground": "#866e5d",
+
+    "editorBracketHighlight.foreground1": "#926d3c",
+    "editorBracketHighlight.foreground2": "#cf764c",
+    "editorBracketHighlight.foreground3": "#9ca546",
+    "editorBracketHighlight.foreground4": "#3a7900",
+    "editorBracketHighlight.foreground5": "#b3709f",
+    "editorBracketHighlight.foreground6": "#da9b27",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff3232"
+    
   },
   "tokenColors": [
     {

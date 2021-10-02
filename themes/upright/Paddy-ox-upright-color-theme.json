@@ -62,7 +62,8 @@
     "statusBarItem.prominentBackground": "#f0371e",
     "statusBarItem.prominentForeground": "#1f0c0f",
     "statusBarItem.prominentHoverBackground": "#ff4b34",
-    "statusBarItem.remoteBackground": "#f0361e5b",
+    "statusBarItem.remoteBackground": "#df8d31",
+    "statusBarItem.remoteForeground": "#1f0c0f",
 
     "panel.border": "#fc553f38",
     "panel.background": "#1f0c0f",
@@ -168,7 +169,9 @@
     "settings.focusedRowBackground": "#fd4d401f",
     "settings.focusedRowBorder": "#fd5c4010",
     // "notebook.cellToolbarSeparator": "#fd9b4036",
+    
     "pickerGroup.foreground": "#f0371e",
+    "pickerGroup.border": "#fc553f38",
     
     "menu.background": "#290f13",
     "menu.border": "#fc553f38",
@@ -206,6 +209,7 @@
     "gitDecoration.modifiedResourceForeground": "#7fc08d",
     "gitDecoration.deletedResourceForeground": "#ca4e4c",
     "gitDecoration.conflictingResourceForeground": "#f15ab7",
+    "gitDecoration.ignoredResourceForeground": "#635353",
 
     "editorOverviewRuler.addedForeground": "#609932",
     "editorOverviewRuler.modifiedForeground": "#46a76e",
@@ -214,6 +218,15 @@
     "editorGutter.modifiedBackground": "#36a062",
     "editorGutter.deletedBackground": "#ca605f",
     "editorGutter.commentRangeForeground": "#866e5d",
+
+    "editorBracketHighlight.foreground1": "#af6b3d",
+    "editorBracketHighlight.foreground2": "#e25d5d",
+    "editorBracketHighlight.foreground3": "#aeb943",
+    "editorBracketHighlight.foreground4": "#3a7900",
+    "editorBracketHighlight.foreground5": "#b3709f",
+    "editorBracketHighlight.foreground6": "#ce952d",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff3232"
+
   },
   "tokenColors": [
     {
@@ -441,6 +454,15 @@
       ],
       "settings": {
         "foreground": "#e67d4dbe"
+      }
+    },
+    {
+      "name": "variable.interpolation",
+      "scope": [
+        "variable.interpolation",
+      ],
+      "settings": {
+        "fontStyle": ""
       }
     },
     {
@@ -983,7 +1005,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#b1ae83"
+        "foreground": "#b6ca8f"
       }
     },
     {

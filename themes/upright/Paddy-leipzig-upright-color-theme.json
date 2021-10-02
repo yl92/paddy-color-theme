@@ -4,7 +4,7 @@
   "colors": {
 
     "foreground": "#e7c4a3",
-    "editorCodeLens.foreground": "#f7ba5f",
+    "editorCodeLens.foreground": "#8ece99",
     "icon.foreground": "#6aa884",
     "descriptionForeground": "#e2ab8198",
     "sash.hoverBorder": "#e2ab8198",
@@ -69,7 +69,8 @@
     "statusBarItem.prominentBackground": "#6aa884",
     "statusBarItem.prominentForeground": "#221b1d",
     "statusBarItem.prominentHoverBackground": "#6aa884dd",
-    "statusBarItem.remoteBackground": "#6aa88438",
+    "statusBarItem.remoteBackground": "#d6922c",
+    "statusBarItem.remoteForeground": "#221b1d",
 
     "panel.border": "#6aa88438",
     "panel.background": "#221b1d",
@@ -171,7 +172,9 @@
     "settings.modifiedItemIndicator": "#c75c54",
     "settings.focusedRowBackground": "#6aa88415",
     "settings.focusedRowBorder": "#e09e5313",
+
     "pickerGroup.foreground": "#6aa884",
+    "pickerGroup.border": "#6aa88438",
     
     "menu.background": "#171a15",
     "menu.border": "#6aa88438",
@@ -209,6 +212,7 @@
     "gitDecoration.modifiedResourceForeground": "#7fc08d",
     "gitDecoration.deletedResourceForeground": "#be5654",
     "gitDecoration.conflictingResourceForeground": "#c254b9",
+    "gitDecoration.ignoredResourceForeground": "#645b55",
 
     "editorOverviewRuler.addedForeground": "#609932",
     "editorOverviewRuler.modifiedForeground": "#46a76e",
@@ -217,6 +221,15 @@
     "editorGutter.modifiedBackground": "#36a062",
     "editorGutter.deletedBackground": "#bd6664",
     "editorGutter.commentRangeForeground": "#866e5d",
+
+    "editorBracketHighlight.foreground1": "#926d3c",
+    "editorBracketHighlight.foreground2": "#cf6b6b",
+    "editorBracketHighlight.foreground3": "#9ca546",
+    "editorBracketHighlight.foreground4": "#3a7900",
+    "editorBracketHighlight.foreground5": "#b3709f",
+    "editorBracketHighlight.foreground6": "#ce952d",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff3232"
+
   },
   "tokenColors": [
     {
@@ -444,6 +457,15 @@
       ],
       "settings": {
         "foreground": "#e79975b9"
+      }
+    },
+    {
+      "name": "variable.interpolation",
+      "scope": [
+        "variable.interpolation",
+      ],
+      "settings": {
+        "fontStyle": ""
       }
     },
     {

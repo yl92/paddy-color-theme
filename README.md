@@ -9,7 +9,7 @@
 | 🐺 `Wolf`                | 🧧 `Ox` *Year of the Ox* | 🌄 `Haze`      | ❄️ `Frost`                    |
 |                         | 🐻 `Grizzly`             | 🌥 `Mist`      | 🍵 `Genmaicha` <sup>New</sup> |
 |                         | 🌿 `Eucalyptus`          |               |                              |
-|                         | 🖋 `Inkstone`            |               |                              |
+|                         | 🖋 `Inkstone`            |               |                              | **** |
 |                         | 🎼 `Leipzig`             |               |                              |
 |                         | λ&nbsp;  `Citadel`      |               |                              |
 |                         | 🔵 `Neptune`             |               |                              |

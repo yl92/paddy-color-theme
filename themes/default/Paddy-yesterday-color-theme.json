@@ -39,7 +39,7 @@
     "activityBar.background": "#242d33",
     "activityBar.foreground": "#d47f57",
     "activityBar.border": "#5bcfb22f",
-    "activityBar.inactiveForeground": "#92cfc03d",
+    "activityBar.inactiveForeground": "#92cfc052",
     "activityBarBadge.background": "#d47f57",
     "activityBarBadge.foreground": "#242d33",
 
@@ -59,7 +59,8 @@
     "statusBarItem.prominentBackground": "#d47f57",
     "statusBarItem.prominentForeground": "#242d33",
     "statusBarItem.prominentHoverBackground": "#d47f57dd",
-    "statusBarItem.remoteBackground": "#d47f5736",
+    "statusBarItem.remoteBackground": "#26795d",
+    "statusBarItem.remoteForeground": "#e2fff5",
 
     "panel.border": "#5bcfb22f",
     "panel.background": "#242d33",
@@ -200,6 +201,7 @@
     "gitDecoration.modifiedResourceForeground": "#488582",
     "gitDecoration.deletedResourceForeground": "#da5553",
     "gitDecoration.conflictingResourceForeground": "#f75fea",
+    "gitDecoration.ignoredResourceForeground": "#636f7a",
 
     "editorOverviewRuler.addedForeground": "#4f7445",
     "editorOverviewRuler.modifiedForeground": "#1d796c",
@@ -208,6 +210,15 @@
     "editorGutter.modifiedBackground": "#145e4b",
     "editorGutter.deletedBackground": "#c2605e",
     "editorGutter.commentRangeForeground": "#57514d",
+
+    "editorBracketHighlight.foreground1": "#967953",
+    "editorBracketHighlight.foreground2": "#dd745a",
+    "editorBracketHighlight.foreground3": "#bec95f",
+    "editorBracketHighlight.foreground4": "#48a04c",
+    "editorBracketHighlight.foreground5": "#b4689d",
+    "editorBracketHighlight.foreground6": "#e78747",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff3232"
+
   },
   "tokenColors": [
     {

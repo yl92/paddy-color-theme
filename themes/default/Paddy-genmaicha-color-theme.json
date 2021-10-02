@@ -64,7 +64,8 @@
     "statusBarItem.prominentBackground": "#276950",
     "statusBarItem.prominentForeground": "#f8dca8",
     "statusBarItem.prominentHoverBackground": "#40afb3",
-    "statusBarItem.remoteBackground": "#ed143c3a",
+    "statusBarItem.remoteBackground": "#ce8735",
+    "statusBarItem.remoteForeground": "#f8dca8",
 
     "panel.background": "#f8dca8",
     "panel.border": "#f1b36c",
@@ -223,7 +224,7 @@
     
     "editorOverviewRuler.modifiedForeground": "#2086a560",
     "minimapGutter.modifiedBackground": "#2086a560",
-    "editorGutter.modifiedBackground": "#27695b41",
+    "editorGutter.modifiedBackground": "#2086a560",
 
     "editorGutter.deletedBackground": "#da6361",
     "editorGutter.commentRangeForeground": "#b8a79b",
@@ -235,7 +236,7 @@
     "editorBracketHighlight.foreground3": "#db5e38",
     "editorBracketHighlight.foreground4": "#1f7691",
     "editorBracketHighlight.foreground5": "#c44ea1",
-    "editorBracketHighlight.foreground6": "#96a194",
+    "editorBracketHighlight.foreground6": "#357a71",
     "editorBracketHighlight.unexpectedBracket.foreground": "#ff3232"
 
   },

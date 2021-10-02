@@ -218,6 +218,15 @@
     "editorGutter.modifiedBackground": "#6da396",
     "editorGutter.deletedBackground": "#dd7271",
     "editorGutter.commentRangeForeground": "#b8a79b",
+
+    "editorBracketHighlight.foreground1": "#a87839",
+    "editorBracketHighlight.foreground2": "#7b9e1c",
+    "editorBracketHighlight.foreground3": "#db5026",
+    "editorBracketHighlight.foreground4": "#167e9e",
+    "editorBracketHighlight.foreground5": "#da42ac",
+    "editorBracketHighlight.foreground6": "#1f7c70",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff3232"
+    
   },
   "tokenColors": [
     {
@@ -1787,7 +1796,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#2b467c"
+        "foreground": "#584a3d"
       }
     },
     {

@@ -63,7 +63,8 @@
     "statusBarItem.prominentBackground": "#ed143d",
     "statusBarItem.prominentForeground": "#ffffff",
     "statusBarItem.prominentHoverBackground": "#fd3055",
-    "statusBarItem.remoteBackground": "#ed143c3a",
+    "statusBarItem.remoteBackground": "#861026",
+    "statusBarItem.remoteForeground": "#ffffff",
 
     "panel.background": "#ffffff",
     "panel.border": "#dfdfdf",
@@ -219,6 +220,15 @@
     "editorGutter.modifiedBackground": "#abcfda",
     "editorGutter.deletedBackground": "#da6361",
     "editorGutter.commentRangeForeground": "#b8a79b",
+
+    "editorBracketHighlight.foreground1": "#a87839",
+    "editorBracketHighlight.foreground2": "#7fa712",
+    "editorBracketHighlight.foreground3": "#db3b26",
+    "editorBracketHighlight.foreground4": "#167e9e",
+    "editorBracketHighlight.foreground5": "#da42ac",
+    "editorBracketHighlight.foreground6": "#1f7c70",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff3232"
+
   },
   "tokenColors": [
     {

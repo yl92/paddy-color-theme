@@ -1,7 +1,9 @@
-**`1.7.0` - 2021-10-01**
+**`1.7.0` - 2021-10-02**
 
 - New Theme! "Genmaicha"
-- Built-in Bracket colors
+- Rainbow Bracket colors
+- Status Bar remote color fixes
+- Ignored resources
 
 **`1.6.4` - 2021-08-06**
 
