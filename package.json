@@ -2,14 +2,14 @@
 	"name": "paddy-color-theme",
 	"displayName": "Paddy Color Theme",
 	"description": "A set of very detailed color themes with earthy tones for all ye badass hackers. 🎄🍁🪓",
-	"version": "1.7.0",
+	"version": "1.7.1",
 	"publisher": "yile-ou",
 	"author": {
 		"name": "Yile Ou",
 		"email": "troy.yile@gmail.com",
 		"url": "https://yile.art/"
 	},
-	"repository": "https://github.com/troydraws/paddy-color-theme",
+	"repository": "https://github.com/yl92/paddy-color-theme",
 	"icon": "paddy-icon.png",
 	"engines": {
 		"vscode": "^1.38.0"
