@@ -1,4 +1,9 @@
-**`1.7.0` - 2021-10-02**
+**`1.8.0` - 2021-12-20**
+
+- New Theme! "Ornithopter"
+- Other Smaller fixes
+
+**`1.7.1` - 2021-10-02**
 
 - New Theme! "Genmaicha"
 - Rainbow Bracket colors
