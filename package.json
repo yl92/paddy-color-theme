@@ -12,7 +12,7 @@
 	"repository": "https://github.com/yl92/paddy-color-theme",
 	"icon": "paddy-icon.png",
 	"engines": {
-		"vscode": "^1.38.0"
+		"vscode": "^1.62.3"
 	},
 	"categories": [
 		"Themes"
@@ -169,7 +169,6 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/default/Paddy-black-color-theme.json"
 			},
-
 			{
 				"id": "paddy-dark-upright",
 				"label": "P. Upright \\ Dark",
