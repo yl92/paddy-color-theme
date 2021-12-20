@@ -1,0 +1,28 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "badass",
+    "Floresta",
+    "Inkstone",
+    "Iosevka",
+    "jetbrains",
+    "Plex",
+    "Yile"
+  ],
+  "ignorePaths": [
+    "node_modules",
+    "package.json"
+  ],
+  "dictionaries": [
+    "softwareTerms",
+    "typescript",
+    "node",
+    "html",
+    "css",
+    "bash",
+    "filetypes",
+    "npm",
+    "fonts"
+  ]
+}

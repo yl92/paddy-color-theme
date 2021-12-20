@@ -2,13 +2,14 @@
 	"name": "paddy-color-theme",
 	"displayName": "Paddy Color Theme",
 	"description": "A set of very detailed color themes with earthy tones for all ye badass hackers. 🎄🍁🪓",
-	"version": "1.7.1",
+	"version": "1.8.0",
 	"publisher": "yile-ou",
 	"author": {
 		"name": "Yile Ou",
 		"email": "troy.yile@gmail.com",
 		"url": "https://yile.art/"
 	},
+	"license": "MIT",
 	"repository": "https://github.com/yl92/paddy-color-theme",
 	"icon": "paddy-icon.png",
 	"engines": {
@@ -17,6 +18,9 @@
 	"categories": [
 		"Themes"
 	],
+	"scripts": {
+		"package": "bash upright.bash && vsce package"
+	},
 	"keywords": [
 		"color-theme",
 		"warm",
@@ -84,6 +88,12 @@
 				"label": "P. \\ Citadel",
 				"uiTheme": "vs-dark",
 				"path": "./themes/default/Paddy-citadel-color-theme.json"
+			},
+			{
+				"id": "paddy-ornithopter",
+				"label": "P. \\ Ornithopter",
+				"uiTheme": "vs-dark",
+				"path": "./themes/default/Paddy-ornithopter-color-theme.json"
 			},
 			{
 				"id": "paddy-neptune",
@@ -210,6 +220,12 @@
 				"label": "P. Upright \\ Citadel",
 				"uiTheme": "vs-dark",
 				"path": "./themes/upright/Paddy-citadel-upright-color-theme.json"
+			},
+			{
+				"id": "paddy-ornithopter",
+				"label": "P. Upright \\ Ornithopter",
+				"uiTheme": "vs-dark",
+				"path": "./themes/upright/Paddy-ornithopter-upright-color-theme.json"
 			},
 			{
 				"id": "paddy-neptune-upright",
