@@ -18,17 +18,11 @@
 18 Crimson
 19 Haze
 20 Leipzig
-21
-22
+21 Genmaicha
+22 Ornithopter
 23
 24
 
-Next to try:
-Taranaki: Blue & Green & White & Tussock
-
-- Yellow?
 - teal + magenta
 - Pink
 - Light: Lisbon?
-
-

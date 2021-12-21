@@ -4,6 +4,7 @@
   "colors": {
     "foreground": "#ecaf87",
     "editorCodeLens.foreground": "#fcd0b2",
+    "gitlens.trailingLineForegroundColor": "#f0908360",
     "icon.foreground": "#ecaf87",
     "descriptionForeground": "#e2ab8198",
     "sash.hoverBorder": "#e2ab8198",
@@ -102,7 +103,7 @@
     "scrollbar.shadow": "#1f0c0f",
     "badge.background": "#d4872e",
     "badge.foreground": "#110b09",
-    "notifications.background": "#2c1a12",
+    "notifications.background": "#240e11",
     "notifications.foreground": "#ecaf87",
     "notifications.border": "#fc553f38",
     "diffEditor.insertedTextBackground": "#3bab441c",
@@ -287,7 +288,7 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#ecaf87"
       }
     },
     {
@@ -421,7 +422,6 @@
     {
       "name": "Operator, Misc",
       "scope": [
-        "constant.other.color",
         "punctuation",
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
@@ -981,6 +981,7 @@
       "name": "variable.other.object",
       "scope": [
         "variable.other.object",
+        "variable.argument.css",
       ],
       "settings": {
         "fontStyle": "",

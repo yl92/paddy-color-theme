@@ -1,3 +1,7 @@
+**`1.8.1` - 2021-12-21**
+
+- General updates
+  
 **`1.8.0` - 2021-12-20**
 
 - New Theme! "Ornithopter"

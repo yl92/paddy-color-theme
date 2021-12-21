@@ -990,6 +990,7 @@
       "name": "variable.other.object",
       "scope": [
         "variable.other.object",
+        "variable.argument.css",
       ],
       "settings": {
         "fontStyle": "",

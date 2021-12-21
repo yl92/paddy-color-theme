@@ -288,7 +288,7 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#f0ab90"
       }
     },
     {
@@ -422,7 +422,6 @@
     {
       "name": "Operator, Misc",
       "scope": [
-        "constant.other.color",
         "punctuation",
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
@@ -982,6 +981,7 @@
       "name": "variable.other.object",
       "scope": [
         "variable.other.object",
+        "variable.argument.css",
       ],
       "settings": {
         "fontStyle": "",
