@@ -1,3 +1,7 @@
+**`1.9.0` - 2022-02-18**
+
+- New Theme! "Ultramarine"
+  
 **`1.8.2` - 2021-12-22**
 
 - General updates

@@ -1,3 +1,6 @@
 {
-	"workbench.colorTheme": "paddy-leipzig"
+	"workbench.colorTheme": "paddy-dark",
+	"cSpell.words": [
+		"Blockquote"
+	]
 }

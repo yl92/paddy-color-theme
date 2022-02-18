@@ -20,9 +20,8 @@
 20 Leipzig
 21 Genmaicha
 22 Ornithopter
-23
+23 Ultramarine
 24
 
 - teal + magenta
 - Pink
-- Light: Lisbon?

@@ -2,7 +2,7 @@
 	"name": "paddy-color-theme",
 	"displayName": "Paddy Color Theme",
 	"description": "A set of very detailed color themes with earthy tones for all ye badass hackers. 🎄🍁🪓",
-	"version": "1.8.2",
+	"version": "1.9.0",
 	"publisher": "yile-ou",
 	"author": {
 		"name": "Yile Ou",
@@ -52,6 +52,12 @@
 				"label": "P. \\ Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/default/Paddy-dark-color-theme.json"
+			},
+			{
+				"id": "paddy-ultramarine",
+				"label": "P. \\ Ultramarine",
+				"uiTheme": "vs-dark",
+				"path": "./themes/default/Paddy-ultramarine-color-theme.json"
 			},
 			{
 				"id": "paddy-inkstone",
@@ -184,6 +190,12 @@
 				"label": "P. Upright \\ Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/upright/Paddy-dark-upright-color-theme.json"
+			},
+			{
+				"id": "paddy-ultramarine-upright",
+				"label": "P. Upright \\ Ultramarine",
+				"uiTheme": "vs-dark",
+				"path": "./themes/upright/Paddy-ultramarine-upright-color-theme.json"
 			},
 			{
 				"id": "paddy-inkstone-upright",

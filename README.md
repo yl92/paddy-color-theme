@@ -2,18 +2,18 @@
 
 **A set of very detailed color themes with earthy tones for all ye badass hackers. 🍁**
 
-| Very Dark Themes        | Colorful Darks          | Low Contrast                   | Light Themes  |
-| ----------------------- | ----------------------- | ------------------------------ | ------------- |
-| 🪓`Dark` *Paddy Classic* | 🍆 `Eggplant`            | 🤖 `Machine`                    | 🌞 `Light`     |
-| 🚧 `Black`               | 🌲 `Emerald`             | 🎮 `Yesterday`                  | 🍷 `Crimson`   |
-| 🐺 `Wolf`                | 🧧 `Ox` *Year of the Ox* | 🌄 `Haze`                       | ❄️ `Frost`     |
-|                         | 🐻 `Grizzly`             | 🌥 `Mist`                       | 🍵 `Genmaicha` |
-|                         | 🌿 `Eucalyptus`          | 🏜 `Ornithopter` <sup>New</sup> |               |
-|                         | 🖋 `Inkstone`            |                                |               |
-|                         | 🎼 `Leipzig`             |                                |               |
-|                         | λ&nbsp;  `Citadel`      |                                |               |
-|                         | 🔵 `Neptune`             |                                |               |
-|                         | 🌸 `Floresta`            |                                |               |
+| Darker Themes                  | Colorful Darks          | Low Contrast    | Light Themes  |
+| ------------------------------ | ----------------------- | --------------- | ------------- |
+|                                | 🖋 `Inkstone`            |                 |               |
+|                                | 🎼 `Leipzig`             |                 |               |
+|                                | λ&nbsp;  `Citadel`      |                 |               |
+|                                | 🔵 `Neptune`             |                 |               |
+|                                | 🌸 `Floresta`            |                 |               |
+| 🐺 `Wolf`                       | 🧧 `Ox` *Year of the Ox* | 🌄 `Haze`        | ❄️ `Frost`     |
+| 🚧 `Black`                      | 🐻 `Grizzly`             | 🌥 `Mist`        | 🍵 `Genmaicha` |
+| 🌊 `Ultramarine` <sup>New</sup> | 🌲 `Emerald`             | 🎮 `Yesterday`   | 🍷 `Crimson`   |
+|                                | 🌿 `Eucalyptus`          | 🏜 `Ornithopter` |               |
+| 🪓`Dark`                        | 🍆 `Eggplant`            | 🤖 `Machine`     | 🌞 `Light`     |
 
 &NewLine;
 
@@ -26,8 +26,6 @@
 → **IBM Plex Mono**: Satisfying italics. [[Official Site](https://www.ibm.com/plex/)] • [[Google Fonts](https://fonts.google.com/specimen/IBM+Plex+Mono)]  
 
 → **Iosevka**: [[Official Site](https://typeof.net/Iosevka/)]
-
-→ **DM Mono**: [[Google Fonts](https://fonts.google.com/specimen/DM+Mono)]
 
 → **Recursive**: [[recursive.design](https://www.recursive.design/)] 
 
