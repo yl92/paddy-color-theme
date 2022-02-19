@@ -1,4 +1,8 @@
-**`1.9.0` - 2022-02-18**
+**`1.9.1` - 2022-02-19**
+
+- Fixing wrongly formatted readme table
+
+**`1.9.0` - 2022-02-19**
 
 - New Theme! "Ultramarine"
   

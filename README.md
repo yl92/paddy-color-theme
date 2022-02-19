@@ -4,16 +4,16 @@
 
 | Darker Themes                  | Colorful Darks          | Low Contrast    | Light Themes  |
 | ------------------------------ | ----------------------- | --------------- | ------------- |
-|                                | 🖋 `Inkstone`            |                 |               |
-|                                | 🎼 `Leipzig`             |                 |               |
-|                                | λ&nbsp;  `Citadel`      |                 |               |
-|                                | 🔵 `Neptune`             |                 |               |
-|                                | 🌸 `Floresta`            |                 |               |
-| 🐺 `Wolf`                       | 🧧 `Ox` *Year of the Ox* | 🌄 `Haze`        | ❄️ `Frost`     |
-| 🚧 `Black`                      | 🐻 `Grizzly`             | 🌥 `Mist`        | 🍵 `Genmaicha` |
-| 🌊 `Ultramarine` <sup>New</sup> | 🌲 `Emerald`             | 🎮 `Yesterday`   | 🍷 `Crimson`   |
-|                                | 🌿 `Eucalyptus`          | 🏜 `Ornithopter` |               |
-| 🪓`Dark`                        | 🍆 `Eggplant`            | 🤖 `Machine`     | 🌞 `Light`     |
+| 🪓`Dark`                        | 🖋 `Inkstone`            | 🌄 `Haze`        | 🌞 `Light`     |
+| 🌊 `Ultramarine` <sup>New</sup> | 🎼 `Leipzig`             | 🌥 `Mist`        | 🍵 `Genmaicha` |
+| 🚧 `Black`                      | λ&nbsp;  `Citadel`      | 🎮 `Yesterday`   | 🍷 `Crimson`   |
+| 🐺 `Wolf`                       | 🔵 `Neptune`             | 🏜 `Ornithopter` | ❄️ `Frost`     |
+|                                | 🌸 `Floresta`            | 🤖 `Machine`     |               |
+|                                | 🧧 `Ox` *Year of the Ox* |                 |               |
+|                                | 🐻 `Grizzly`             |                 |               |
+|                                | 🌲 `Emerald`             |                 |               |
+|                                | 🌿 `Eucalyptus`          |                 |               |
+|                                | 🍆 `Eggplant`            |                 |               |
 
 &NewLine;
 
