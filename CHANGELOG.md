@@ -1,3 +1,7 @@
+**`1.9.2` - 2022-02-22**
+
+- Ultramarine patch
+
 **`1.9.1` - 2022-02-19**
 
 - Fixing wrongly formatted readme table
