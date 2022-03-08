@@ -1,3 +1,7 @@
+**`1.9.3` - 2022-03-08**
+
+- Ultramarine patch: more obvious terminal selection
+
 **`1.9.2` - 2022-02-22**
 
 - Ultramarine patch

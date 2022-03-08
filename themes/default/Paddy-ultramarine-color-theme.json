@@ -72,7 +72,7 @@
     "terminal.ansiBrightWhite": "#fae8e0",
     "terminal.ansiYellow": "#bb8f18",
     "terminal.ansiBrightYellow": "#ffd518",
-    "terminal.selectionBackground": "#3067ff2d",
+    "terminal.selectionBackground": "#3067ff7c",
     "terminalCursor.background": "#3067ff55",
     "terminalCursor.foreground": "#3067ff",
     "focusBorder": "#3067ff",
