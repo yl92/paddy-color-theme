@@ -18,7 +18,6 @@
     "editorIndentGuide.background": "#ca8c2e3a",
     "editorIndentGuide.activeBackground": "#cc67087e",
     "icon.foreground": "#276950",
-    // "symbolIcon.keyForeground": "#038033",
     "editorError.foreground": "#ff3747",
     "editorWarning.foreground": "#ff9447",
     "editorInfo.foreground": "#68abc0",
@@ -209,6 +208,12 @@
     "editorGutter.deletedBackground": "#da6361",
     "editorGutter.commentRangeForeground": "#b8a79b",
     "gitlens.trailingLineForegroundColor": "#c7a375",
+    "editorInlayHint.background": "#bb806122",
+    "editorInlayHint.foreground": "#bb8061",
+    "editorInlayHint.typeBackground": "#c39c6b33",
+    "editorInlayHint.typeForeground": "#c18e4f",
+    "editorInlayHint.parameterBackground": "#58896325",
+    "editorInlayHint.parameterForeground": "#588962",
     "editorBracketHighlight.foreground1": "#926d3c",
     "editorBracketHighlight.foreground2": "#6a861d",
     "editorBracketHighlight.foreground3": "#db5e38",
@@ -1657,7 +1662,7 @@
         "markup.changed"
       ],
       "settings": {
-        "foreground": "#72349b"
+        "foreground": "#764795"
       }
     },
     {
@@ -1666,7 +1671,7 @@
         "string.regexp"
       ],
       "settings": {
-        "foreground": "#e42ebc"
+        "foreground": "#c842ab"
       }
     },
     {
@@ -1675,7 +1680,7 @@
         "string.regexp punctuation"
       ],
       "settings": {
-        "foreground": "#7341e7"
+        "foreground": "#7c59d0"
       }
     },
     {
@@ -1684,7 +1689,7 @@
         "keyword.control.anchor.regexp"
       ],
       "settings": {
-        "foreground": "#07af93"
+        "foreground": "#27a08c"
       }
     },
     {
@@ -1693,7 +1698,7 @@
         "constant.character.numeric.regexp"
       ],
       "settings": {
-        "foreground": "#e07aaa"
+        "foreground": "#c581a0"
       }
     },
     {
@@ -1702,7 +1707,7 @@
         "constant.character.escape.backslash.regexp"
       ],
       "settings": {
-        "foreground": "#9e58df"
+        "foreground": "#8d5bbb"
       }
     },
     {
@@ -1712,7 +1717,7 @@
         "string.regexp keyword.operator"
       ],
       "settings": {
-        "foreground": "#745cff"
+        "foreground": "#6d5ec4"
       }
     },
     {

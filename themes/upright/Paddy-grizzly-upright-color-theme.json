@@ -89,7 +89,8 @@
     "selection.background": "#86434399",
     "button.background": "#ff9029",
     "button.foreground": "#362222",
-    "checkbox.background": "#75381e",
+    "checkbox.background": "#201612",
+    "checkbox.foreground": "#ff9029",
     "checkbox.border": "#fc913f38",
     "dropdown.background": "#201612",
     "dropdown.foreground": "#f1bc94",
@@ -153,7 +154,6 @@
     "settings.modifiedItemIndicator": "#ff9029",
     "settings.focusedRowBackground": "#fd9b401f",
     "settings.focusedRowBorder": "#fd9b401a",
-    // "notebook.cellToolbarSeparator": "#fd9b4036",
     "pickerGroup.foreground": "#ff9029",
     "pickerGroup.border": "#fc913f38",
     "menu.background": "#140c09",
@@ -197,6 +197,12 @@
     "editorGutter.modifiedBackground": "#36a062",
     "editorGutter.deletedBackground": "#9e5857",
     "editorGutter.commentRangeForeground": "#866e5d",
+    "editorInlayHint.background": "#32201e",
+    "editorInlayHint.foreground": "#966e64",
+    "editorInlayHint.typeBackground": "#281f17",
+    "editorInlayHint.typeForeground": "#ae7e3b",
+    "editorInlayHint.parameterBackground": "#382525",
+    "editorInlayHint.parameterForeground": "#bc6d43",
     "editorBracketHighlight.foreground1": "#926d3c",
     "editorBracketHighlight.foreground2": "#cf764c",
     "editorBracketHighlight.foreground3": "#9ca546",
@@ -886,7 +892,7 @@
         "keyword.other.special-method",
       ],
       "settings": {
-        "foreground": "#da492f"
+        "foreground": "#e4573e"
       }
     },
     {
@@ -991,7 +997,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#89b188"
+        "foreground": "#adbd8b"
       }
     },
     {

@@ -89,8 +89,8 @@
     "button.secondaryBackground": "#e0c69f",
     "button.secondaryForeground": "#2b2928",
     "button.secondaryHoverBackground": "#f3dab4",
-    "checkbox.background": "#eba74e",
-    "checkbox.foreground": "#42342c",
+    "checkbox.background": "#42342c",
+    "checkbox.foreground": "#eba74e",
     "checkbox.border": "#f5dcbc33",
     "dropdown.background": "#42342c",
     "dropdown.foreground": "#f5dcbc",
@@ -200,6 +200,12 @@
     "editorGutter.modifiedBackground": "#7ac5af83",
     "editorGutter.deletedBackground": "#9e5857",
     "editorGutter.commentRangeForeground": "#756e69",
+    "editorInlayHint.background": "#544232",
+    "editorInlayHint.foreground": "#9a7a69",
+    "editorInlayHint.typeBackground": "#4b3e34",
+    "editorInlayHint.typeForeground": "#bb9553",
+    "editorInlayHint.parameterBackground": "#5a433b",
+    "editorInlayHint.parameterForeground": "#c38a3f",
     "editorBracketHighlight.foreground1": "#b8986f",
     "editorBracketHighlight.foreground2": "#df7c64",
     "editorBracketHighlight.foreground3": "#ecc761",
@@ -889,7 +895,7 @@
         "keyword.other.special-method",
       ],
       "settings": {
-        "foreground": "#ff7b3e"
+        "foreground": "#f3814c"
       }
     },
     {
@@ -923,7 +929,7 @@
         "meta.function-call support.function",
       ],
       "settings": {
-        "foreground": "#f77b4a"
+        "foreground": "#ed8257"
       }
     },
     {

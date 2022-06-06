@@ -30,7 +30,7 @@
     "tab.activeBorderTop": "#c7e9cc59",
     "editorGroupHeader.tabsBackground": "#0e1313",
     "activityBar.background": "#0e1313",
-    "activityBar.foreground": "#cfb5a9",
+    "activityBar.foreground": "#9f8255",
     "activityBar.border": "#cfb5a91c",
     "activityBar.inactiveForeground": "#cfb5a977",
     "activityBarBadge.background": "#123525",
@@ -185,6 +185,12 @@
     "editorGutter.modifiedBackground": "#145e4b",
     "editorGutter.deletedBackground": "#8b4846",
     "editorGutter.commentRangeForeground": "#57514d",
+    "editorInlayHint.background": "#19211d",
+    "editorInlayHint.foreground": "#4d6643",
+    "editorInlayHint.typeBackground": "#281f17",
+    "editorInlayHint.typeForeground": "#8d6b3b",
+    "editorInlayHint.parameterBackground": "#2b1a1a",
+    "editorInlayHint.parameterForeground": "#a36c4f",
     "editorBracketHighlight.foreground1": "#926d3c",
     "editorBracketHighlight.foreground2": "#cf6b6b",
     "editorBracketHighlight.foreground3": "#9ca546",
@@ -372,7 +378,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f3620e"
+        "foreground": "#e66f2a"
       }
     },
     {
@@ -531,7 +537,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#018f48"
+        "foreground": "#14854c"
       }
     },
     {
@@ -541,7 +547,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#db523a"
+        "foreground": "#cc586d"
       }
     },
     {
@@ -874,7 +880,7 @@
         "keyword.other.special-method",
       ],
       "settings": {
-        "foreground": "#c2502e"
+        "foreground": "#ba5b3d"
       }
     },
     {
@@ -900,7 +906,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#c2502e"
+        "foreground": "#be5a3b"
       }
     },
     {
@@ -1226,7 +1232,7 @@
       ],
       "settings": {
         "fontStyle": "italic underline",
-        "foreground": "#9c5d0b"
+        "foreground": "#95621f"
       }
     },
     {

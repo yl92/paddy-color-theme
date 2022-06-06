@@ -1,3 +1,9 @@
+**`1.9.4` - 2022-06-07**
+
+- Colors for inlay hints
+- Reducing saturation of some tokens
+- Other minor adjustments
+  
 **`1.9.3` - 2022-03-08**
 
 - Ultramarine patch: more obvious terminal selection
