@@ -4,7 +4,6 @@
   "colors": {
     "foreground": "#e4c2a9",
     "editorCodeLens.foreground": "#f1d5c0",
-    // "contrastBorder": "#5bcfb22f",
     "editor.background": "#242d33",
     "editor.foreground": "#e4c2a9",
     "editorCursor.background": "#CC5C3A55",
@@ -192,6 +191,12 @@
     "editorGutter.modifiedBackground": "#145e4b",
     "editorGutter.deletedBackground": "#c2605e",
     "editorGutter.commentRangeForeground": "#57514d",
+    "editorInlayHint.background": "#2f3c3b",
+    "editorInlayHint.foreground": "#55796b",
+    "editorInlayHint.typeBackground": "#53493f",
+    "editorInlayHint.typeForeground": "#a48354",
+    "editorInlayHint.parameterBackground": "#413434",
+    "editorInlayHint.parameterForeground": "#b87f60",
     "editorBracketHighlight.foreground1": "#967953",
     "editorBracketHighlight.foreground2": "#dd745a",
     "editorBracketHighlight.foreground3": "#bec95f",
@@ -881,7 +886,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#cc5c3a"
+        "foreground": "#c76749"
       }
     },
     {
@@ -907,7 +912,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#cc5c3a"
+        "foreground": "#c0664a"
       }
     },
     {

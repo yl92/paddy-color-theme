@@ -192,6 +192,12 @@
     "editorGutter.modifiedBackground": "#202975",
     "editorGutter.deletedBackground": "#cf5076",
     "editorGutter.commentRangeForeground": "#494e5a",
+    "editorInlayHint.background": "#202244",
+    "editorInlayHint.foreground": "#737aab",
+    "editorInlayHint.typeBackground": "#281f17",
+    "editorInlayHint.typeForeground": "#b47f54",
+    "editorInlayHint.parameterBackground": "#202244",
+    "editorInlayHint.parameterForeground": "#4e5cb8",
     "editorBracketHighlight.foreground1": "#b18a57",
     "editorBracketHighlight.foreground2": "#3e50f3",
     "editorBracketHighlight.foreground3": "#5993a5",
@@ -881,7 +887,7 @@
         "keyword.other.special-method",
       ],
       "settings": {
-        "foreground": "#e04d4d"
+        "foreground": "#d85757"
       }
     },
     {
@@ -907,7 +913,7 @@
       ],
       "settings": {
         
-        "foreground": "#e24242"
+        "foreground": "#d64d4d"
       }
     },
     {
