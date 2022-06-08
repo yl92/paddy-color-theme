@@ -62,10 +62,10 @@
     "terminal.foreground": "#dab89d",
     "terminal.ansiBlack": "#3d3735",
     "terminal.ansiBrightBlack": "#504d47",
-    "terminal.ansiBlue": "#276ac2",
-    "terminal.ansiBrightBlue": "#50a9fd",
-    "terminal.ansiCyan": "#04c4a4",
-    "terminal.ansiBrightCyan": "#28f5d3",
+    "terminal.ansiBlue": "#3a76c4",
+    "terminal.ansiBrightBlue": "#65b4ff",
+    "terminal.ansiCyan": "#34b6a0",
+    "terminal.ansiBrightCyan": "#69f7df",
     "terminal.ansiGreen": "#05a829",
     "terminal.ansiBrightGreen": "#2ddd68",
     "terminal.ansiMagenta": "#e0024c",
@@ -884,7 +884,7 @@
         "keyword.other.special-method",
       ],
       "settings": {
-        "foreground": "#d35028"
+        "foreground": "#cc5531"
       }
     },
     {
@@ -910,7 +910,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#de643f"
+        "foreground": "#cf5c39"
       }
     },
     {
@@ -919,7 +919,7 @@
         "meta.function-call support.function",
       ],
       "settings": {
-        "foreground": "#d76542"
+        "foreground": "#cc6444"
       }
     },
     {

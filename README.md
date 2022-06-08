@@ -18,7 +18,6 @@
 &NewLine;
 
 > The themes italicize action-like tokens such as functions and control keywords, as well as type annotations. 
-> 
 > For each theme there is an accompanying "Upright" version without italics.
 
 ---
