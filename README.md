@@ -2,18 +2,16 @@
 
 **A set of color themes with earthy tones for all ye badass hackers. 🍁**
 
-| Darker Themes                  | Colorful Darks     | Low Contrast    | Light Themes  |
-| ------------------------------ | ------------------ | --------------- | ------------- |
-| 🪓`Dark`                        | 🖋 `Inkstone`       | 🌄 `Haze`        | 🌞 `Light`     |
-| 🌊 `Ultramarine` <sup>New</sup> | 🎼 `Leipzig`        | 🌥 `Mist`        | 🍵 `Genmaicha` |
-| 🚧 `Black`                      | λ&nbsp;  `Citadel` | 🎮 `Yesterday`   | 🍷 `Crimson`   |
-| 🐺 `Wolf`                       | 🔵 `Neptune`        | 🏜 `Ornithopter` | ❄️ `Frost`     |
-|                                | 🌸 `Floresta`       | 🤖 `Machine`     |               |
-|                                | 🧧 `Ox`             |                 |               |
-|                                | 🐻 `Grizzly`        |                 |               |
-|                                | 🌲 `Emerald`        |                 |               |
-|                                | 🌿 `Eucalyptus`     |                 |               |
-|                                | 🍆 `Eggplant`       |                 |               |
+| Dark Themes                | More Darks         | Lower Contrast  | Light Themes  |
+| -------------------------- | ------------------ | --------------- | ------------- |
+| 🪓`Dark`                    | 🌿 `Eucalyptus`     | 🌄 `Haze`        | 🌞 `Light`     |
+| 🌊 `Ultramarine`            | λ&nbsp;  `Citadel` | 🌥 `Mist`        | 🍵 `Genmaicha` |
+| 🚧 `Black`                  | 🔵 `Neptune`        | 🎮 `Yesterday`   | 🍷 `Crimson`   |
+| 🐺 `Wolf`                   | 🍆 `Eggplant`       | 🏜 `Ornithopter` | ❄️ `Frost`     |
+| 💡 `Firefly` <sup>New</sup> | 🌲 `Emerald`        | 🤖 `Machine`     |               |
+| 🖋 `Inkstone`               | 🧧 `Ox`             |                 |               |
+| 🌸 `Floresta`               | 🐻 `Grizzly`        |                 |               |
+| 🎼 `Leipzig`                |                    |                 |               |
 
 &NewLine;
 

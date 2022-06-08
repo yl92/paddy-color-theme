@@ -1,6 +1,7 @@
 **`1.10.0` - 2022-06-08**
 
-- Minor fixes 
+- New theme "Firefly"
+- Minor fixes
 
 **`1.9.4` - 2022-06-07**
 

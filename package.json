@@ -162,6 +162,12 @@
 				"path": "./themes/default/Paddy-mist-color-theme.json"
 			},
 			{
+				"id": "paddy-firefly",
+				"label": "P. \\ Firefly",
+				"uiTheme": "vs-dark",
+				"path": "./themes/default/Paddy-firefly-color-theme.json"
+			},
+			{
 				"id": "paddy-yesterday",
 				"label": "P. \\ Yesterday",
 				"uiTheme": "vs-dark",
@@ -298,6 +304,12 @@
 				"label": "P. Upright \\ Mist",
 				"uiTheme": "vs-dark",
 				"path": "./themes/upright/Paddy-mist-upright-color-theme.json"
+			},
+			{
+				"id": "paddy-firefly-upright",
+				"label": "P. Upright \\ Firefly",
+				"uiTheme": "vs-dark",
+				"path": "./themes/upright/Paddy-firefly-upright-color-theme.json"
 			},
 			{
 				"id": "paddy-yesterday-upright",

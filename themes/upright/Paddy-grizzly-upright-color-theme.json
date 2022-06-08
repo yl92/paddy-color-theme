@@ -892,7 +892,7 @@
         "keyword.other.special-method",
       ],
       "settings": {
-        "foreground": "#e4573e"
+        "foreground": "#dd5d46"
       }
     },
     {
@@ -918,7 +918,7 @@
       ],
       "settings": {
         
-        "foreground": "#da492f"
+        "foreground": "#d8563f"
       }
     },
     {
@@ -927,7 +927,7 @@
         "meta.function-call support.function",
       ],
       "settings": {
-        "foreground": "#ff6739"
+        "foreground": "#e96a43"
       }
     },
     {
