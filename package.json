@@ -162,10 +162,10 @@
 				"path": "./themes/default/Paddy-mist-color-theme.json"
 			},
 			{
-				"id": "paddy-firefly",
-				"label": "P. \\ Firefly",
+				"id": "paddy-terabyte",
+				"label": "P. \\ Terabyte",
 				"uiTheme": "vs-dark",
-				"path": "./themes/default/Paddy-firefly-color-theme.json"
+				"path": "./themes/default/Paddy-terabyte-color-theme.json"
 			},
 			{
 				"id": "paddy-yesterday",
@@ -306,10 +306,10 @@
 				"path": "./themes/upright/Paddy-mist-upright-color-theme.json"
 			},
 			{
-				"id": "paddy-firefly-upright",
-				"label": "P. Upright \\ Firefly",
+				"id": "paddy-terabyte-upright",
+				"label": "P. Upright \\ Terabyte",
 				"uiTheme": "vs-dark",
-				"path": "./themes/upright/Paddy-firefly-upright-color-theme.json"
+				"path": "./themes/upright/Paddy-terabyte-upright-color-theme.json"
 			},
 			{
 				"id": "paddy-yesterday-upright",
