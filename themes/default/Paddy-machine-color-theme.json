@@ -216,7 +216,6 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#7c7268"
       }
     },

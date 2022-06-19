@@ -215,7 +215,6 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        
         "foreground": "#494e58"
       }
     },
@@ -1822,7 +1821,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#ad4120"
+        "foreground": "#ce6d4f"
       }
     },
     {

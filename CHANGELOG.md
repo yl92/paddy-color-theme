@@ -1,7 +1,7 @@
-**`1.10.0` - 2022-06-08**
+**`1.10.0` - 2022-06-19**
 
-- New theme "Firefly"
-- Minor fixes
+- New theme "Terabyte"
+- Adjustments for multiple themes
 
 **`1.9.4` - 2022-06-07**
 
