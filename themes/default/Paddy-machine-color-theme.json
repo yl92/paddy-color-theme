@@ -84,6 +84,8 @@
     "selection.background": "#86434399",
     "button.background": "#ff9029",
     "button.foreground": "#46403d",
+    "button.secondaryBackground": "#51504e",
+    "button.secondaryForeground": "#ffffff",
     "checkbox.background": "#555555",
     "checkbox.border": "#f7dbc538",
     "dropdown.background": "#393837",
@@ -214,7 +216,6 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#7c7268"
       }
     },

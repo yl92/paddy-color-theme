@@ -68,20 +68,20 @@
     "terminal.foreground": "#e7b07d",
     "terminal.ansiBlack": "#3d3735",
     "terminal.ansiBrightBlack": "#504d47",
-    "terminal.ansiBlue": "#4473af",
-    "terminal.ansiBrightBlue": "#66bee7",
-    "terminal.ansiCyan": "#46b983",
-    "terminal.ansiBrightCyan": "#7be6b1",
-    "terminal.ansiGreen": "#4caf1d",
-    "terminal.ansiBrightGreen": "#59d833",
-    "terminal.ansiMagenta": "#e02d69",
-    "terminal.ansiBrightMagenta": "#fc4e88",
-    "terminal.ansiRed": "#e93922",
-    "terminal.ansiBrightRed": "#fc442c",
+    "terminal.ansiBlue": "#5477a5",
+    "terminal.ansiBrightBlue": "#6fb2d1",
+    "terminal.ansiCyan": "#549878",
+    "terminal.ansiBrightCyan": "#7bc09d",
+    "terminal.ansiGreen": "#6ea03d",
+    "terminal.ansiBrightGreen": "#8ac255",
+    "terminal.ansiMagenta": "#ae5975",
+    "terminal.ansiBrightMagenta": "#d66c8f",
+    "terminal.ansiRed": "#ad5145",
+    "terminal.ansiBrightRed": "#e35e4d",
     "terminal.ansiWhite": "#fae5d6",
     "terminal.ansiBrightWhite": "#fff2ec",
-    "terminal.ansiYellow": "#d69637",
-    "terminal.ansiBrightYellow": "#ffba3a",
+    "terminal.ansiYellow": "#b88f51",
+    "terminal.ansiBrightYellow": "#e8b455",
     "terminal.selectionBackground": "#eb08004b",
     "terminalCursor.background": "#f0601e7a",
     "terminalCursor.foreground": "#f0601e",
@@ -223,7 +223,6 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        
         "foreground": "#74563e"
       }
     },
@@ -1830,7 +1829,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#ad4120"
+        "foreground": "#ce6d4f"
       }
     },
     {

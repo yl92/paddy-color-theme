@@ -2,24 +2,28 @@
 
 **A set of color themes with earthy tones for all ye badass hackers. 🍁**
 
-| Darker Themes                  | Colorful Darks     | Low Contrast    | Light Themes  |
-| ------------------------------ | ------------------ | --------------- | ------------- |
-| 🪓`Dark`                        | 🖋 `Inkstone`       | 🌄 `Haze`        | 🌞 `Light`     |
-| 🌊 `Ultramarine` <sup>New</sup> | 🎼 `Leipzig`        | 🌥 `Mist`        | 🍵 `Genmaicha` |
-| 🚧 `Black`                      | λ&nbsp;  `Citadel` | 🎮 `Yesterday`   | 🍷 `Crimson`   |
-| 🐺 `Wolf`                       | 🔵 `Neptune`        | 🏜 `Ornithopter` | ❄️ `Frost`     |
-|                                | 🌸 `Floresta`       | 🤖 `Machine`     |               |
-|                                | 🧧 `Ox`             |                 |               |
-|                                | 🐻 `Grizzly`        |                 |               |
-|                                | 🌲 `Emerald`        |                 |               |
-|                                | 🌿 `Eucalyptus`     |                 |               |
-|                                | 🍆 `Eggplant`       |                 |               |
+| Dark Themes                 | More Darks         | Lower Contrast  | Light Themes  |
+| --------------------------- | ------------------ | --------------- | ------------- |
+| 🪓`Dark`                     | 🌿 `Eucalyptus`     | 🌄 `Haze`        | 🌞 `Light`     |
+| 🌊 `Ultramarine`             | λ&nbsp;  `Citadel` | 🌥 `Mist`        | 🍵 `Genmaicha` |
+| 🚧 `Black`                   | 🔵 `Neptune`        | 🎮 `Yesterday`   | 🍷 `Crimson`   |
+| 🐺 `Wolf`                    | 🍆 `Eggplant`       | 🏜 `Ornithopter` | ❄️ `Frost`     |
+| 📟 `Terabyte` <sup>New</sup> | 🌲 `Emerald`        | 🤖 `Machine`     |               |
+| 🖋 `Inkstone`                | 🧧 `Ox`             |                 |               |
+| 🌸 `Floresta`                | 🐻 `Grizzly`        |                 |               |
+| 🎼 `Leipzig`                 |                    |                 |               |
 
 &NewLine;
 
 > The themes italicize action-like tokens such as functions and control keywords, as well as type annotations. 
-> 
 > For each theme there is an accompanying "Upright" version without italics.
+
+---
+
+**Paid font recommendations (Not affiliated)**
+
+→ [[PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)] 
+→ [[The Future Mono](https://klim.co.nz/retail-fonts/the-future-mono/)] 
 
 ---
 
@@ -37,15 +41,10 @@
 
 ---
 
-**Best paid font I've found so far (not affiliated)**
 
-→ [[PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)] 
+**Author**
 
----
-
-**Author:**
-
-Yile Ou  
+Yile Ou
 
 → [Website](https://yile.art/)<br />
 → [Twitter](https://twitter.com/yile_art)

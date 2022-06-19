@@ -1,3 +1,8 @@
+**`1.10.0` - 2022-06-19**
+
+- New theme "Terabyte"
+- Adjustments for multiple themes
+
 **`1.9.4` - 2022-06-07**
 
 - Colors for inlay hints

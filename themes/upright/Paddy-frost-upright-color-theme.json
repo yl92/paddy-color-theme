@@ -2,10 +2,10 @@
   "name": "P. Upright \\ Frost",
   "type": "light",
   "colors": {
-    "foreground": "#08291c",
+    "foreground": "#186554",
     "editorCodeLens.foreground": "#155239",
     "editor.background": "#ffffff",
-    "editor.foreground": "#08291c",
+    "editor.foreground": "#186554",
     "editorCursor.background": "#059b2a55",
     "editorCursor.foreground": "#07ad3f",
     "editor.selectionBackground": "#badfd156",
@@ -22,9 +22,9 @@
     "editorInfo.foreground": "#72bdb4",
     "editorHint.foreground": "#58be4a",
     "titleBar.activeBackground": "#f6faf9",
-    "titleBar.activeForeground": "#08291c",
+    "titleBar.activeForeground": "#186554",
     "titleBar.inactiveBackground": "#f6faf9",
-    "titleBar.inactiveForeground": "#08291c99",
+    "titleBar.inactiveForeground": "#18655499",
     "tab.border": "#0000",
     "tab.inactiveBackground": "#f6faf9",
     "tab.inactiveForeground": "#083b2d79",
@@ -42,9 +42,10 @@
     "sideBar.foreground": "#203123",
     "sideBarTitle.foreground": "#203123",
     "sideBarSectionHeader.background": "#e3f0ee",
+    "sideBarSectionHeader.foreground": "#186554",
     "sideBarSectionHeader.border": "#0000",
     "statusBar.background": "#d3e4e1",
-    "statusBar.foreground": "#1b1a1a",
+    "statusBar.foreground": "#186554",
     "statusBar.border": "#86bda13f",
     "statusBar.debuggingBackground": "#dfa168",
     "statusBar.noFolderBackground": "#d3e4e1",
@@ -57,7 +58,7 @@
     "panelTitle.activeForeground": "#098a3a",
     "panelTitle.inactiveForeground": "#8f9797",
     "terminal.background": "#f6faf8",
-    "terminal.foreground": "#08291c",
+    "terminal.foreground": "#186554",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBrightBlack": "#5c5442",
     "terminal.ansiBlue": "#3465a5",
@@ -104,7 +105,7 @@
     "diffEditor.insertedTextBorder": "#3bab8808",
     "diffEditor.removedTextBackground": "#f120202a",
     "diffEditor.removedTextBorder": "#f1202008",
-    "diffEditor.diagonalFill": "#08291c19",
+    "diffEditor.diagonalFill": "#18655419",
     "debugIcon.breakpointForeground": "#ff5420",
     "editorWidget.background": "#ffffff",
     "editorWidget.foreground": "#050e0e",
@@ -220,7 +221,6 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        
         "foreground": "#a8b3b0"
       }
     },
@@ -265,7 +265,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#08291c"
+        "foreground": "#186554"
       }
     },
     {
@@ -1466,7 +1466,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#08291c"
+        "foreground": "#186554"
       }
     },
     {

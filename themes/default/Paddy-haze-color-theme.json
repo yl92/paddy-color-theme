@@ -2,9 +2,9 @@
   "name": "P. \\ Haze",
   "type": "dark",
   "colors": {
-    "foreground": "#fffbfa",
-    "editorCodeLens.foreground": "#ffeae4",
+    "foreground": "#aaecf4",
     "icon.foreground": "#80dfec",
+    "editorCodeLens.foreground": "#ffeae4",
     "editor.background": "#5b405b",
     "editor.foreground": "#e4cbc4",
     "editorCursor.background": "#80dfec55",
@@ -40,11 +40,12 @@
     "sideBar.background": "#5b405b",
     "sideBar.border": "#6cd6fa33",
     "sideBar.foreground": "#fffbfa",
-    "sideBarTitle.foreground": "#fffbfa",
+    "sideBarTitle.foreground": "#80dfec",
     "sideBarSectionHeader.background": "#5b405b",
+    "sideBarSectionHeader.foreground": "#80dfec",
     "sideBarSectionHeader.border": "#6cd6fa33",
     "statusBar.background": "#5b405b",
-    "statusBar.foreground": "#fffbfa",
+    "statusBar.foreground": "#80dfec",
     "statusBar.border": "#6cd6fa33",
     "statusBar.debuggingBackground": "#bd325b",
     "statusBar.noFolderBackground": "#5b405b",
@@ -146,7 +147,7 @@
     "peekViewResult.lineForeground": "#fffbfaa6",
     "editorGroup.border": "#6cd6fa33",
     "editorGroup.dropBackground": "#80dfec15",
-    "settings.headerForeground": "#e7d4cb",
+    "settings.headerForeground": "#caf7fc",
     "settings.modifiedItemIndicator": "#80dfec",
     "pickerGroup.foreground": "#80dfec",
     "pickerGroup.border": "#6cd6fa33",
@@ -215,7 +216,6 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#af95b6"
       }
     },
@@ -1828,7 +1828,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#ad4120"
+        "foreground": "#ce6d4f"
       }
     },
     {

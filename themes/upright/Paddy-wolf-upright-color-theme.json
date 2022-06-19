@@ -190,8 +190,8 @@
     "editorGutter.commentRangeForeground": "#57514d",
     "editorInlayHint.background": "#3b3532",
     "editorInlayHint.foreground": "#928976",
-    // "editorInlayHint.typeBackground": "#362e28",
-    // "editorInlayHint.typeForeground": "#a78659",
+    "editorInlayHint.typeBackground": "#362e28",
+    "editorInlayHint.typeForeground": "#a78659",
     "editorInlayHint.parameterBackground": "#403028",
     "editorInlayHint.parameterForeground": "#b37856",
     "editorBracketHighlight.foreground1": "#b8986f",
@@ -210,7 +210,6 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        
         "foreground": "#5a554f"
       }
     },
@@ -1817,7 +1816,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#ad4120"
+        "foreground": "#ce6d4f"
       }
     },
     {

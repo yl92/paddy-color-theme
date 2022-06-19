@@ -219,7 +219,6 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#755648"
       }
     },
@@ -892,7 +891,7 @@
         "keyword.other.special-method",
       ],
       "settings": {
-        "foreground": "#e4573e"
+        "foreground": "#dd5d46"
       }
     },
     {
@@ -918,7 +917,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#da492f"
+        "foreground": "#d8563f"
       }
     },
     {
@@ -927,7 +926,7 @@
         "meta.function-call support.function",
       ],
       "settings": {
-        "foreground": "#ff6739"
+        "foreground": "#e96a43"
       }
     },
     {
@@ -1826,7 +1825,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#ad4120"
+        "foreground": "#ce6d4f"
       }
     },
     {

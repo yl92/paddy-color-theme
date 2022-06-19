@@ -2,7 +2,7 @@
 	"name": "paddy-color-theme",
 	"displayName": "Paddy Color Theme",
 	"description": "A set of very detailed color themes with earthy tones for all ye badass hackers. 🎄🍁🪓",
-	"version": "1.9.4",
+	"version": "1.10.0",
 	"publisher": "yile-ou",
 	"author": {
 		"name": "Yile Ou",
@@ -162,6 +162,12 @@
 				"path": "./themes/default/Paddy-mist-color-theme.json"
 			},
 			{
+				"id": "paddy-terabyte",
+				"label": "P. \\ Terabyte",
+				"uiTheme": "vs-dark",
+				"path": "./themes/default/Paddy-terabyte-color-theme.json"
+			},
+			{
 				"id": "paddy-yesterday",
 				"label": "P. \\ Yesterday",
 				"uiTheme": "vs-dark",
@@ -298,6 +304,12 @@
 				"label": "P. Upright \\ Mist",
 				"uiTheme": "vs-dark",
 				"path": "./themes/upright/Paddy-mist-upright-color-theme.json"
+			},
+			{
+				"id": "paddy-terabyte-upright",
+				"label": "P. Upright \\ Terabyte",
+				"uiTheme": "vs-dark",
+				"path": "./themes/upright/Paddy-terabyte-upright-color-theme.json"
 			},
 			{
 				"id": "paddy-yesterday-upright",
