@@ -82,7 +82,7 @@
     "descriptionForeground": "#e6d4b298",
     "widget.shadow": "#0d1817",
     "selection.background": "#63c88899",
-    "button.background": "#63c888af",
+    "button.background": "#63c888",
     "button.foreground": "#0d1817",
     "button.secondaryBackground": "#0f2529",
     "button.secondaryForeground": "#ffffff",
@@ -515,7 +515,7 @@
         "keyword.control.conditional",
       ],
       "settings": {
-        "foreground": "#76b15b"
+        "foreground": "#5cde97"
       }
     },
     {
