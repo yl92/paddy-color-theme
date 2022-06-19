@@ -28,7 +28,7 @@
 
 ---
 
-**Quality free fonts**
+**Free font recommendations**
 
 → **IBM Plex Mono**: [[Official Site](https://www.ibm.com/plex/)] • [[Google Fonts](https://fonts.google.com/specimen/IBM+Plex+Mono)]
 
