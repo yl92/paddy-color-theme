@@ -23,6 +23,7 @@
 **Paid font recommendations (Not affiliated)**
 
 → [[PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)] 
+
 → [[The Future Mono](https://klim.co.nz/retail-fonts/the-future-mono/)] 
 
 ---

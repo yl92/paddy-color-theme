@@ -1,12 +1,12 @@
-1 Dark
-2 Mist
-3 Yesterday
-4 Emerald
-5 Eggplant
-6 Light
-7 Neptune
-8 Frost
-9 Machine
+ 1 Dark
+ 2 Mist
+ 3 Yesterday
+ 4 Emerald
+ 5 Eggplant
+ 6 Light
+ 7 Neptune
+ 8 Frost
+ 9 Machine
 10 Wolf
 11 Black
 12 Inkstone
@@ -21,7 +21,4 @@
 21 Genmaicha
 22 Ornithopter
 23 Ultramarine
-24
-
-- teal + magenta
-- Pink
+24 Terabyte
