@@ -38,9 +38,10 @@
     "activityBarBadge.foreground": "#23282a",
     "sideBar.background": "#23282a",
     "sideBar.border": "#5bcfb22f",
-    "sideBar.foreground": "#b8977d",
+    "sideBar.foreground": "#b8887d",
     "sideBarTitle.foreground": "#f08564",
     "sideBarSectionHeader.background": "#23282a",
+    "sideBarSectionHeader.foreground": "#f08564",
     "sideBarSectionHeader.border": "#5bcfb22f",
     "statusBar.background": "#23282a",
     "statusBar.foreground": "#f08564",
@@ -110,7 +111,7 @@
     "editorLightBulbAutoFix.foreground": "#6ac292",
     "debugIcon.breakpointForeground": "#f08564",
     "editorWidget.background": "#23282a",
-    "editorWidget.foreground": "#f08564",
+    "editorWidget.foreground": "#f3997d",
     "editorWidget.border": "#5bcfb22f",
     "editorHoverWidget.border": "#5bcfb22f",
     "editorLink.activeForeground": "#ffcea4",
@@ -267,7 +268,7 @@
         "meta.object-literal.key",
       ],
       "settings": {
-        "foreground": "#c0a085"
+        "foreground": "#ca8f80"
       }
     },
     {
@@ -384,7 +385,7 @@
       ],
       "settings": {
         
-        "foreground": "#ff701d"
+        "foreground": "#ff9b61"
       }
     },
     {
