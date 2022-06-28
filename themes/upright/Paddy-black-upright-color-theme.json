@@ -131,6 +131,10 @@
     "editorSuggestWidget.foreground": "#f5dcbc",
     "editorSuggestWidget.selectedBackground": "#ffbb0033",
     "editorSuggestWidget.highlightForeground": "#ffbb00",
+    "keybindingLabel.background": "#262626",
+    "keybindingLabel.foreground": "#ffbb00",
+    "keybindingLabel.border": "#ffbb0033",
+    "keybindingLabel.bottomBorder": "#ffbb0033",
     "minimap.findMatchHighlight": "#ffbb002a",
     "minimap.selectionHighlight": "#ffbb002a",
     "merge.incomingHeaderBackground": "#da65214b",
@@ -790,7 +794,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#eb9635"
+        "foreground": "#eca24d"
       }
     },
     {
@@ -886,7 +890,7 @@
         "keyword.other.special-method",
       ],
       "settings": {
-        "foreground": "#f57b34"
+        "foreground": "#ed7e3d"
       }
     },
     {
@@ -920,7 +924,7 @@
         "meta.function-call support.function",
       ],
       "settings": {
-        "foreground": "#f0713f"
+        "foreground": "#e67346"
       }
     },
     {

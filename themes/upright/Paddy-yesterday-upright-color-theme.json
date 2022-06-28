@@ -111,7 +111,7 @@
     "editorLightBulbAutoFix.foreground": "#6ac292",
     "debugIcon.breakpointForeground": "#f08564",
     "editorWidget.background": "#23282a",
-    "editorWidget.foreground": "#f3997d",
+    "editorWidget.foreground": "#e5a38f",
     "editorWidget.border": "#5bcfb22f",
     "editorHoverWidget.border": "#5bcfb22f",
     "editorLink.activeForeground": "#ffcea4",
@@ -132,6 +132,10 @@
     "editorSuggestWidget.border": "#5bcfb22f",
     "editorSuggestWidget.selectedBackground": "#f0856433",
     "editorSuggestWidget.highlightForeground": "#f08564",
+    "keybindingLabel.background": "#2e3436",
+    "keybindingLabel.foreground": "#f08564",
+    "keybindingLabel.border": "#fbbba733",
+    "keybindingLabel.bottomBorder": "#fbbba733",
     "minimap.findMatchHighlight": "#31925d2a",
     "minimap.selectionHighlight": "#31925d2a",
     "merge.incomingHeaderBackground": "#da65214b",
@@ -325,7 +329,7 @@
       ],
       "settings": {
         
-        "foreground": "#d4735a"
+        "foreground": "#b67261"
       }
     },
     {
@@ -791,7 +795,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#dd7e56"
+        "foreground": "#d29c6c"
       }
     },
     {

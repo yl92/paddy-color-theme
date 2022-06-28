@@ -84,8 +84,8 @@
     "selection.background": "#63c88899",
     "button.background": "#63c888",
     "button.foreground": "#0d1817",
-    "button.secondaryBackground": "#0f2529",
-    "button.secondaryForeground": "#ffffff",
+    "button.secondaryBackground": "#173733",
+    "button.secondaryForeground": "#63c888",
     "checkbox.background": "#0d1817",
     "checkbox.foreground": "#88ecbd",
     "checkbox.border": "#354e47",
@@ -111,10 +111,10 @@
     "diffEditor.diagonalFill": "#63c88825",
     "debugIcon.breakpointForeground": "#d8571b",
     "editorWidget.background": "#0d201d",
-    "editorWidget.foreground": "#82d6a1",
+    "editorWidget.foreground": "#69b786",
+    "editorWidget.border": "#63c88855",
     "editorLightBulb.foreground": "#ffbb00",
     "editorLightBulbAutoFix.foreground": "#60d4c1",
-    "editorWidget.border": "#63c88855",
     "editorLink.activeForeground": "#b7ffde",
     "textLink.activeForeground": "#e3fff3",
     "textLink.foreground": "#b7ffde",
@@ -129,9 +129,14 @@
     "editor.lineHighlightBorder": "#0000",
     "editorLineNumber.activeForeground": "#63c888",
     "editorLineNumber.foreground": "#63c88855",
-    "editorSuggestWidget.foreground": "#e6d4b2",
+    "editorSuggestWidget.foreground": "#63c888",
     "editorSuggestWidget.selectedBackground": "#63c88833",
-    "editorSuggestWidget.highlightForeground": "#63c888",
+    "editorSuggestWidget.highlightForeground": "#aaffc9",
+    "editorSuggestWidget.focusHighlightForeground": "#83ffb1",
+    "keybindingLabel.background": "#1c382e",
+    "keybindingLabel.foreground": "#63c888",
+    "keybindingLabel.border": "#3f785364",
+    "keybindingLabel.bottomBorder": "#22492f86",
     "minimap.findMatchHighlight": "#63c8882a",
     "minimap.selectionHighlight": "#63c88838",
     "merge.incomingHeaderBackground": "#da65214b",
@@ -159,7 +164,7 @@
     "menu.selectionBackground": "#63c88855",
     "menu.selectionForeground": "#e6d4b2",
     "menu.separatorBackground": "#63c88855",
-    "symbolIcon.variableForeground": "#6eb092",
+    "symbolIcon.variableForeground": "#76f3a4",
     "symbolIcon.fieldForeground": "#bb7b51",
     "symbolIcon.classForeground": "#f8af11",
     "symbolIcon.interfaceForeground": "#af7942",
@@ -167,7 +172,7 @@
     "symbolIcon.methodForeground": "#de773f",
     "symbolIcon.constructorForeground": "#b874c8",
     "list.focusBackground": "#63c88850",
-    "list.focusForeground": "#ffffff",
+    "list.focusForeground": "#a2ffc4",
     "list.activeSelectionBackground": "#63c88844",
     "list.activeSelectionForeground": "#ffffff",
     "list.inactiveSelectionBackground": "#e6d4b211",
@@ -177,7 +182,8 @@
     "list.invalidItemForeground": "#9d427c",
     "list.warningForeground": "#e69543",
     "list.dropBackground": "#63c88813",
-    "list.highlightForeground": "#63c888",
+    "list.highlightForeground": "#a7ffc7",
+    "list.focusHighlightForeground": "#7affb8",
     "listFilterWidget.background": "#033f2c",
     "listFilterWidget.noMatchesOutline": "#c35046",
     "listFilterWidget.outline": "#0b1a1a00",
@@ -186,7 +192,7 @@
     "gitDecoration.modifiedResourceForeground": "#6dffa3",
     "gitDecoration.deletedResourceForeground": "#af4544",
     "gitDecoration.conflictingResourceForeground": "#c254a1",
-    "gitDecoration.ignoredResourceForeground": "#394e47",
+    "gitDecoration.ignoredResourceForeground": "#4f6e63",
     "editorOverviewRuler.addedForeground": "#0b5c26",
     "editorOverviewRuler.modifiedForeground": "#79e9a2",
     "editorGutter.addedBackground": "#3d5c0b",
@@ -325,7 +331,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f28f68"
+        "foreground": "#d3967d"
       }
     },
     {
@@ -516,6 +522,15 @@
       ],
       "settings": {
         "foreground": "#5cde97"
+      }
+    },
+    {
+      "name": "keyword.control.flow.block-scalar.literal.yaml",
+      "scope": [
+        "keyword.control.flow.block-scalar.literal.yaml"
+      ],
+      "settings": {
+        "fontStyle": ""
       }
     },
     {
@@ -992,7 +1007,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#aeddb0"
+        "foreground": "#92c594"
       }
     },
     {
@@ -1042,7 +1057,7 @@
       ],
       "settings": {
         "fontStyle": "italic underline",
-        "foreground": "#61906a"
+        "foreground": "#6da37c"
       }
     },
     {
@@ -1308,7 +1323,7 @@
         "source.postcss support.type.property-name",
       ],
       "settings": {
-        "foreground": "#8fc09f"
+        "foreground": "#8db694"
       }
     },
     {

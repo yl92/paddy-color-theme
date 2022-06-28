@@ -1,3 +1,8 @@
+**`1.10.3` - 2022-06-28**
+
+- Keybinding label colors for some themes
+- Small tweaks here and there
+
 **`1.10.2` - 2022-06-19**
 
 - Minor Fixes

@@ -2,7 +2,7 @@
 	"name": "paddy-color-theme",
 	"displayName": "Paddy Color Theme",
 	"description": "A set of very detailed color themes with earthy tones for all ye badass hackers.",
-	"version": "1.10.2",
+	"version": "1.10.3",
 	"publisher": "yile-ou",
 	"author": {
 		"name": "Yile Ou",
@@ -13,13 +13,13 @@
 	"repository": "https://github.com/yl92/paddy-color-theme",
 	"icon": "paddy-icon.png",
 	"engines": {
-		"vscode": "^1.62.3"
+		"vscode": "^1.68.1"
 	},
 	"categories": [
 		"Themes"
 	],
 	"scripts": {
-		"package": "bash upright.bash && vsce package"
+		"package": "bash upright && vsce package"
 	},
 	"keywords": [
 		"color-theme",
