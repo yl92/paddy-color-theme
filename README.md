@@ -30,9 +30,9 @@
 
 **Free font recommendations**
 
-→ **IBM Plex Mono**: [[Official Site](https://www.ibm.com/plex/)] • [[Google Fonts](https://fonts.google.com/specimen/IBM+Plex+Mono)]
+→ **IBM Plex Mono**: [[Website](https://www.ibm.com/plex/)]
 
-→ **Iosevka**: [[Official Site](https://typeof.net/Iosevka/)]
+→ **Latin Modern Mono**: [[GUST.org.pl](https://www.gust.org.pl/projects/e-foundry/latin-modern)]
 
 → **Recursive**: [[recursive.design](https://www.recursive.design/)] 
 

@@ -1,3 +1,12 @@
+**`1.10.5` - 2022-08-26**
+
+- Fixed menu coloring for some themes
+- Including Latin Modern Mono in font recommendations
+
+**`1.10.4` - 2022-08-17**
+
+- Minor fixes
+
 **`1.10.3` - 2022-06-28**
 
 - Keybinding label colors for some themes
