@@ -166,7 +166,7 @@
     "menu.foreground": "#e3b19d",
     "menu.selectionBackground": "#f07f16",
     "menu.selectionForeground": "#331116",
-    "menu.separatorBackground": "#f0721e86",
+    "menu.separatorBackground": "#1dfcd728",
     "symbolIcon.variableForeground": "#03b698",
     "symbolIcon.fieldForeground": "#bb7b51",
     "symbolIcon.classForeground": "#f8af11",

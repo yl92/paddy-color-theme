@@ -161,6 +161,7 @@
     "pickerGroup.border": "#2c51e750",
     "menu.background": "#070c25",
     "menu.foreground": "#fdc0be",
+    "menu.border": "#2c51e750",
     "menu.selectionBackground": "#2c52e7",
     "menu.selectionForeground": "#ffe7e7",
     "menu.separatorBackground": "#2c51e7a8",
