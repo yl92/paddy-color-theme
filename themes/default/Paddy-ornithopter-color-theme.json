@@ -8,7 +8,7 @@
     "icon.foreground": "#eba74e",
     "editor.background": "#3d3028",
     "editor.foreground": "#f5dcbc",
-    "editorCursor.background": "#eba74e55",
+    "editorCursor.background": "#3d3028",
     "editorCursor.foreground": "#eba74e",
     "editor.selectionBackground": "#eba74e28",
     "editor.selectionHighlightBackground": "#eba74e4d",

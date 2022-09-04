@@ -1,3 +1,7 @@
+**`1.10.6` - 2022-09-05**
+
+- Fixing styling for block cursors
+
 **`1.10.5` - 2022-08-26**
 
 - Fixed menu coloring for some themes

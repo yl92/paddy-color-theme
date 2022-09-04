@@ -6,7 +6,7 @@
     "editorCodeLens.foreground": "#ddb177",
     "editor.background": "#111b22",
     "editor.foreground": "#f5d8c3",
-    "editorCursor.background": "#b4995d33",
+    "editorCursor.background": "#111b22",
     "editorCursor.foreground": "#b4995d",
     "editor.selectionBackground": "#f5d8c31f",
     "editor.inactiveSelectionBackground": "#af795225",
