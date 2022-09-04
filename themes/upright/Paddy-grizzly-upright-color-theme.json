@@ -10,7 +10,7 @@
     "editorRuler.foreground": "#e2ab8198",
     "editor.background": "#201612",
     "editor.foreground": "#f1bc94",
-    "editorCursor.background": "#ff902955",
+    "editorCursor.background": "#201612",
     "editorCursor.foreground": "#ff9029",
     "editor.selectionBackground": "#e780503d",
     "editor.selectionHighlightBackground": "#faa1654d",

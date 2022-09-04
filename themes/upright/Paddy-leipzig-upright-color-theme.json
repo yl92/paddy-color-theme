@@ -12,7 +12,7 @@
     "editorGroup.dropBackground": "#d6922c13",
     "editor.background": "#221b1d",
     "editor.foreground": "#e7c4a3",
-    "editorCursor.background": "#d6922c70",
+    "editorCursor.background": "#221b1d",
     "editorCursor.foreground": "#d6922c",
     "editor.selectionBackground": "#d6922c3a",
     "editor.selectionHighlightBackground": "#d6922c33",

@@ -1,4 +1,4 @@
-**`1.10.6` - 2022-09-05**
+**`1.10.7` - 2022-09-05**
 
 - Fixing styling for block cursors
 

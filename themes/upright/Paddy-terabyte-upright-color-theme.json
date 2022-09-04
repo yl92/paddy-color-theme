@@ -8,7 +8,7 @@
     "gitlens.trailingLineForegroundColor": "#38584d",
     "editor.background": "#0b1a1a",
     "editor.foreground": "#e6d4b2",
-    "editorCursor.background": "#63c8882d",
+    "editorCursor.background": "#0b1a1a",
     "editorCursor.foreground": "#63c888",
     "editor.selectionBackground": "#7a7f5a41",
     "editor.selectionHighlightBackground": "#63c88827",
