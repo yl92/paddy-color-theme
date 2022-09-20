@@ -170,7 +170,7 @@
     "symbolIcon.functionForeground": "#ed143d",
     "symbolIcon.methodForeground": "#ed143d",
     "symbolIcon.constructorForeground": "#ce63e9",
-    "pickerGroup.foreground": "#ed143d",
+    "pickerGroup.foreground": "#292929",
     "pickerGroup.border": "#3838382c",
     "list.focusBackground": "#ffc8c850",
     "list.focusForeground": "#313131",

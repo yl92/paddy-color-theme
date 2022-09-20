@@ -1,3 +1,7 @@
+**`1.10.8` - 2022-09-20**
+
+- Fixing styling for code action menus
+
 **`1.10.7` - 2022-09-05**
 
 - Fixing styling for block cursors

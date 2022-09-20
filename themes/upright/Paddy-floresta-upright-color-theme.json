@@ -158,7 +158,7 @@
     "settings.modifiedItemIndicator": "#148145",
     "settings.focusedRowBackground": "#d16aaa1f",
     "settings.focusedRowBorder": "#d16aaa10",
-    "pickerGroup.foreground": "#e6962f",
+    "pickerGroup.foreground": "#ffd4c7",
     "pickerGroup.border": "#ffd4c744",
     "debugIcon.breakpointForeground": "#ff3b2d",
     "editorLightBulb.foreground": "#ffbb00",

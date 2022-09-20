@@ -161,7 +161,7 @@
     "menu.background": "#23282a",
     "menu.foreground": "#f08564",
     "menu.border": "#5bcfb22f",
-    "menu.selectionBackground": "#3bab8823",
+    "menu.selectionBackground": "#f0856423",
     "menu.selectionForeground": "#f08564",
     "menu.separatorBackground": "#f085646c",
     "symbolIcon.variableForeground": "#0aa3a3",
@@ -273,7 +273,7 @@
         "meta.object-literal.key",
       ],
       "settings": {
-        "foreground": "#ca8f80"
+        "foreground": "#dfa292"
       }
     },
     {
