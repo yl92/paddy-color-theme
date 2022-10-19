@@ -2,16 +2,16 @@
 
 **A set of color themes with earthy tones for all ye badass hackers. 🍁**
 
-| Dark Themes                 | More Darks         | Lower Contrast  | Light Themes  |
-| --------------------------- | ------------------ | --------------- | ------------- |
-| 🪓`Dark`                     | 🌿 `Eucalyptus`     | 🌄 `Haze`        | 🌞 `Light`     |
-| 🌊 `Ultramarine`             | λ&nbsp;  `Citadel` | 🌥 `Mist`        | 🍵 `Genmaicha` |
-| 🚧 `Black`                   | 🔵 `Neptune`        | 🎮 `Yesterday`   | 🍷 `Crimson`   |
-| 🐺 `Wolf`                    | 🍆 `Eggplant`       | 🏜 `Ornithopter` | ❄️ `Frost`     |
-| 📟 `Terabyte` <sup>New</sup> | 🌲 `Emerald`        | 🤖 `Machine`     |               |
-| 🖋 `Inkstone`                | 🧧 `Ox`             |                 |               |
-| 🌸 `Floresta`                | 🐻 `Grizzly`        |                 |               |
-| 🎼 `Leipzig`                 |                    |                 |               |
+| Dark Themes     |                           | Lower Contrast  | Light Themes  |
+| --------------- | ------------------------- | --------------- | ------------- |
+| 🪓`Dark`         | 🌿 `Eucalyptus`            | 🌄 `Haze`        | 🌞 `Light`     |
+| 🌊 `Ultramarine` | λ&nbsp;  `Citadel`        | 🌥 `Mist`        | 🍵 `Genmaicha` |
+| 🚧 `Black`       | 🔵 `Neptune`               | 🎮 `Yesterday`   | 🍷 `Crimson`   |
+| 🐺 `Wolf`        | 🍆 `Eggplant`              | 🏜 `Ornithopter` | ❄️ `Frost`     |
+| 📟 `Terabyte`    | 🌲 `Emerald`               | 🤖 `Machine`     |               |
+| 🖋 `Inkstone`    | 🧧 `Ox`                    |                 |               |
+| 🌸 `Floresta`    | 🐻 `Grizzly`               |                 |               |
+| 🎼 `Leipzig`     | 🌌 `Zenith` <sup>New</sup> |                 |               |
 
 &NewLine;
 
