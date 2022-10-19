@@ -2,7 +2,7 @@
 	"name": "paddy-color-theme",
 	"displayName": "Paddy Color Theme",
 	"description": "A set of very detailed color themes with earthy tones for all ye badass hackers.",
-	"version": "1.10.8",
+	"version": "1.11.0",
 	"publisher": "yile-ou",
 	"author": {
 		"name": "Yile Ou",
@@ -192,6 +192,12 @@
 				"path": "./themes/default/Paddy-black-color-theme.json"
 			},
 			{
+				"id": "paddy-zenith",
+				"label": "P. \\ Zenith",
+				"uiTheme": "vs-dark",
+				"path": "./themes/default/Paddy-zenith-color-theme.json"
+			},
+			{
 				"id": "paddy-dark-upright",
 				"label": "P. Upright \\ Dark",
 				"uiTheme": "vs-dark",
@@ -334,6 +340,12 @@
 				"label": "P. Upright \\ Black",
 				"uiTheme": "vs-dark",
 				"path": "./themes/upright/Paddy-black-upright-color-theme.json"
+			},
+			{
+				"id": "paddy-zenith-upright",
+				"label": "P. Upright \\ Zenith",
+				"uiTheme": "vs-dark",
+				"path": "./themes/upright/Paddy-zenith-color-theme.json"
 			}
 		]
 	},

@@ -1,3 +1,7 @@
+**`1.11.0` - 2022-10-20**
+
+- New theme: Zenith
+
 **`1.10.8` - 2022-09-20**
 
 - Fixing styling for code action menus
