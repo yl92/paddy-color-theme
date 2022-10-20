@@ -38,9 +38,9 @@
     "activityBar.foreground": "#b886ff",
     "activityBar.border": "#c14fff31",
     "activityBar.inactiveForeground": "#b886ff54",
-    "activityBarBadge.background": "#2bd8c9",
+    "activityBarBadge.background": "#2baea3",
     "activityBarBadge.foreground": "#312f2e",
-    "badge.background": "#2bd8c9",
+    "badge.background": "#2baea3",
     "badge.foreground": "#110b09",
     "sideBar.background": "#140d1a",
     "sideBar.border": "#c14fff31",
@@ -57,7 +57,7 @@
     "statusBarItem.prominentBackground": "#b886ff",
     "statusBarItem.prominentForeground": "#140d1a",
     "statusBarItem.prominentHoverBackground": "#fc92d3",
-    "statusBarItem.remoteBackground": "#2bd8c9",
+    "statusBarItem.remoteBackground": "#2baea3",
     "statusBarItem.remoteForeground": "#140d1a",
     "panel.border": "#c14fff31",
     "panel.background": "#140d1a",
@@ -65,8 +65,8 @@
     "panelTitle.inactiveForeground": "#b886ff71",
     "terminal.background": "#140d1a",
     "terminal.foreground": "#b886ff",
-    "terminal.ansiBlack": "#3d3735",
-    "terminal.ansiBrightBlack": "#504d47",
+    "terminal.ansiBlack": "#331f38",
+    "terminal.ansiBrightBlack": "#483247",
     "terminal.ansiBlue": "#3465a5",
     "terminal.ansiBrightBlue": "#3191eb",
     "terminal.ansiCyan": "#0891a0",
@@ -120,8 +120,8 @@
     "textBlockQuote.background": "#e9d6c818",
     "textSeparator.foreground": "#dba37b55",
     "textBlockQuote.border": "#b886ff",
-    "editorWhitespace.foreground": "#25817519",
-    "editorIndentGuide.activeBackground": "#b886ff38",
+    "editorWhitespace.foreground": "#c14fff21",
+    "editorIndentGuide.activeBackground": "#c14fff45",
     "editor.lineHighlightBackground": "#b886ff1e",
     "editor.lineHighlightBorder": "#0000",
     "editorLineNumber.activeForeground": "#3782a8",
@@ -199,7 +199,7 @@
     "gitDecoration.conflictingResourceForeground": "#ff1100",
     "editorOverviewRuler.addedForeground": "#18a0556e",
     "editorOverviewRuler.modifiedForeground": "#2bd8c95d",
-    "editorGutter.addedBackground": "#18a0535e",
+    "editorGutter.addedBackground": "#2aa0185e",
     "editorGutter.modifiedBackground": "#2bd8c97a",
     "editorGutter.deletedBackground": "#9e58575e",
     "editorGutter.commentRangeForeground": "#866e5d5e",
@@ -226,7 +226,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#7159a4"
+        "foreground": "#5a3667"
       }
     },
     {
@@ -279,7 +279,7 @@
         "meta.object-literal.key",
       ],
       "settings": {
-        "foreground": "#ca8c59"
+        "foreground": "#bb748f"
       }
     },
     {
@@ -396,7 +396,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f16730"
+        "foreground": "#f9843b"
       }
     },
     {
@@ -480,7 +480,7 @@
         "meta.tag",
       ],
       "settings": {
-        "foreground": "#ac71ff"
+        "foreground": "#9b70d7"
       }
     },
     {
@@ -507,7 +507,7 @@
         "keyword.control.switch",
       ],
       "settings": {
-        "foreground": "#ad66ad"
+        "foreground": "#cb47cb"
       }
     },
     {
@@ -555,7 +555,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#09a048"
+        "foreground": "#388067"
       }
     },
     {
@@ -589,7 +589,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#10ab9e"
+        "foreground": "#10ab82"
       }
     },
     {
@@ -680,7 +680,7 @@
         "constant.language.undefined",
       ],
       "settings": {
-        "foreground": "#878f8c"
+        "foreground": "#7d9094"
       }
     },
     {
@@ -1000,7 +1000,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#7ac3cb"
+        "foreground": "#8ab2b6"
       }
     },
     {
@@ -1455,7 +1455,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#bba38f"
+        "foreground": "#bb8f9a"
       }
     },
     {
@@ -1614,7 +1614,7 @@
         "source.sass keyword.control punctuation.definition.keyword.scss"
       ],
       "settings": {
-        "foreground": "#00a043"
+        "foreground": "#30876a"
       }
     },
     {
