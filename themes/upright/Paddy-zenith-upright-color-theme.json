@@ -20,7 +20,7 @@
     "editor.findMatchHighlightBackground": "#ce0d9e33",
     "editor.findMatchHighlightBorder": "#d857ad33",
     "editorError.foreground": "#c71726",
-    "editorWarning.foreground": "#e98842",
+    "editorWarning.foreground": "#df8240",
     "editorInfo.foreground": "#73b4ac",
     "editorHint.foreground": "#34a125",
     "titleBar.activeBackground": "#140d1a",
@@ -186,7 +186,7 @@
     "list.hoverBackground": "#b875ff12",
     "list.errorForeground": "#f15c48",
     "list.invalidItemForeground": "#ce6401",
-    "list.warningForeground": "#ffb516",
+    "list.warningForeground": "#deb867",
     "list.dropBackground": "#A478D613",
     "list.highlightForeground": "#f461ff",
     "listFilterWidget.background": "#8b4319",
@@ -279,7 +279,7 @@
         "meta.object-literal.key",
       ],
       "settings": {
-        "foreground": "#bb748f"
+        "foreground": "#c6879f"
       }
     },
     {
@@ -708,7 +708,7 @@
         "constant.language.boolean.false",
       ],
       "settings": {
-        "foreground": "#be7598"
+        "foreground": "#da5796"
       }
     },
     {
@@ -1181,7 +1181,7 @@
       ],
       "settings": {
         "fontStyle": "bold underline",
-        "foreground": "#e6b120"
+        "foreground": "#d09e52"
       }
     },
     {
@@ -1236,7 +1236,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#9b7d57"
+        "foreground": "#b47b6b"
       }
     },
     {
@@ -1247,7 +1247,7 @@
       ],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#d46536"
+        "foreground": "#b56c4d"
       }
     },
     {
@@ -1292,7 +1292,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#e99b0a"
+        "foreground": "#d8a342"
       }
     },
     {
@@ -1316,7 +1316,7 @@
         "source.postcss support.type.property-name",
       ],
       "settings": {
-        "foreground": "#8cb398"
+        "foreground": "#8cb3a5"
       }
     },
     {
@@ -1368,7 +1368,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#992219"
+        "foreground": "#c4382e"
       }
     },
     {
@@ -1474,7 +1474,7 @@
         "entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#d4864d"
+        "foreground": "#de8a6e"
       }
     },
     {
@@ -1551,7 +1551,7 @@
         "entity.other.attribute-name.class"
       ],
       "settings": {
-        "foreground": "#ff754b"
+        "foreground": "#e37f61"
       }
     },
     {
