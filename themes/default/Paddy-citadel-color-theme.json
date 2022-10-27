@@ -87,6 +87,8 @@
     "selection.background": "#4bccb742",
     "button.background": "#eb853d",
     "button.foreground": "#362222",
+    "button.secondaryBackground": "#0e535f",
+    "button.secondaryForeground": "#1dfcd7",
     "checkbox.background": "#092630",
     "checkbox.border": "#1dfcd728",
     "dropdown.background": "#092630",

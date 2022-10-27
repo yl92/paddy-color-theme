@@ -89,6 +89,8 @@
     "selection.background": "#b886ff42",
     "button.background": "#b886ff",
     "button.foreground": "#362222",
+    "button.secondaryBackground": "#5a2c9b",
+    "button.secondaryForeground": "#b886ff",
     "checkbox.background": "#140d1a",
     "checkbox.border": "#c14fff31",
     "dropdown.background": "#140d1a",
@@ -1858,7 +1860,7 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#dfb996"
+        "foreground": "#dfa896"
       }
     },
     {
