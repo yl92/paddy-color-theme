@@ -1,3 +1,7 @@
+**`1.11.5` - 2023-03-03**
+
+- Minor tweaks to Zenith
+
 **`1.11.4` - 2022-10-27**
 
 - Some updates for secondary buttons
