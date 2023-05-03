@@ -24,6 +24,8 @@
 
 → [[PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)] 
 
+→ [[MD IO](https://www.futurefonts.xyz/mass-driver/io)] 
+
 → [[The Future Mono](https://klim.co.nz/retail-fonts/the-future-mono/)] 
 
 ---
