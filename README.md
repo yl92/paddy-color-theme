@@ -15,18 +15,17 @@
 
 &NewLine;
 
-> The themes italicize action-like tokens such as functions and control keywords, as well as type annotations. 
-> For each theme there is an accompanying "Upright" version without italics.
+> The themes italicize action-like tokens such as functions and control keywords, as well as type annotations. For each theme there is an accompanying "Upright" version without italics.
 
 ---
 
 **Paid font recommendations (Not affiliated)**
 
-→ [[PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)] 
+→ [[PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)]
 
-→ [[MD IO](https://www.futurefonts.xyz/mass-driver/io)] 
+→ [[MD IO](https://www.futurefonts.xyz/mass-driver/io)]
 
-→ [[The Future Mono](https://klim.co.nz/retail-fonts/the-future-mono/)] 
+→ [[The Future Mono](https://klim.co.nz/retail-fonts/the-future-mono/)]
 
 ---
 
@@ -34,20 +33,17 @@
 
 → **IBM Plex Mono**: [[Website](https://www.ibm.com/plex/)]
 
-→ **Latin Modern Mono**: [[GUST.org.pl](https://www.gust.org.pl/projects/e-foundry/latin-modern)]
-
-→ **Recursive**: [[recursive.design](https://www.recursive.design/)] 
+→ **Intel One Mono**: [[GitHub repository](https://github.com/intel/intel-one-mono)]
 
 → **SF Mono** [[developer.apple.com](https://developer.apple.com/fonts/)]
 
 → **JetBrains Mono** [[jetbrains.com](https://www.jetbrains.com/lp/mono/)]
 
+→ **Recursive**: [[recursive.design](https://www.recursive.design/)]
+
+→ **Latin Modern Mono**: [[GUST.org.pl](https://www.gust.org.pl/projects/e-foundry/latin-modern)]
+
 ---
 
 
-**Author**
-
-Yile Ou
-
-→ [Website](https://yile.art/)<br />
-→ [Twitter](https://twitter.com/yile_art)
+**Author**: [Yile Ou](https://yile.art/)

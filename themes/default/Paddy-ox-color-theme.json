@@ -90,7 +90,7 @@
     "selection.background": "#86434399",
     "button.background": "#ff6550",
     "button.foreground": "#362222",
-    "button.secondaryBackground": "#72180d",
+    "button.secondaryBackground": "#3f1219",
     "button.secondaryForeground": "#ff6550",
     "checkbox.background": "#1f0c0f",
     "checkbox.foreground": "#ff6550",
@@ -1165,7 +1165,6 @@
         "punctuation.definition.binding-pattern.array",
       ],
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#36ad54"
       }
     },

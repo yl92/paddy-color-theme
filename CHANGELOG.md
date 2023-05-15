@@ -1,3 +1,13 @@
+**`1.11.7` - 2023-05-16**
+
+- Twitter handle removal from readme
+
+**`1.11.6` - 2023-05-16**
+
+- Removing bold style of destructing brackets
+- Ox: secondary button background color tweak
+- Font recommendations update
+
 **`1.11.5` - 2023-03-03**
 
 - Minor tweaks to Zenith

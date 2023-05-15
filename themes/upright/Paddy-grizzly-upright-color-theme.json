@@ -1156,7 +1156,6 @@
         "punctuation.definition.binding-pattern.array",
       ],
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#36ad54"
       }
     },
@@ -1166,7 +1165,6 @@
         "punctuation.definition.binding-pattern.object",
       ],
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#c2723e"
       }
     },
