@@ -1,3 +1,8 @@
+**`1.11.8` - 2023-12-25**
+
+- Peek View color updates, fixes overly bright sidebar and added support for sticky scroll
+- Wolf theme update
+
 **`1.11.7` - 2023-05-16**
 
 - Twitter handle removal from readme

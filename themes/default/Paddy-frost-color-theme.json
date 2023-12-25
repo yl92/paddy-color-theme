@@ -143,6 +143,8 @@
     "peekViewTitle.background": "#31928522",
     "peekViewTitleLabel.foreground": "#0c2c24",
     "peekViewEditor.background": "#95cfbe25",
+    "peekViewEditorStickyScroll.background": "#f7fefb",
+    "editorStickyScrollHover.background": "#ecf7f2",
     "peekViewEditor.matchHighlightBackground": "#ff6d0b44",
     "peekViewResult.selectionBackground": "#098a3a",
     "peekViewResult.selectionForeground": "#ffffff",

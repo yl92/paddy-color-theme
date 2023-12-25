@@ -142,6 +142,8 @@
     "progressBar.background": "#276950",
     "peekView.border": "#f0b954",
     "peekViewTitle.background": "#f5d394",
+    "peekViewEditorStickyScroll.background": "#f3cb81",
+    "editorStickyScrollHover.background": "#fad389",
     "peekViewTitleDescription.foreground": "#ad7444",
     "peekViewTitleLabel.foreground": "#232729",
     "peekViewEditor.background": "#facc7667",
