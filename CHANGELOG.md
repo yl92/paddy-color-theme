@@ -1,3 +1,8 @@
+**`1.11.9` - 2024-02-18**
+
+- Ox theme: cursor color changed from red to warm white to avoid confusing the current line in the minimap as an highlighted error line
+- Renaming to “Paddy Color Themes” to reflect that it’s a set of themes and not just one
+  
 **`1.11.8` - 2023-12-25**
 
 - Peek View color updates, fixes overly bright sidebar and added support for sticky scroll
