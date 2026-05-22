@@ -1,0 +1,68 @@
+{
+  "classic": {
+    "dark": [
+      "black",
+      "citadel",
+      "dark",
+      "eggplant",
+      "emerald",
+      "eucalyptus",
+      "floresta",
+      "grizzly",
+      "haze",
+      "inkstone",
+      "leipzig",
+      "machine",
+      "mist",
+      "neptune",
+      "ornithopter",
+      "ox",
+      "terabyte",
+      "ultramarine",
+      "wolf",
+      "yesterday",
+      "zenith"
+    ],
+    "light": [
+      "crimson",
+      "frost",
+      "genmaicha",
+      "light"
+    ]
+  },
+  "procedural": {
+    "mustard": {
+      "foundation": "zenith",
+      "bg": "#311809",
+      "fg": "#ffc24b",
+      "accent1": "#fc9d1e",
+      "accent2": "#ba6f00",
+      "tint": "#af6401",
+      "overrides": {},
+      "tintStrength": 0.28,
+      "chroma": 1.8,
+      "monotone": 1,
+      "borderContrast": 0.22,
+      "midtone": "#74593d",
+      "commentContrast": 0.54,
+      "lightness": 0.14,
+      "accent3": "#f3a94d"
+    },
+    "plastic": {
+      "foundation": "light",
+      "bg": "#c9cdd1",
+      "fg": "#042b1d",
+      "accent1": "#004177",
+      "accent2": null,
+      "tint": null,
+      "overrides": {},
+      "chroma": 1.25,
+      "monotone": 0,
+      "borderContrast": 0.21,
+      "tintStrength": 0.16,
+      "commentContrast": 0.51,
+      "lightness": 0.39,
+      "accent3": "#18705f"
+    }
+  }
+}

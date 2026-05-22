@@ -1,0 +1,110 @@
+/* Sample CSS — exercises selectors, custom properties, at-rules, and functions. */
+
+@charset "utf-8";
+@import url("./reset.css") layer(reset);
+
+:root {
+  --bg: #111212;
+  --fg: #dfc6ba;
+  --accent: #32bb70;
+  --radius: 4px;
+  --gap: clamp(0.5rem, 1vw + 0.25rem, 1.25rem);
+  --font-mono: ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f3e7e2;
+    --fg: #423926;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: system-ui, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* attribute, child, sibling, and pseudo-class selectors */
+a[href^="https://"]::after {
+  content: " ↗";
+  color: var(--accent);
+}
+
+.btn,
+button[type="submit"] {
+  --btn-bg: color-mix(in oklch, var(--accent) 80%, white);
+  padding: 0.5em 1em;
+  border: 1px solid currentColor;
+  border-radius: var(--radius);
+  background: var(--btn-bg);
+  color: var(--bg);
+  font-weight: 600;
+  transition: transform 0.15s ease, background 0.2s;
+
+  &:hover,
+  &:focus-visible {
+    background: oklch(0.72 0.18 145);
+    transform: translateY(-1px);
+  }
+
+  &:active { transform: translateY(0); }
+  &:disabled { opacity: 0.5; cursor: not-allowed; }
+}
+
+ul > li:nth-child(2n+1) {
+  background: rgba(255 255 255 / 0.04);
+}
+
+.card:not(.featured) {
+  filter: grayscale(0.4);
+}
+
+@supports (display: grid) {
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: var(--gap);
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.entering {
+  animation: fadeIn 250ms ease-out both;
+}
+
+@container (min-width: 480px) {
+  .panel {
+    padding-inline: 2rem;
+  }
+}
+
+/* Container query + logical properties */
+.toast {
+  background: hsl(45deg 90% 60% / 0.92);
+  inset-inline: 1rem;
+  inset-block-start: 1rem;
+}
+
+@layer base {
+  h1, h2, h3 { font-family: var(--font-mono); }
+}
+
+/* multi-line / nested comment-like construct */
+/*
+  Multi-line
+  comment block
+  with code-ish content: a + b = c
+*/

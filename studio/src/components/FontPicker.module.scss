@@ -1,0 +1,10 @@
+.picker {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+
+  select {
+    min-width: 160px;
+  }
+}

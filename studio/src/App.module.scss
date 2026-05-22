@@ -1,0 +1,66 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 10px 16px;
+  border-bottom: 1px solid $border;
+  background: $panel;
+
+  h1 {
+    margin: 0;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0;
+    color: $accent;
+  }
+}
+
+.status {
+  margin-left: auto;
+  font-size: 11px;
+  color: $muted;
+}
+
+.body {
+  flex: 1;
+  display: flex;
+  min-height: 0;
+}
+
+.variants {
+  width: 200px;
+  border-right: 1px solid $border;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+.editor {
+  width: 280px;
+  border-right: 1px solid $border;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+.placeholder {
+  padding: 24px;
+  color: $muted;
+  font-style: italic;
+  text-align: center;
+}
+
+.main {
+  flex: 1;
+  overflow: hidden;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}

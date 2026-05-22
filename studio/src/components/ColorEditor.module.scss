@@ -1,0 +1,110 @@
+.editor {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  flex: 1;
+}
+
+.toolbar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px;
+  border-bottom: 1px solid $border;
+}
+
+.filter {
+  flex: 1;
+}
+
+.count {
+  font-size: 11px;
+  color: $muted;
+}
+
+.list {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.row {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 8px;
+  border-bottom: 1px solid $border-soft;
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.02);
+  }
+}
+
+.swatch {
+  width: 28px;
+  height: 28px;
+  border: 1px solid $border;
+  border-radius: 3px;
+  flex-shrink: 0;
+  cursor: pointer;
+  padding: 0;
+  // checkered pattern shows through alpha
+  background-image:
+    linear-gradient(45deg, #555 25%, transparent 25%),
+    linear-gradient(-45deg, #555 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, #555 75%),
+    linear-gradient(-45deg, transparent 75%, #555 75%);
+  background-size: 8px 8px;
+  background-position: 0 0, 0 4px, 4px -4px, -4px 0;
+}
+
+.fields {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.key {
+  font-size: 11px;
+  color: $muted;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.hexRow {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+
+.hex {
+  flex: 1;
+  font-size: 12px;
+  min-width: 0;
+}
+
+.picker {
+  position: absolute;
+  top: 100%;
+  left: 8px;
+  z-index: 10;
+  background: $panel;
+  padding: 8px;
+  border: 1px solid $border;
+  border-radius: 0;
+}
+
+.closePicker {
+  font-size: 11px;
+  padding: 4px 8px;
+}
+
+.empty {
+  padding: 24px;
+  color: $muted;
+  font-style: italic;
+  text-align: center;
+}

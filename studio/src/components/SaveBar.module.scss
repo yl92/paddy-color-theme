@@ -1,0 +1,39 @@
+.bar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 16px;
+  border-top: 1px solid $border;
+  background: $panel;
+}
+
+.filename {
+  font-size: 11px;
+  color: $text;
+}
+
+.indicator {
+  font-size: 11px;
+  color: $muted;
+  margin-right: auto;
+
+  &.dirty {
+    color: $accent;
+  }
+}
+
+.toggle {
+  font-size: 11px;
+  padding: 4px 10px;
+
+  &.active {
+    background: $accent;
+    color: $accent-fg;
+    border-color: $accent;
+  }
+}
+
+.discard {
+  font-size: 11px;
+  padding: 4px 10px;
+}

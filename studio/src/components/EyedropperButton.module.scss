@@ -1,0 +1,15 @@
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px 4px;
+  line-height: 1;
+  color: $muted;
+  background: transparent;
+  border: none;
+
+  &:hover {
+    background: transparent;
+    color: $text;
+  }
+}

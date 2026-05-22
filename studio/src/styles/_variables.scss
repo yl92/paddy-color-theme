@@ -1,0 +1,12 @@
+// SCSS aliases for the CSS custom properties defined in global.scss.
+// The actual values come from :root and can be swapped at runtime by
+// pushing colors from the currently-edited theme.
+$bg: var(--studio-bg);
+$panel: var(--studio-panel);
+$panel-hover: var(--studio-panel-hover);
+$border: var(--studio-border);
+$border-soft: var(--studio-border-soft);
+$text: var(--studio-text);
+$muted: var(--studio-muted);
+$accent: var(--studio-accent);
+$accent-fg: var(--studio-accent-fg);

@@ -1,0 +1,111 @@
+:root {
+  --font-mono: 'Commit Mono', ui-monospace, monospace;
+
+  // Default (neutral) chrome — overridden at runtime from the selected theme.
+  --studio-bg: #1a1a1a;
+  --studio-panel: #222222;
+  --studio-panel-hover: #2a2a2a;
+  --studio-border: #333333;
+  --studio-border-soft: rgba(255, 255, 255, 0.06);
+  --studio-text: #e5e5e5;
+  --studio-muted: #888888;
+  --studio-accent: #c7e9cc;
+  --studio-accent-fg: #1a1a1a;
+  --studio-selection: rgba(199, 233, 204, 0.25);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  height: 100%;
+  font-family: var(--font-mono);
+  font-feature-settings: 'liga' 0, 'calt' 0;
+  background: $bg;
+  color: $text;
+  font-size: 13px;
+  overscroll-behavior: none;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: $panel;
+  border: 1px solid $accent;
+  padding: 6px 12px;
+  cursor: pointer;
+  border-radius: 3px;
+
+  &:hover {
+    background: $panel-hover;
+  }
+
+  &:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+}
+
+input:not([type='range']),
+select {
+  font: inherit;
+  color: inherit;
+  background: $panel;
+  border: 1px solid $border;
+  padding: 5px 8px;
+  border-radius: 3px;
+
+  &:focus {
+    outline: 1px solid $accent;
+    outline-offset: -1px;
+  }
+
+  &::placeholder {
+    color: color-mix(in oklch, var(--studio-text) 40%, transparent);
+  }
+}
+
+::selection {
+  background: var(--studio-selection);
+}
+
+// react-colorful overrides: square + minimal to match the rest of the UI.
+.react-colorful {
+  border-radius: 0;
+  width: 200px;
+  height: auto;
+
+  &__saturation,
+  &__hue,
+  &__alpha,
+  &__last-control {
+    border-radius: 0;
+  }
+
+  &__saturation {
+    height: 160px;
+    border-bottom: 1px solid $border;
+  }
+
+  &__hue,
+  &__alpha {
+    height: 12px;
+  }
+
+  &__pointer {
+    width: 10px;
+    height: 10px;
+    border-radius: 0;
+    border: 1px solid #fff;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.7);
+  }
+
+  &__saturation .react-colorful__pointer {
+    width: 12px;
+    height: 12px;
+  }
+}

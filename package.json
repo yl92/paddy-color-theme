@@ -19,6 +19,9 @@
 		"Themes"
 	],
 	"scripts": {
+		"dev": "cd studio && yarn dev",
+		"studio:install": "cd studio && yarn install",
+		"studio:build": "cd studio && yarn build",
 		"package": "bash upright && vsce package"
 	},
 	"keywords": [

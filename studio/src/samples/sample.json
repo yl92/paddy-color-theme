@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "version": "1.11.9",
+    "createdAt": "2026-05-22T18:00:00Z",
+    "active": true,
+    "draft": false,
+    "deletedAt": null
+  },
+  "numbers": {
+    "integer": 42,
+    "negative": -17,
+    "zero": 0,
+    "float": 3.14159,
+    "exponent": 6.022e23,
+    "negativeExponent": -1.5e-10,
+    "large": 9007199254740991
+  },
+  "strings": {
+    "plain": "hello world",
+    "withQuotes": "She said \"hi\".",
+    "backslash": "C:\\Users\\paddy",
+    "newline": "line one\nline two",
+    "tab": "col1\tcol2",
+    "unicode": "café ☃ éclair",
+    "empty": ""
+  },
+  "arrays": {
+    "empty": [],
+    "mixed": [1, "two", 3.0, true, null, [9, 8, 7]],
+    "objectsOfArrays": [
+      { "name": "alpha", "values": [1, 2, 3] },
+      { "name": "beta",  "values": [4, 5, 6] },
+      { "name": "gamma", "values": [7, 8, 9] }
+    ]
+  },
+  "nested": {
+    "level1": {
+      "level2": {
+        "level3": {
+          "deepValue": "leaf",
+          "list": [
+            { "k": "v1" },
+            { "k": "v2" }
+          ]
+        }
+      }
+    }
+  },
+  "boolean": true,
+  "nullExample": null
+}

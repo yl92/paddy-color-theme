@@ -1,0 +1,95 @@
+# Demo YAML — exercises a wide range of syntax for theme testing.
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: paddy-studio
+  namespace: tools
+  labels:
+    app: paddy-studio
+    tier: frontend
+    env: production
+  annotations:
+    deploy.example.com/version: "1.11.9"
+    deploy.example.com/owner: yile-ou
+spec:
+  replicas: 3
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+  selector:
+    matchLabels:
+      app: paddy-studio
+  template:
+    metadata:
+      labels:
+        app: paddy-studio
+    spec:
+      containers:
+        - name: app
+          image: paddy/studio:1.11.9
+          imagePullPolicy: IfNotPresent
+          ports:
+            - name: http
+              containerPort: 5180
+              protocol: TCP
+          env:
+            - name: NODE_ENV
+              value: production
+            - name: LOG_LEVEL
+              value: info
+            - name: API_TOKEN
+              valueFrom:
+                secretKeyRef:
+                  name: paddy-secrets
+                  key: api-token
+          resources:
+            requests:
+              cpu: 100m
+              memory: 128Mi
+            limits:
+              cpu: 500m
+              memory: 512Mi
+          readinessProbe:
+            httpGet:
+              path: /healthz
+              port: http
+            initialDelaySeconds: 5
+            periodSeconds: 10
+          livenessProbe:
+            httpGet:
+              path: /alive
+              port: http
+            failureThreshold: 3
+      volumes:
+        - name: cache
+          emptyDir: {}
+        - name: config
+          configMap:
+            name: paddy-config
+            items:
+              - key: settings.yaml
+                path: settings.yaml
+
+# Anchors & aliases
+defaults: &defaults
+  retries: 3
+  timeout: 30s
+
+jobs:
+  ingest:
+    <<: *defaults
+    schedule: "*/15 * * * *"
+  archive:
+    <<: *defaults
+    schedule: "0 2 * * *"
+
+# A multiline string
+welcome: |
+  Welcome to the studio.
+  Tweak themes — share themes.
+  Have fun.
+
+tags: [warm, earthy, retro]

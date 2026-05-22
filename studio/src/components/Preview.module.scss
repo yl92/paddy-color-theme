@@ -1,0 +1,58 @@
+.preview {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+}
+
+.grid {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 8px;
+  min-height: 0;
+  min-width: 0;
+}
+
+.panel {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  min-width: 0;
+  border: 1px solid $border;
+}
+
+.panelHeader {
+  display: flex;
+  align-items: center;
+  padding: 4px 6px;
+  background: $panel;
+  border-bottom: 1px solid $border;
+}
+
+.langSelect {
+  font-size: 11px;
+  padding: 2px 6px;
+}
+
+.canvas {
+  flex: 1;
+  overflow: auto;
+  min-height: 0;
+}
+
+.code {
+  padding: 12px;
+  font-size: 12px;
+  line-height: 1.5;
+
+  :global(pre) {
+    margin: 0;
+    background: transparent !important;
+  }
+
+  :global(code) {
+    font-family: var(--font-mono);
+  }
+}

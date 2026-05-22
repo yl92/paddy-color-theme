@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sample HTML &mdash; Theme Demo</title>
+    <link rel="stylesheet" href="./style.css" />
+    <style>
+      body { font-family: sans-serif; }
+      .highlight { color: hotpink; }
+    </style>
+    <script type="module" src="./main.js" defer></script>
+  </head>
+  <body>
+    <!-- Top navigation -->
+    <header class="site-header" role="banner">
+      <h1 id="site-title">Paddy &amp; Co.</h1>
+      <nav aria-label="Primary">
+        <ul>
+          <li><a href="/" rel="home">Home</a></li>
+          <li><a href="/about" data-track="nav-about">About</a></li>
+          <li><a href="https://example.com">External</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main id="main">
+      <article>
+        <h2>Hello, <span class="highlight">world</span>!</h2>
+        <p>
+          This is a paragraph with <strong>bold</strong>, <em>italic</em>,
+          and <code>inline code</code>. Visit
+          <a href="mailto:hi@example.com">hi@example.com</a> for more.
+        </p>
+
+        <figure>
+          <img src="./paddy.png" alt="Paddy icon" width="64" height="64" />
+          <figcaption>Figure 1: a friendly avatar.</figcaption>
+        </figure>
+
+        <form action="/submit" method="post" autocomplete="off">
+          <label for="name">Name</label>
+          <input type="text" id="name" name="name" required minlength="2" />
+
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" placeholder="you@x.com" />
+
+          <fieldset>
+            <legend>Pick a variant</legend>
+            <label><input type="radio" name="v" value="dark" checked /> Dark</label>
+            <label><input type="radio" name="v" value="light" /> Light</label>
+          </fieldset>
+
+          <button type="submit" disabled>Send</button>
+        </form>
+
+        <table>
+          <caption>Counts</caption>
+          <thead>
+            <tr><th scope="col">Name</th><th scope="col">Score</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Alice</td><td>42</td></tr>
+            <tr><td>Bob</td><td>17</td></tr>
+          </tbody>
+        </table>
+      </article>
+    </main>
+
+    <footer>
+      <p>&copy; 2026 Paddy &middot; <a href="#top">back to top</a></p>
+    </footer>
+  </body>
+</html>
